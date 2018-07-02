@@ -1,6 +1,6 @@
 <template>
   <div class="dashboard" :style="gridTemplate">
-    <Test position="a1:b2" testTitle="hello"></Test>
+    <Map position="a1:b2" testTitle="hello"></Map>
     <Test position="c1:d1" testTitle="hello"></Test>
     <!-- <Test position="a2" testTitle="world"></Test>
     <Test position="b2" testTitle="stonkin A"></Test> -->
@@ -17,9 +17,11 @@
 
 <script>
 import Test from './Test';
+import Map from './Map';
 
 export default {
   components: {
+      Map,
       Test,
   },
 

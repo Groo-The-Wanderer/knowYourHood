@@ -1,7 +1,7 @@
 <template>
   <tile :position="position" modifiers="overflow">
     <section>
-      <p>This is Test</p>
+      <h1>This is Test</h1>
         <p>I'm the testTitle prop [{{ testTitle }}]</p>
     </section>
   </tile>

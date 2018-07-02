@@ -4,7 +4,7 @@ import Vue from 'vue/dist/vue.esm';
 // import router from './routes.js';
 // import App from '../App';
 import Dashboard from '../components/Dashboard';
-import '../styles/styles.css';
+import '../styles/styles.scss';
 
 // import './filters/strings.js';
 

@@ -1,5 +1,5 @@
-@import './settings.css';
-@import './helpers.css';
+@import './settings.scss';
+@import './helpers.scss';
 
 * {
   position: relative;
@@ -73,7 +73,7 @@ li {
   text-shadow: 1px 1px 1px var(--tile-background-color);
 
   h1 {
-      color: var(--gray-light);
+      color: var(--gray-darkest);
   }
 }
 
