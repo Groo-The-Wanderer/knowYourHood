@@ -1,5 +1,5 @@
-@import './settings.scss';
-@import './helpers.scss';
+@import './settings.css';
+@import './helpers.css';
 
 * {
   position: relative;
@@ -71,10 +71,10 @@ li {
   background-color: var(--tile-background-color);
   color: white;
   text-shadow: 1px 1px 1px var(--tile-background-color);
+}
 
-  h1 {
-      color: var(--gray-darkest);
-  }
+.tile h1 {
+  color: var(--gray-darkest);
 }
 
 .tile--overflow:after {
@@ -118,10 +118,10 @@ li {
   --tile-background-color: var(--yellow);
 
   color: black;
+}
 
-  h1 {
-      color: inherit;
-  }
+.tile--yellow h1 {
+  color: inherit;
 }
 
 .tile > * {
