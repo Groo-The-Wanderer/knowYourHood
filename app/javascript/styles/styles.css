@@ -1,0 +1,129 @@
+@import './settings.css';
+@import './helpers.css';
+
+* {
+  position: relative;
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+  color: inherit;
+  font-weight: inherit;
+  font-size: inherit;
+  font-family: inherit;
+  line-height: inherit;
+}
+
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-sizing: border-box;
+  font-weight: var(--font-weight);
+  font-style: normal;
+  font-size: var(--font-size-base);
+  font-family: var(--font-family);
+}
+
+ul {
+  list-style: none;
+}
+
+h1 {
+  margin-bottom: 0.5em;
+  text-transform: uppercase;
+  font-weight: var(--font-weight-light);
+  font-size: var(--font-size-m);
+}
+
+h2 {
+  font-weight: var(--font-weight-black);
+}
+
+li {
+  padding: 0.35vh 0;
+  border-bottom: solid 2px rgba(255, 255, 255, 0.2);
+}
+
+.dashboard {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: grid;
+  padding: var(--grid-gap);
+  width: 100%;
+  height: 100%;
+  background-color: var(--dashboard-background-color);
+  color: var(--color);
+  grid-gap: var(--grid-gap);
+}
+
+.tile {
+  overflow: hidden;
+  padding: var(--grid-padding);
+  border-radius: 0.25vw;
+  background-color: var(--tile-background-color);
+  color: white;
+  text-shadow: 1px 1px 1px var(--tile-background-color);
+
+  h1 {
+      color: var(--gray-light);
+  }
+}
+
+.tile--overflow:after {
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  z-index: 100;
+  width: 100%;
+  height: 1px;
+  box-shadow: 0 0 0.5em 0.5em var(--tile-background-color);
+  content: '';
+}
+
+.tile--above {
+  z-index: 500;
+}
+
+.tile--blue {
+  --tile-background-color: var(--blue-darker);
+}
+
+.tile--green {
+  --tile-background-color: var(--green-darker);
+}
+
+.tile--orange {
+  --tile-background-color: var(--orange);
+}
+
+.tile--red {
+  --tile-background-color: var(--red);
+}
+
+.tile--transparent {
+  --tile-background-color: var(--dashboard-background-color);
+
+  border: solid 1px var(--tile-background-color);
+}
+
+.tile--yellow {
+  --tile-background-color: var(--yellow);
+
+  color: black;
+
+  h1 {
+      color: inherit;
+  }
+}
+
+.tile > * {
+  height: 100%;
+}
