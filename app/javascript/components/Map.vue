@@ -119,7 +119,7 @@ export default {
           map.getSource('searched-point').setData( result.geometry );
         }
 
-        const mbGeocodeURL = 'https://api.mapbox.com/geocoding/v5/mapbox.places';
+        const mbGeocodeURL = config.mapboxGeocodeURL;
         axios.get(`${mbGeocodeURL}/${lng},${lat}.json?&access_token=${config.mapboxToken}&country=AU&types=locality`)
         .then(resp => {
           if( resp.data.features.length > 0 ){
@@ -148,6 +148,9 @@ export default {
             })
           }
 
+          // Get map bounds of visible map to restrict any future queries
+          const mapBounds = map.getBounds();
+
           // Set a marker on the center of the hood
           centerMarker.setLngLat( hoodCenter ).addTo( map );
 
@@ -162,8 +165,10 @@ export default {
             hood: hood,
             hoodCenter: hoodCenter,
             hoodLng: hoodLng,
-            hootLat: hoodLat
+            hootLat: hoodLat,
+            mapBounds: mapBounds
           }
+
           // send location object to parent
           this.$emit('mapLocationSet', locationObj);
         });

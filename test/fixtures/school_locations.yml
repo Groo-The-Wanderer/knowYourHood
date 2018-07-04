@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  school_id: 1
+  name: MyString
+  suburb: MyString
+  state: MyString
+  postcode: 1
+  sector: MyString
+  type: 
+  lat: 1.5
+  lng: 1.5
+
+two:
+  school_id: 1
+  name: MyString
+  suburb: MyString
+  state: MyString
+  postcode: 1
+  sector: MyString
+  type: 
+  lat: 1.5
+  lng: 1.5

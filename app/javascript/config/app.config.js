@@ -5,5 +5,6 @@ export default {
   },
   hoodCenterMarkerColor: '#44c54c',
   searchedMarkerColor: '#007cbf',
-  localDataURL: 'http://localhost:3000'
+  localDataURL: 'http://localhost:3000',
+  mapboxGeocodeURL: 'https://api.mapbox.com/geocoding/v5/mapbox.places'
 }

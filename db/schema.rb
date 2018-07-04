@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_07_03_101504) do
+ActiveRecord::Schema.define(version: 2018_07_04_082555) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -55,6 +55,39 @@ ActiveRecord::Schema.define(version: 2018_07_03_101504) do
     t.integer "rented_townhouses"
     t.integer "rented_flats"
     t.integer "others_total"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "school_locations", force: :cascade do |t|
+    t.integer "school_id"
+    t.string "name"
+    t.string "suburb"
+    t.string "state"
+    t.integer "postcode"
+    t.string "sector"
+    t.string "school_type"
+    t.float "lat"
+    t.float "lng"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "school_profiles", force: :cascade do |t|
+    t.integer "school_id"
+    t.string "name"
+    t.string "suburb"
+    t.string "state"
+    t.integer "postcode"
+    t.string "sector"
+    t.string "school_type"
+    t.string "website"
+    t.string "year_range"
+    t.integer "teaching_staff"
+    t.integer "non_teaching_staff"
+    t.integer "total_enrolments"
+    t.integer "girls_enrolments"
+    t.integer "boys_enrolments"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

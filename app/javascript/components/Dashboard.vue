@@ -6,6 +6,7 @@
     <Dwellings position="c2" title="Dwellings" :dwellings="dwellings"></Dwellings>
     <Families position="d2" title="Family Makeup" :families="families"></Families>
     <Homeownership position="e2" title="Home Ownership" :homeownership="homeownership"></Homeownership>
+    <Schools position="a3" title="Schools" :map-bounds="map_bounds"></Schools>
   </div>
 </template>
 
@@ -17,6 +18,7 @@ import Snapshot from './Snapshot';
 import Dwellings from './Dwellings';
 import Families from './Families';
 import Homeownership from './Homeownership';
+import Schools from './Schools';
 import axios from 'axios';
 
 const config = require('../config/app.config.js').default;
@@ -29,6 +31,7 @@ export default {
       Dwellings,
       Families,
       Homeownership,
+      Schools,
       Test,
   },
 
@@ -40,7 +43,8 @@ export default {
       families: null,
       dwellings: null,
       homeownership: null,
-      suburb_data: null
+      suburb_data: null,
+      map_bounds: null,
     }
   },
 
@@ -56,6 +60,7 @@ export default {
     updateLocation( location ){
       // update location in state
       this.location = location;
+      this.map_bounds = location.mapBounds;
 
       // Retrieve 
       this.getSuburbData( location.hood );

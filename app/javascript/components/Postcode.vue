@@ -5,7 +5,7 @@
       <div v-if="location">
         <p class="postcode__suburb">{{ location.hood }}</p>
         <p class="postcode__postcode">{{ location.postcode }}</p>
-        <p class="postcode__town">{{ location.city }}, {{ location.state }}</p>
+        <p class="postcode__town"><span v-if="location.city">{{ location.city + ',' }}</span> {{ location.state }}</p>
         <p v-if="area" class="postcode__area">{{ area }} sq km</p>
       </div>
     </section>

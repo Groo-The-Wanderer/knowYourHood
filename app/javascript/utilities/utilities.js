@@ -8,6 +8,8 @@ export function formatNumber(value) {
     return value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
 }
 
+
+
 export function addClassModifiers(base, modifiers = []) {
     if (!Array.isArray(modifiers)) {
         modifiers = modifiers.split(' ');
@@ -101,3 +103,48 @@ function indexInAlphabet(character) {
     const index = character.toLowerCase().charCodeAt(0) - 96;
     return index < 1 ? 1 : index;
 }
+
+export function createGeoJSON( inputLocations ) {
+    // inputLocations argument expected as an array of objects
+    // [{name: <...>, lat: <lat>, lng: <longitude>}, ... ]
+    // If no data is passed it will return an empty GeoJSON object
+    
+    // Create empty GeoJSON return object
+    let outputGeoJSON = 
+    {
+        "id": "places",
+        "type": "symbol",
+        "source": {
+          "type": "geojson",
+          "data": {
+            "type": "FeatureCollection",
+            "features": []
+          }
+        }, // end source
+        "layout": {
+          "icon-image": "{icon}-11",
+          "icon-allow-overlap": true
+        } // end layout
+    } // end let outputGeoJSON
+  
+    // Loop over each input argument passed as an argument and add to geoJSON
+    inputLocations.forEach(loc => 
+        outputGeoJSON.source.data.features.push(
+        {
+            "type": "Feature",
+            "properties": {
+              "description": `${ loc.name }`,
+              "icon": "circle"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [ 
+                loc.lng,
+                loc.lat
+              ]
+            }
+          }
+        ) // end features.push
+    ); // end forEach
+    return outputGeoJSON;
+} // end function createGeoJSON
