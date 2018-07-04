@@ -1,0 +1,59 @@
+/* .postcode {
+  display: grid;
+  grid-gap: .15em;
+  justify-items: center;
+  grid-template-rows: 0.5fr auto 1fr;
+  grid-template-areas: 
+          "empty"
+          "content"
+          "timezone";
+} */
+
+.tile {
+  border-top-color: var(--tile-border-top-green-bright) !important;
+}
+
+.postcode__content {
+  display: grid;
+  grid-area: content;
+  grid-gap: .15em;
+  justify-items: center;
+}
+
+.postcode__postcode {
+  display: block;
+  color: var(--yellow);
+  letter-spacing: 0.05em;
+  font-weight: var(--font-weight-light);
+  font-size: var(--font-size-xl);
+  line-height: 1.1;
+  text-align: center;
+}
+
+.postcode__label {
+  display: block;
+  /* color: var(--gray-light); */
+  color: #444;
+  letter-spacing: 0.05em;
+  font-weight: var(--font-weight-medium);
+  font-size: var(--font-size-xs);
+
+  /* text-transform: uppercase; */
+}
+
+
+.postcode__suburb {
+  padding-top: 20px;
+  color: var(--blue-darker);
+  text-transform: uppercase;
+  font-size: var(--font-size-m);
+  text-align: center;
+}
+
+.postcode__town {
+  /* padding-top: 8px; */
+  color: var(--gray-darker);
+  font-size: var(--font-size-s);
+  text-align: center;
+  text-transform: capitalize;
+}

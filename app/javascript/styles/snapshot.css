@@ -1,0 +1,36 @@
+.postcode__label {
+  display: block;
+  /* color: var(--gray-light); */
+  color: #444;
+  letter-spacing: 0.05em;
+  font-weight: var(--font-weight-medium);
+  font-size: var(--font-size-xs);
+
+  /* text-transform: uppercase; */
+}
+
+.snapshot__table {
+  margin:10px;
+  width:95%;
+  color: var(--blue-darker);
+  font-size: var(--font-size-xs);
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.snapshot__table > tr {
+  line-height: 1.3rem;
+  border-bottom: 1px solid #f4f4f4;
+}
+
+.snapshot__table > th {
+  border-bottom: 2px solid #f4f4f4;
+}
+
+.postcode__town {
+  /* padding-top: 8px; */
+  color: var(--gray-darker);
+  font-size: var(--font-size-s);
+  text-align: center;
+  text-transform: capitalize;
+}

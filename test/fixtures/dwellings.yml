@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  abs_ssc: MyString
+  num_houses: 1
+  num_townhouses: 1
+  num_flats: 1
+  num_others: 1
+  tot_dwellings: 1
+
+two:
+  abs_ssc: MyString
+  num_houses: 1
+  num_townhouses: 1
+  num_flats: 1
+  num_others: 1
+  tot_dwellings: 1

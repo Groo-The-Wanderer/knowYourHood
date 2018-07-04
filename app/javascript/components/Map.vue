@@ -47,7 +47,7 @@ export default {
         country: 'au',
         // Further restrict to NSW
         bbox: [139.965, -38.030, 155.258, -27.839],
-        zoom: 12,
+        zoom: 13,
         
         filter: function (item) {
           // returns true if item contains New South Wales region
@@ -60,6 +60,28 @@ export default {
           });
         }
       });
+
+      map.on('load', () => {
+        map.addSource('searched-point', {
+          "type": "geojson",
+          "data": {
+            "type": "FeatureCollection",
+            "features": []
+          }
+        });
+
+        map.addLayer({
+          "id": "searched-point",
+          "source": "searched-point",
+          "type": "circle",
+          "paint": {
+            "circle-radius": 7,
+            "circle-color": config.searchedMarkerColor
+          }
+        });
+      })
+
+      const centerMarker = new Mapbox.Marker({ color: config.hoodCenterMarkerColor });
 
       // Add geocoder search box (i.e. where the user enters a query) to the map
       map.addControl(geocoder, 'top-right');
@@ -85,81 +107,60 @@ export default {
           lng = result.center[0];
           lat = result.center[1];
           center = [ lng, lat ];
+
+          // Code below will display a point on the searched location
+          // Drop the circle onto the map
+          map.getSource('searched-point').setData( result.geometry );
         }
 
-        if( result.context ){
-          result.context.forEach( elem => {
-            const type = elem.id.split('.').shift();
-            switch (type) {
-              case 'postcode':
-                postcode = elem.text;
-                break;
-              case 'place':
-                city = elem.text;
-                break;
-              case 'region':
-                state = elem.text;
-                break;
-              default:
-                break;
-            }
-          });
-        }
+        const mbGeocodeURL = 'https://api.mapbox.com/geocoding/v5/mapbox.places';
+        axios.get(`${mbGeocodeURL}/${lng},${lat}.json?&access_token=${config.mapboxToken}&country=AU&types=locality`)
+        .then(resp => {
+          if( resp.data.features.length > 0 ){
+            hood = resp.data.features[0].text;
+            hoodCenter = resp.data.features[0].center;
+            hoodLng = hoodCenter[0];
+            hoodLat = hoodCenter[1];
+          }
 
-        // Check to see if the place passed in is a hood - if yes we use the
-        // center lnglat to derive lat and lng and pass to parent
-        // Otherwise we do Ajax call to get lat and lng
-        if( result.place_type.length > 0 ){
-          if( result.place_type.indexOf("locality") >= 0 ){
-            hood = result.text;
-            hoodLng = lng;
-            hoodLat = lat;
-            hoodCenter = [ lng, lat ];
-
-            // Create return object
-            locationObj = {
-              postcode: postcode,
-              city: city,
-              state: state,
-              center: center,
-              lng: lng,
-              lat: lat,
-              hood: hood,
-              hoodCenter: hoodCenter,
-              hoodLng: hoodLng,
-              hootLat: hoodLat
-            }
-            // send location object to parent
-            this.$emit('mapLocationSet', locationObj); 
-          } else {
-            const mbGeocodeURL = 'https://api.mapbox.com/geocoding/v5/mapbox.places';
-            axios.get(`${mbGeocodeURL}/${lng},${lat}.json?&access_token=${config.mapboxToken}&country=AU&types=locality`)
-            .then(resp => {
-              console.log('in here with resp: ', resp);
-              if( resp.data.features.length > 0 ){
-                hood = resp.data.features[0].text;
-                hoodCenter = resp.data.features[0].center;
-                hoodLng = hoodCenter[0];
-                hoodLat = hoodCenter[1];
+          if( resp.data.features[0].context ){
+            resp.data.features[0].context.forEach( elem => {
+              const type = elem.id.split('.').shift();
+              switch (type) {
+                case 'postcode':
+                  postcode = elem.text;
+                  break;
+                case 'place':
+                  city = elem.text;
+                  break;
+                case 'region':
+                  state = elem.text;
+                  break;
+                default:
+                  break;
               }
-                // Create return object
-              locationObj = {
-                postcode: postcode,
-                city: city,
-                state: state,
-                center: center,
-                lng: lng,
-                lat: lat,
-                hood: hood,
-                hoodCenter: hoodCenter,
-                hoodLng: hoodLng,
-                hootLat: hoodLat
-              }
-              // send location object to parent
-              this.$emit('mapLocationSet', locationObj); 
-            });
-          }  
-        }
+            })
+          }
+
+          // Set a marker on the center of the hood
+          centerMarker.setLngLat( hoodCenter ).addTo( map );
+
+          // Create return object
+          locationObj = {
+            postcode: postcode,
+            city: city,
+            state: state,
+            center: center,
+            lng: lng,
+            lat: lat,
+            hood: hood,
+            hoodCenter: hoodCenter,
+            hoodLng: hoodLng,
+            hootLat: hoodLat
+          }
+          // send location object to parent
+          this.$emit('mapLocationSet', locationObj);
+        });
       });
     }
   }

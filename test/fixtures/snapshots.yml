@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  abs_ssc: MyString
+  median_age: 1
+  median_monthly_mortgage_payments: 1
+  median_weekly_rental_payments: 1
+  median_individual_income: 1
+  median_household_income: 1
+  avg_household_size: 1.5
+
+two:
+  abs_ssc: MyString
+  median_age: 1
+  median_monthly_mortgage_payments: 1
+  median_weekly_rental_payments: 1
+  median_individual_income: 1
+  median_household_income: 1
+  avg_household_size: 1.5

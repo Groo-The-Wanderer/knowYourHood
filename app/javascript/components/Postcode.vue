@@ -1,9 +1,12 @@
 <template>
-  <tile :position="position" modifiers="overflow">
-    <section>
-      <h1>Postcode</h1>
-        <p v-if="location">{{ location.postcode }}</p>
-        <p v-if="location">{{ location.hood }}, {{ location.city }}, {{ location.state }}</p>
+  <tile :position="position" modifiers="overflow" :title="this.title">
+    <section class="postcode">
+      <div class="tile--header">{{ this.title }}</div>
+      <div v-if="location">
+        <p class="postcode__suburb">{{ location.hood }}</p>
+        <p class="postcode__postcode">{{ location.postcode }}</p>
+        <p class="postcode__town">{{ location.city }}, {{ location.state }}</p>
+      </div>
     </section>
   </tile>
 </template>
@@ -16,7 +19,14 @@ export default {
       Tile,
   },
 
-  props: ['position', 'location']
+  props: ['position', 'title', 'location']
 
 };
 </script>
+<style scoped>
+
+.tile {
+  border-top-color: #00a65a !important;
+}
+
+</style>

@@ -5,7 +5,7 @@ export function formatNumber(value) {
         return 0;
     }
 
-    return value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
+    return value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
 }
 
 export function addClassModifiers(base, modifiers = []) {

@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  abs_ssc: MyString
+  total_dwellings: 1
+  outright_total: 1
+  outright_houses: 1
+  outright_townhouses: 1
+  outright_flats: 1
+  mortgage_total: 1
+  mortgage_houses: 1
+  mortgage_townhouses: 1
+  mortgage_flats: 1
+  rented_total: 1
+  rented_houses: 1
+  rented_townhouses: 1
+  rented_flats: 1
+  others_total: 1
+
+two:
+  abs_ssc: MyString
+  total_dwellings: 1
+  outright_total: 1
+  outright_houses: 1
+  outright_townhouses: 1
+  outright_flats: 1
+  mortgage_total: 1
+  mortgage_houses: 1
+  mortgage_townhouses: 1
+  mortgage_flats: 1
+  rented_total: 1
+  rented_houses: 1
+  rented_townhouses: 1
+  rented_flats: 1
+  others_total: 1

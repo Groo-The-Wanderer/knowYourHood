@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  abs_ssc: MyString
+  tot_families: 1
+  no_kids: 1
+  kids_u15: 1
+  kids_over15: 1
+  tot_single_parent_families: 1
+  single_parent_kids_u15: 1
+  single_parent_kids_over15: 1
+
+two:
+  abs_ssc: MyString
+  tot_families: 1
+  no_kids: 1
+  kids_u15: 1
+  kids_over15: 1
+  tot_single_parent_families: 1
+  single_parent_kids_u15: 1
+  single_parent_kids_over15: 1

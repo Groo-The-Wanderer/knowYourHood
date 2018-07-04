@@ -1,0 +1,2 @@
+module SuburbHelper
+end

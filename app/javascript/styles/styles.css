@@ -1,5 +1,8 @@
 @import './settings.css';
 @import './helpers.css';
+@import './postcode.css';
+@import './snapshot.css';
+
 
 * {
   position: relative;
@@ -66,11 +69,20 @@ li {
 
 .tile {
   overflow: hidden;
-  padding: var(--grid-padding);
+  /* padding: var(--grid-padding); */
   border-radius: 0.25vw;
   background-color: var(--tile-background-color);
   color: white;
   text-shadow: 1px 1px 1px var(--tile-background-color);
+  border-top: 3px solid #d2d6de;
+}
+
+.tile--header {
+  border-bottom: 1px solid #f6f6f6;
+  color: #444;
+  font-size: var(--font-size-s);
+  padding: 5px 8px;
+  /* padding-bottom: 5px; */
 }
 
 .tile h1 {
@@ -126,4 +138,18 @@ li {
 
 .tile > * {
   height: 100%;
+}
+
+.right {
+  text-align: right;
+}
+
+/* Styles below are to ensure the close button and                  */
+/* the loading spinning icon appear within the geocoder input field */
+button.geocoder-icon.geocoder-icon-close {
+  top: -30px !important;
+}
+
+span.geocoder-icon.geocoder-icon-loading {
+  top: -30px !important;
 }

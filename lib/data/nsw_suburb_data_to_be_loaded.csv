@@ -1,0 +1,4527 @@
+abs_ssc,name,state,area
+10001,Aarons Pass,New South Wales,82.76
+10002,Abbotsbury,New South Wales,4.98
+10003,Abbotsford (NSW),New South Wales,1.02
+10004,Abercrombie,New South Wales,2.98
+10005,Abercrombie River,New South Wales,127.17
+10006,Aberdare,New South Wales,3.30
+10007,Aberdeen (NSW),New South Wales,41.63
+10008,Aberfoyle,New South Wales,340.48
+10009,Aberglasslyn,New South Wales,6.22
+10010,Abermain,New South Wales,15.38
+10011,Abernethy,New South Wales,8.40
+10012,Abington (NSW),New South Wales,174.31
+10013,Acacia Creek,New South Wales,6.21
+10014,Acacia Gardens,New South Wales,1.00
+10015,Adaminaby,New South Wales,356.50
+10016,Adamstown,New South Wales,3.07
+10017,Adamstown Heights,New South Wales,2.39
+10018,Adelong,New South Wales,20.27
+10019,Adjungbilly,New South Wales,438.10
+10020,Afterlee,New South Wales,34.78
+10021,Agnes Banks,New South Wales,15.48
+10022,Airds,New South Wales,2.38
+10023,Akolele,New South Wales,5.95
+10024,Albert,New South Wales,690.58
+10025,Albion Park,New South Wales,9.10
+10026,Albion Park Rail,New South Wales,7.17
+10027,Albury,New South Wales,5.68
+10028,Aldavilla,New South Wales,15.08
+10029,Alectown,New South Wales,277.14
+10030,Alexandria,New South Wales,3.52
+10031,Alfords Point,New South Wales,2.57
+10032,Alfredtown,New South Wales,75.08
+10033,Alice,New South Wales,13.28
+10034,Alison (Central Coast - NSW),New South Wales,1.40
+10035,Alison (Dungog - NSW),New South Wales,19.27
+10036,Allambie Heights,New South Wales,6.67
+10037,Allandale (NSW),New South Wales,10.48
+10038,Allawah,New South Wales,0.58
+10039,Alleena,New South Wales,269.63
+10040,Allgomera,New South Wales,120.39
+10041,Allworth,New South Wales,18.25
+10042,Allynbrook,New South Wales,34.18
+10043,Alma Park,New South Wales,87.68
+10044,Alpine,New South Wales,23.03
+10045,Alstonvale,New South Wales,10.26
+10046,Alstonville,New South Wales,28.82
+10047,Alumy Creek,New South Wales,9.05
+10048,Amaroo (NSW),New South Wales,16.78
+10049,Ambarvale,New South Wales,2.88
+10050,Amosfield,New South Wales,58.00
+10051,Anabranch North,New South Wales,1661.39
+10052,Anabranch South,New South Wales,2279.46
+10053,Anambah,New South Wales,11.59
+10054,Ando,New South Wales,112.16
+10055,Anembo,New South Wales,171.82
+10056,Angledale,New South Wales,26.81
+10057,Angledool,New South Wales,689.50
+10058,Anglers Reach,New South Wales,11.13
+10059,Angourie,New South Wales,3.54
+10060,Anna Bay,New South Wales,22.25
+10061,Annandale (NSW),New South Wales,1.49
+10062,Annangrove,New South Wales,10.25
+10063,Appin (NSW),New South Wales,102.06
+10064,Apple Tree Flat,New South Wales,17.02
+10065,Appleby,New South Wales,18.15
+10066,Appletree Flat,New South Wales,28.53
+10067,Apsley (NSW),New South Wales,28.23
+10068,Arable,New South Wales,116.33
+10069,Arakoon,New South Wales,24.79
+10070,Araluen (NSW),New South Wales,121.27
+10071,Aratula (NSW),New South Wales,163.38
+10072,Arcadia (NSW),New South Wales,22.41
+10073,Arcadia Vale,New South Wales,1.35
+10074,Ardglen,New South Wales,72.27
+10075,Arding,New South Wales,54.77
+10076,Ardlethan,New South Wales,538.87
+10077,Argalong,New South Wales,132.30
+10078,Argenton,New South Wales,1.52
+10079,Argents Hill,New South Wales,76.25
+10080,Argoon (NSW),New South Wales,247.12
+10081,Ariah Park,New South Wales,489.99
+10082,Arkell,New South Wales,66.86
+10083,Arkstone,New South Wales,79.37
+10084,Armatree,New South Wales,484.98
+10085,Armidale,New South Wales,274.60
+10086,Arncliffe,New South Wales,2.94
+10087,Arndell Park,New South Wales,2.00
+10088,Arrawarra,New South Wales,2.82
+10089,Arrawarra Headland,New South Wales,2.68
+10090,Artarmon,New South Wales,2.53
+10091,Arthurville,New South Wales,72.54
+10092,Arumpo,New South Wales,5396.41
+10093,Ashbury,New South Wales,1.03
+10094,Ashby (NSW),New South Wales,14.03
+10095,Ashby Heights,New South Wales,32.35
+10096,Ashby Island,New South Wales,2.41
+10097,Ashcroft,New South Wales,1.15
+10098,Ashfield (NSW),New South Wales,3.41
+10099,Ashford (NSW),New South Wales,681.05
+10100,Ashley,New South Wales,332.77
+10101,Ashmont,New South Wales,2.43
+10102,Ashtonfield,New South Wales,6.83
+10103,Asquith,New South Wales,3.50
+10104,Atholwood,New South Wales,454.46
+10105,Attunga,New South Wales,218.72
+10106,Auburn (NSW),New South Wales,8.56
+10107,Auburn Vale,New South Wales,63.65
+10108,Austinmer,New South Wales,3.34
+10109,Austral,New South Wales,17.66
+10110,Austral Eden,New South Wales,13.62
+10111,Avalon Beach,New South Wales,5.13
+10112,Avisford,New South Wales,18.30
+10113,Avoca (NSW),New South Wales,24.63
+10114,Avoca Beach,New South Wales,4.44
+10115,Avon (NSW),New South Wales,265.82
+10116,Avondale (NSW),New South Wales,18.31
+10117,Avonside,New South Wales,57.36
+10118,Awaba,New South Wales,23.12
+10119,Aylmerton,New South Wales,2.80
+10120,Baan Baa,New South Wales,254.94
+10121,Babinda (NSW),New South Wales,476.24
+10122,Babyl Creek,New South Wales,25.89
+10123,Back Creek (Bland - NSW),New South Wales,449.80
+10124,Back Creek (Gwydir - NSW),New South Wales,119.95
+10125,Back Creek (Mid-Coast - NSW),New South Wales,31.53
+10126,Back Creek (Queanbeyan-Palerang Regional - NSW),New South Wales,39.27
+10127,Back Creek (Tenterfield - NSW),New South Wales,200.74
+10128,Back Creek (Tweed - NSW),New South Wales,7.44
+10129,Back Forest,New South Wales,5.98
+10130,Backmede,New South Wales,29.49
+10131,Backwater,New South Wales,126.35
+10132,Badgerys Creek,New South Wales,26.98
+10133,Badja,New South Wales,130.28
+10134,Baerami,New South Wales,151.23
+10135,Baerami Creek,New South Wales,367.24
+10136,Bagnoo,New South Wales,37.80
+10137,Bago,New South Wales,63.04
+10138,Bagotville,New South Wales,9.92
+10139,Bakers Creek (Mid-Coast - NSW),New South Wales,40.47
+10140,Bakers Creek (Nambucca - NSW),New South Wales,57.22
+10141,Bakers Creek (Uralla - NSW),New South Wales,161.59
+10142,Bakers Swamp,New South Wales,136.49
+10143,Balaclava (NSW),New South Wales,2.38
+10144,Balala,New South Wales,357.16
+10145,Balcolyn,New South Wales,0.74
+10146,Bald Blair,New South Wales,101.23
+10147,Bald Hills (NSW),New South Wales,10.71
+10148,Bald Nob,New South Wales,77.49
+10149,Bald Ridge,New South Wales,135.80
+10150,Baldersleigh,New South Wales,164.36
+10151,Baldry,New South Wales,473.53
+10152,Balfours Peak,New South Wales,170.93
+10153,Balgowlah,New South Wales,1.96
+10154,Balgowlah Heights,New South Wales,1.68
+10155,Balgownie,New South Wales,3.69
+10156,Balickera,New South Wales,27.47
+10157,Balladoran,New South Wales,243.13
+10158,Ballalaba,New South Wales,43.77
+10159,Balldale,New South Wales,191.29
+10160,Ballengarra,New South Wales,23.36
+10161,Ballimore,New South Wales,229.31
+10162,Ballina,New South Wales,20.46
+10163,Ballyroe,New South Wales,82.92
+10164,Balmain,New South Wales,1.54
+10165,Balmain East,New South Wales,0.34
+10166,Balmoral (Lake Macquarie - NSW),New South Wales,0.86
+10167,Balmoral (Wingecarribee - NSW),New South Wales,26.32
+10168,Balranald,New South Wales,5203.74
+10169,Bamarang,New South Wales,11.81
+10170,Banda Banda,New South Wales,70.51
+10171,Bandon Grove,New South Wales,50.45
+10172,Bangadang,New South Wales,17.96
+10173,Bangalee (NSW),New South Wales,6.56
+10174,Bangalow,New South Wales,24.40
+10175,Bangheet,New South Wales,183.80
+10176,Bango,New South Wales,108.41
+10177,Bangor (NSW),New South Wales,3.92
+10178,Banksia,New South Wales,0.96
+10179,Banksmeadow,New South Wales,3.59
+10180,Bankstown,New South Wales,6.39
+10181,Bankstown Aerodrome,New South Wales,3.73
+10182,Bannaby,New South Wales,242.33
+10183,Bannister (NSW),New South Wales,109.92
+10184,Banoon,New South Wales,122.98
+10185,Banora Point,New South Wales,9.60
+10186,Banyabba,New South Wales,206.62
+10187,Bar Beach,New South Wales,0.51
+10188,Bar Point,New South Wales,10.04
+10189,Bara,New South Wales,27.61
+10190,Baradine,New South Wales,543.06
+10191,Barangaroo,New South Wales,0.22
+10192,Barcoongere,New South Wales,193.47
+10193,Barden Ridge,New South Wales,5.60
+10194,Bardia,New South Wales,2.11
+10195,Bardwell Park,New South Wales,0.96
+10196,Bardwell Valley,New South Wales,0.63
+10197,Barellan,New South Wales,986.53
+10198,Bargo,New South Wales,49.09
+10199,Barham,New South Wales,472.80
+10200,Barigan,New South Wales,123.92
+10201,Barkers Vale,New South Wales,26.01
+10202,Barmedman,New South Wales,708.11
+10203,Barneys Reef,New South Wales,15.49
+10204,Barnsley,New South Wales,3.53
+10205,Barooga,New South Wales,98.31
+10206,Barraba,New South Wales,523.54
+10207,Barrack Heights,New South Wales,2.42
+10208,Barrack Point,New South Wales,0.43
+10209,Barraganyatti,New South Wales,50.60
+10210,Barragga Bay,New South Wales,2.50
+10211,Barratta (NSW),New South Wales,659.33
+10212,Barren Grounds,New South Wales,16.16
+10213,Barrengarry,New South Wales,42.39
+10214,Barretts Creek,New South Wales,87.21
+10215,Barringella,New South Wales,39.40
+10216,Barrington (NSW),New South Wales,63.01
+10217,Barrington Tops,New South Wales,305.98
+10218,Barry (Blayney - NSW),New South Wales,37.27
+10219,Barry (Upper Hunter Shire - NSW),New South Wales,96.65
+10220,Barwang,New South Wales,250.20
+10221,Barwon,New South Wales,222.68
+10222,Baryulgil,New South Wales,95.99
+10223,Basin View,New South Wales,7.04
+10224,Bass Hill,New South Wales,2.93
+10225,Bassendean (NSW),New South Wales,82.11
+10226,Batar Creek,New South Wales,25.78
+10227,Bateau Bay,New South Wales,6.94
+10228,Batehaven,New South Wales,2.56
+10229,Batemans Bay,New South Wales,33.23
+10230,Bathampton,New South Wales,22.69
+10231,Bathurst,New South Wales,5.89
+10232,Batlow,New South Wales,167.00
+10233,Baulkham Hills,New South Wales,16.00
+10234,Baw Baw (NSW),New South Wales,55.08
+10235,Bawley Point,New South Wales,20.49
+10236,Baxters Ridge,New South Wales,101.02
+10237,Bayview (NSW),New South Wales,3.74
+10238,Beacon Hill,New South Wales,2.61
+10239,Beaconsfield (NSW),New South Wales,0.17
+10240,Bean Creek,New South Wales,73.97
+10241,Bearbong,New South Wales,294.13
+10242,Beaumont (NSW),New South Wales,17.06
+10243,Beaumont Hills,New South Wales,3.19
+10244,Beckom,New South Wales,351.32
+10245,Bective,New South Wales,133.05
+10246,Bectric,New South Wales,145.68
+10247,Bedgerabong,New South Wales,136.60
+10248,Beechwood,New South Wales,9.92
+10249,Beecroft,New South Wales,5.12
+10250,Beecroft Peninsula,New South Wales,46.58
+10251,Beelbangera,New South Wales,21.36
+10252,Beemunnel,New South Wales,14.22
+10253,Bega,New South Wales,31.17
+10254,Beggan Beggan,New South Wales,224.63
+10255,Belanglo,New South Wales,61.67
+10256,Belbora,New South Wales,102.36
+10257,Belfield,New South Wales,1.78
+10258,Belford,New South Wales,39.80
+10259,Belfrayden,New South Wales,4.05
+10260,Belgravia,New South Wales,95.96
+10261,Belimbla Park,New South Wales,3.66
+10262,Bell (NSW),New South Wales,40.51
+10263,Bella Vista,New South Wales,3.80
+10264,Bellambi,New South Wales,2.34
+10265,Bellangry,New South Wales,83.52
+10266,Bellata,New South Wales,1021.64
+10267,Bellawongarah,New South Wales,17.92
+10268,Bellbird,New South Wales,7.66
+10269,Bellbird Heights,New South Wales,0.40
+10270,Bellbrook,New South Wales,396.11
+10271,Bellevue Hill,New South Wales,2.37
+10272,Bellimbopinni,New South Wales,15.66
+10273,Bellingen,New South Wales,54.28
+10274,Bellmount Forest,New South Wales,115.06
+10275,Belltrees,New South Wales,170.04
+10276,Belmont (NSW),New South Wales,10.55
+10277,Belmont North,New South Wales,3.63
+10278,Belmont South,New South Wales,2.54
+10279,Belmore,New South Wales,2.73
+10280,Belmore River,New South Wales,70.30
+10281,Beloka,New South Wales,67.01
+10282,Belowra,New South Wales,378.31
+10283,Belrose,New South Wales,13.64
+10284,Bemboka,New South Wales,334.37
+10285,Ben Bullen,New South Wales,85.14
+10286,Ben Lomond (NSW),New South Wales,277.97
+10287,Benandarah,New South Wales,128.86
+10288,Bendalong,New South Wales,14.26
+10289,Bendemeer,New South Wales,541.45
+10290,Bendick Murrell,New South Wales,101.87
+10291,Bendolba,New South Wales,23.75
+10292,Bendoura,New South Wales,46.87
+10293,Benerembah,New South Wales,385.80
+10294,Bengalla,New South Wales,20.58
+10295,Bennetts Green,New South Wales,3.43
+10296,Benolong,New South Wales,189.17
+10297,Bensville,New South Wales,4.93
+10298,Bentley (NSW),New South Wales,56.94
+10299,Berala,New South Wales,2.13
+10300,Berambing,New South Wales,4.10
+10301,Beresfield,New South Wales,6.29
+10302,Bergalia,New South Wales,24.52
+10303,Berkeley,New South Wales,7.32
+10304,Berkeley Vale,New South Wales,6.14
+10305,Berkshire Park,New South Wales,19.27
+10306,Berlang,New South Wales,92.52
+10307,Bermagui,New South Wales,44.25
+10308,Berowra,New South Wales,8.30
+10309,Berowra Creek,New South Wales,1.31
+10310,Berowra Heights,New South Wales,8.00
+10311,Berowra Waters,New South Wales,0.38
+10312,Berrambool,New South Wales,0.64
+10313,Berrara,New South Wales,0.76
+10314,Berremangra,New South Wales,277.01
+10315,Berrico,New South Wales,82.88
+10316,Berridale,New South Wales,233.58
+10317,Berrigal,New South Wales,306.24
+10318,Berrigan,New South Wales,720.01
+10319,Berrilee,New South Wales,12.07
+10320,Berrima,New South Wales,54.43
+10321,Berringer Lake,New South Wales,0.93
+10322,Berry,New South Wales,51.66
+10323,Berry Jerry,New South Wales,185.59
+10324,Berry Mountain,New South Wales,6.56
+10325,Berry Park,New South Wales,8.81
+10326,Berthong,New South Wales,167.22
+10327,Beryl,New South Wales,71.55
+10328,Bethungra,New South Wales,301.05
+10329,Bevendale,New South Wales,229.95
+10330,Beverley Park,New South Wales,1.01
+10331,Beverly Hills,New South Wales,2.98
+10332,Bewong,New South Wales,4.18
+10333,Bexhill,New South Wales,19.78
+10334,Bexley,New South Wales,4.37
+10335,Bexley North,New South Wales,1.20
+10336,Biala,New South Wales,190.75
+10337,Bibbenluke,New South Wales,53.80
+10338,Biddon,New South Wales,293.82
+10339,Bidgeemia,New South Wales,232.04
+10340,Bidwill (NSW),New South Wales,1.51
+10341,Bielsdown Hills,New South Wales,28.69
+10342,Big Hill (NSW),New South Wales,186.07
+10343,Big Jacks Creek,New South Wales,90.84
+10344,Big Ridge,New South Wales,2.53
+10345,Big Springs,New South Wales,207.88
+10346,Bigga,New South Wales,602.81
+10347,Bilambil,New South Wales,9.53
+10348,Bilambil Heights,New South Wales,8.51
+10349,Bilbul,New South Wales,78.62
+10350,Bilgola Beach,New South Wales,0.35
+10351,Bilgola Plateau,New South Wales,1.39
+10352,Billeroy,New South Wales,405.94
+10353,Billilingra,New South Wales,64.82
+10354,Billimari,New South Wales,64.39
+10355,Billinudgel,New South Wales,8.55
+10356,Billys Creek,New South Wales,80.05
+10357,Billywillinga,New South Wales,51.56
+10358,Bilpin,New South Wales,179.91
+10359,Bimberi,New South Wales,213.20
+10360,Bimbi,New South Wales,197.35
+10361,Bimbimbie,New South Wales,9.08
+10362,Binalong,New South Wales,281.31
+10363,Binda,New South Wales,377.93
+10364,Bindera,New South Wales,44.85
+10365,Bingara,New South Wales,269.39
+10366,Bingeebeebra Creek,New South Wales,24.50
+10367,Bingie,New South Wales,10.45
+10368,Bingleburra,New South Wales,68.73
+10369,Biniguy,New South Wales,308.80
+10370,Binjura,New South Wales,23.65
+10371,Binna Burra (NSW),New South Wales,11.40
+10372,Binnaway,New South Wales,476.32
+10373,Binya,New South Wales,694.87
+10374,Birchgrove,New South Wales,0.59
+10375,Birdwood (NSW),New South Wales,80.84
+10376,Birganbigil,New South Wales,92.71
+10377,Birmingham Gardens,New South Wales,0.79
+10378,Birriwa,New South Wales,77.18
+10379,Birrong,New South Wales,1.20
+10380,Bishops Bridge,New South Wales,16.21
+10381,Bithramere,New South Wales,70.00
+10382,Black Creek (Port Macquarie-Hastings - NSW),New South Wales,55.39
+10383,Black Creek (Snowy Valleys - NSW),New South Wales,10.98
+10384,Black Head,New South Wales,3.06
+10385,Black Hill (NSW),New South Wales,45.71
+10386,Black Hollow,New South Wales,145.49
+10387,Black Mountain (NSW),New South Wales,222.53
+10388,Black Range (NSW),New South Wales,13.30
+10389,Black Springs (NSW),New South Wales,173.64
+10390,Blackalls Park,New South Wales,3.04
+10391,Blackbutt (NSW),New South Wales,2.58
+10392,Blackett,New South Wales,1.06
+10393,Blackheath,New South Wales,32.58
+10394,Blackmans Flat,New South Wales,32.97
+10395,Blackmans Point,New South Wales,12.18
+10396,Blacksmiths,New South Wales,1.95
+10397,Blacktown,New South Wales,16.06
+10398,Blackville,New South Wales,278.82
+10399,Blackwall (NSW),New South Wales,1.14
+10400,Blair Athol (NSW),New South Wales,0.90
+10401,Blairmount,New South Wales,2.93
+10402,Blakebrook,New South Wales,15.64
+10403,Blakehurst,New South Wales,2.31
+10404,Blakney Creek,New South Wales,181.68
+10405,Bland,New South Wales,306.77
+10406,Blandford,New South Wales,94.94
+10407,Blaxland (NSW),New South Wales,9.71
+10408,Blaxlands Creek,New South Wales,107.11
+10409,Blaxlands Ridge,New South Wales,41.22
+10410,Blayney,New South Wales,184.11
+10411,Bligh Park,New South Wales,2.12
+10412,Blighty,New South Wales,222.13
+10413,Blowering,New South Wales,166.32
+10414,Blue Bay,New South Wales,0.47
+10415,Blue Haven,New South Wales,2.52
+10416,Blue Knob,New South Wales,19.84
+10417,Blue Mountains National Park,New South Wales,2350.66
+10418,Blue Nobby,New South Wales,199.84
+10419,Blue Vale,New South Wales,204.37
+10420,Blueys Beach,New South Wales,2.81
+10421,Boambee,New South Wales,12.93
+10422,Boambee East,New South Wales,3.66
+10423,Boambolo,New South Wales,90.21
+10424,Boat Harbour (Lismore - NSW),New South Wales,7.16
+10425,Boat Harbour (Port Stephens - NSW),New South Wales,2.16
+10426,Bobadah,New South Wales,1365.13
+10427,Bobin,New South Wales,52.27
+10428,Bobs Creek,New South Wales,11.10
+10429,Bobs Farm,New South Wales,38.26
+10430,Bobundara,New South Wales,128.92
+10431,Boco,New South Wales,87.96
+10432,Bocoble,New South Wales,26.95
+10433,Bocobra,New South Wales,101.10
+10434,Bodalla,New South Wales,253.75
+10435,Bodangora,New South Wales,155.57
+10436,Boeill Creek,New South Wales,21.78
+10437,Bogan,New South Wales,476.51
+10438,Bogan Gate,New South Wales,445.63
+10439,Bogangar,New South Wales,6.74
+10440,Bogee,New South Wales,109.84
+10441,Boggabilla,New South Wales,1342.67
+10442,Boggabri,New South Wales,858.49
+10443,Bogong Peaks Wilderness,New South Wales,255.90
+10444,Bohena Creek,New South Wales,197.29
+10445,Bohnock,New South Wales,1.12
+10446,Bolaro,New South Wales,127.86
+10447,Bolivia,New South Wales,290.06
+10448,Bolong,New South Wales,16.41
+10449,Bolton Point,New South Wales,1.68
+10450,Bolwarra (NSW),New South Wales,4.47
+10451,Bolwarra Heights,New South Wales,7.23
+10452,Bom Bom,New South Wales,24.20
+10453,Bomaderry,New South Wales,7.45
+10454,Bombah Point,New South Wales,54.35
+10455,Bombala,New South Wales,119.71
+10456,Bombay,New South Wales,159.65
+10457,Bombira,New South Wales,7.05
+10458,Bombo,New South Wales,1.80
+10459,Bombowlee,New South Wales,27.92
+10460,Bombowlee Creek,New South Wales,21.37
+10461,Bomen,New South Wales,27.37
+10462,Bomera,New South Wales,339.02
+10463,Bonalbo,New South Wales,85.86
+10464,Bondi,New South Wales,0.86
+10465,Bondi Beach,New South Wales,1.22
+10466,Bondi Forest,New South Wales,161.59
+10467,Bondi Junction,New South Wales,1.08
+10468,Bonnells Bay,New South Wales,3.28
+10469,Bonnet Bay,New South Wales,1.13
+10470,Bonny Hills,New South Wales,20.75
+10471,Bonnyrigg,New South Wales,3.04
+10472,Bonnyrigg Heights,New South Wales,2.15
+10473,Bonshaw (NSW),New South Wales,431.23
+10474,Bonville,New South Wales,68.89
+10475,Booerie Creek,New South Wales,12.73
+10476,Book Book,New South Wales,158.82
+10477,Booker Bay,New South Wales,0.49
+10478,Bookham,New South Wales,210.29
+10479,Bookookoorara,New South Wales,169.66
+10480,Bookram,New South Wales,66.03
+10481,Boolambayte,New South Wales,89.89
+10482,Boolaroo,New South Wales,2.71
+10483,Boolcarroll,New South Wales,141.65
+10484,Booligal,New South Wales,4519.35
+10485,Boolijah,New South Wales,109.71
+10486,Boomanoomana,New South Wales,246.50
+10487,Boomerang Beach,New South Wales,1.95
+10488,Boomey,New South Wales,92.54
+10489,Boomi,New South Wales,1086.62
+10490,Boomi Creek,New South Wales,80.66
+10491,Boona Mount,New South Wales,394.69
+10492,Boonal,New South Wales,266.30
+10493,Boonoo Boonoo,New South Wales,268.79
+10494,Boorabee Park,New South Wales,42.75
+10495,Booragul,New South Wales,1.24
+10496,Booral (NSW),New South Wales,140.65
+10497,Boorga,New South Wales,253.18
+10498,Boorganna,New South Wales,51.96
+10499,Boorolong,New South Wales,271.14
+10500,Boorook,New South Wales,433.96
+10501,Boorooma,New South Wales,1.50
+10502,Booroorban,New South Wales,1294.41
+10503,Boorowa,New South Wales,754.78
+10504,Bootawa,New South Wales,27.20
+10505,Booti Booti,New South Wales,2.55
+10506,Booyong,New South Wales,9.30
+10507,Bora Ridge,New South Wales,79.74
+10508,Borah Creek,New South Wales,135.91
+10509,Borambola,New South Wales,147.23
+10510,Border Ranges,New South Wales,94.24
+10511,Boree,New South Wales,47.51
+10512,Boree Creek,New South Wales,752.99
+10513,Borenore,New South Wales,88.16
+10514,Boro,New South Wales,60.70
+10515,Bossley Park,New South Wales,4.54
+10516,Bostobrick,New South Wales,66.03
+10517,Botany,New South Wales,3.21
+10518,Botobolar,New South Wales,96.61
+10519,Bottle Creek,New South Wales,25.76
+10520,Bouddi,New South Wales,6.98
+10521,Bourbah,New South Wales,436.70
+10522,Bourke,New South Wales,3882.79
+10523,Bourkelands,New South Wales,2.10
+10524,Bournda,New South Wales,82.44
+10525,Bournewood,New South Wales,116.05
+10526,Bow Bowing,New South Wales,0.76
+10527,Bowan Park,New South Wales,64.19
+10528,Bowen Mountain,New South Wales,20.02
+10529,Bowenfels,New South Wales,21.83
+10530,Bowling Alley Point,New South Wales,36.64
+10531,Bowman,New South Wales,60.45
+10532,Bowman Farm,New South Wales,46.56
+10533,Bowmans Creek,New South Wales,68.23
+10534,Bowna,New South Wales,116.82
+10535,Bowning,New South Wales,292.68
+10536,Bowral,New South Wales,37.18
+10537,Bowraville,New South Wales,27.78
+10538,Box Head,New South Wales,1.96
+10539,Box Hill (NSW),New South Wales,14.08
+10540,Box Ridge,New South Wales,290.02
+10541,Boxers Creek,New South Wales,78.82
+10542,Boydtown,New South Wales,9.35
+10543,Bradbury (NSW),New South Wales,3.73
+10544,Braefield,New South Wales,20.39
+10545,Braemar,New South Wales,2.29
+10546,Braemar Bay,New South Wales,67.84
+10547,Braidwood,New South Wales,234.62
+10548,Brandy Hill,New South Wales,5.39
+10549,Branxton,New South Wales,33.33
+10550,Braunstone,New South Wales,48.73
+10551,Brawboy,New South Wales,61.22
+10552,Bray Park (NSW),New South Wales,0.97
+10553,Brays Creek,New South Wales,16.45
+10554,Brayton,New South Wales,91.60
+10555,Breadalbane (NSW),New South Wales,141.57
+10556,Breakfast Creek,New South Wales,37.17
+10557,Breakfast Point,New South Wales,0.52
+10558,Bream Beach,New South Wales,0.54
+10559,Bredbo,New South Wales,246.45
+10560,Breelong,New South Wales,262.90
+10561,Breeza,New South Wales,314.24
+10562,Bretti,New South Wales,74.06
+10563,Brewarrina,New South Wales,3983.10
+10564,Brewongle,New South Wales,43.79
+10565,Briarbrook,New South Wales,100.08
+10566,Bribbaree,New South Wales,301.45
+10567,Bridgman,New South Wales,69.97
+10568,Brierfield,New South Wales,52.06
+10569,Brighton-le-Sands,New South Wales,1.57
+10570,Brightwaters,New South Wales,1.69
+10571,Bril Bril,New South Wales,46.52
+10572,Brimbin,New South Wales,27.79
+10573,Brindabella,New South Wales,510.47
+10574,Brinerville,New South Wales,238.47
+10575,Bringelly,New South Wales,40.21
+10576,Bringenbrong,New South Wales,79.58
+10577,Brisbane Grove,New South Wales,16.72
+10578,Broadmeadow,New South Wales,2.69
+10579,Broadwater (Bega Valley - NSW),New South Wales,5.31
+10580,Broadwater (Richmond Valley - NSW),New South Wales,57.76
+10581,Broadway,New South Wales,106.38
+10582,Brobenah,New South Wales,98.24
+10583,Brocklehurst,New South Wales,81.68
+10584,Brocklesby,New South Wales,198.99
+10585,Brockley,New South Wales,74.32
+10586,Brodies Plains,New South Wales,31.49
+10587,Brogans Creek,New South Wales,49.67
+10588,Brogers Creek,New South Wales,10.70
+10589,Brogo,New South Wales,395.80
+10590,Broke (NSW),New South Wales,179.65
+10591,Broken Head,New South Wales,26.10
+10592,Broken Hill,New South Wales,13040.19
+10593,Brombin,New South Wales,11.87
+10594,Bronte,New South Wales,1.33
+10595,Brookdale (NSW),New South Wales,149.56
+10596,Brookfield (NSW),New South Wales,37.57
+10597,Brooklana,New South Wales,89.80
+10598,Brooklet,New South Wales,13.10
+10599,Brooklyn (NSW),New South Wales,32.14
+10600,Brookong,New South Wales,181.88
+10601,Brookvale,New South Wales,2.20
+10602,Brooman,New South Wales,87.89
+10603,Brooms Head,New South Wales,58.92
+10604,Broughams Gate,New South Wales,6834.16
+10605,Broughton (NSW),New South Wales,6.98
+10606,Broughton Vale,New South Wales,18.55
+10607,Broughton Village,New South Wales,9.56
+10608,Broulee,New South Wales,18.03
+10609,Brownlow Hill,New South Wales,9.81
+10610,Browns Creek,New South Wales,55.51
+10611,Browns Mountain,New South Wales,12.55
+10612,Brownsville,New South Wales,0.97
+10613,Brucedale,New South Wales,49.20
+10614,Bruie Plains,New South Wales,216.61
+10615,Bruinbun,New South Wales,154.68
+10616,Brumby Plains,New South Wales,40.71
+10617,Brundee,New South Wales,8.42
+10618,Brungle,New South Wales,30.88
+10619,Brungle Creek,New South Wales,59.97
+10620,Brunkerville,New South Wales,14.36
+10621,Brunswick Heads,New South Wales,14.29
+10622,Brushgrove,New South Wales,2.63
+10623,Brushy Creek,New South Wales,90.18
+10624,Buangla,New South Wales,34.66
+10625,Bucca (NSW),New South Wales,84.29
+10626,Bucca Wauka,New South Wales,44.27
+10627,Buccarumbi,New South Wales,297.51
+10628,Buchanan (NSW),New South Wales,30.54
+10629,Buckajo,New South Wales,74.69
+10630,Buckaroo,New South Wales,34.16
+10631,Buckenbowra,New South Wales,268.33
+10632,Buckenderra,New South Wales,84.25
+10633,Buckendoon,New South Wales,12.77
+10634,Bucketty,New South Wales,21.18
+10635,Buckra Bendinni,New South Wales,95.66
+10636,Budawang,New South Wales,198.79
+10637,Buddabadah,New South Wales,827.50
+10638,Budden,New South Wales,84.91
+10639,Budderoo,New South Wales,40.50
+10640,Buddong,New South Wales,132.85
+10641,Budgee Budgee (NSW),New South Wales,30.22
+10642,Budgewoi,New South Wales,2.81
+10643,Budgewoi Peninsula,New South Wales,3.05
+10644,Budgong,New South Wales,42.41
+10645,Buff Point,New South Wales,2.09
+10646,Bugaldie,New South Wales,368.34
+10647,Bukalong,New South Wales,72.23
+10648,Bukkulla,New South Wales,274.05
+10649,Bulahdelah,New South Wales,172.14
+10650,Bulee,New South Wales,56.02
+10651,Bulga (NSW),New South Wales,127.34
+10652,Bulga Forest,New South Wales,257.13
+10653,Bulgary,New South Wales,75.57
+10654,Bulla (NSW),New South Wales,2329.52
+10655,Bulla Creek,New South Wales,62.81
+10656,Bullaburra,New South Wales,6.14
+10657,Bullagreen,New South Wales,447.78
+10658,Bullarah,New South Wales,1605.01
+10659,Bullatale,New South Wales,533.03
+10660,Bullawa Creek,New South Wales,161.79
+10661,Bulldog,New South Wales,36.70
+10662,Bulli,New South Wales,8.66
+10663,Bulliac,New South Wales,58.09
+10664,Bullio,New South Wales,107.79
+10665,Bulyeroi,New South Wales,157.02
+10666,Bumbaldry,New South Wales,244.66
+10667,Bumbalong,New South Wales,50.23
+10668,Bundabah,New South Wales,3.09
+10669,Bundagen,New South Wales,23.63
+10670,Bundanoon (NSW),New South Wales,58.88
+10671,Bundarra,New South Wales,971.41
+10672,Bundeena,New South Wales,1.18
+10673,Bundella,New South Wales,344.42
+10674,Bundemar,New South Wales,455.56
+10675,Bundewallah,New South Wales,5.93
+10676,Bundook,New South Wales,50.59
+10677,Bundure,New South Wales,501.37
+10678,Bungaba,New South Wales,121.99
+10679,Bungabbee,New South Wales,8.60
+10680,Bungalora,New South Wales,3.35
+10681,Bungarby,New South Wales,318.65
+10682,Bungarribee,New South Wales,2.46
+10683,Bungawalbin,New South Wales,68.93
+10684,Bungendore,New South Wales,297.44
+10685,Bungonia,New South Wales,325.05
+10686,Bungowannah,New South Wales,117.49
+10687,Bungwahl,New South Wales,61.30
+10688,Bunnaloo,New South Wales,329.45
+10689,Bunnan,New South Wales,203.64
+10690,Bunyah,New South Wales,139.24
+10691,Bunyan,New South Wales,74.33
+10692,Burcher,New South Wales,533.42
+10693,Bureen,New South Wales,35.01
+10694,Burnt Bridge,New South Wales,3.92
+10695,Burnt Yards,New South Wales,47.87
+10696,Buronga,New South Wales,15.46
+10697,Burra (Queanbeyan-Palerang Regional - NSW),New South Wales,98.95
+10698,Burra (Snowy Valleys - NSW),New South Wales,94.78
+10699,Burra Creek,New South Wales,265.15
+10700,Burraboi,New South Wales,307.59
+10701,Burradoo,New South Wales,12.44
+10702,Burraga,New South Wales,113.39
+10703,Burragate,New South Wales,75.56
+10704,Burrandana,New South Wales,39.56
+10705,Burraneer,New South Wales,1.45
+10706,Burrangong,New South Wales,19.35
+10707,Burrapine,New South Wales,38.90
+10708,Burrawang,New South Wales,18.62
+10709,Burrell Creek,New South Wales,33.38
+10710,Burren Junction,New South Wales,1354.26
+10711,Burrier,New South Wales,12.15
+10712,Burrill Lake,New South Wales,4.30
+10713,Burringbar,New South Wales,25.91
+10714,Burrinjuck,New South Wales,116.06
+10715,Burroway,New South Wales,431.89
+10716,Burrumbuttock,New South Wales,177.86
+10717,Burrundulla,New South Wales,18.86
+10718,Burwood (NSW),New South Wales,2.43
+10719,Burwood Heights,New South Wales,0.23
+10720,Busby,New South Wales,1.21
+10721,Busbys Flat,New South Wales,161.37
+10722,Bushells Ridge,New South Wales,6.88
+10723,Buttaba,New South Wales,1.93
+10724,Buttai,New South Wales,7.08
+10725,Butterwick,New South Wales,12.05
+10726,Buxton (NSW),New South Wales,12.79
+10727,Byabarra,New South Wales,108.65
+10728,Byadbo Wilderness,New South Wales,604.93
+10729,Byangum,New South Wales,9.12
+10730,Bylong,New South Wales,132.69
+10731,Byng,New South Wales,37.88
+10732,Byrock,New South Wales,3580.80
+10733,Byron Bay,New South Wales,19.07
+10734,Byrrill Creek,New South Wales,21.91
+10735,Bywong,New South Wales,94.39
+10736,Cabarita (NSW),New South Wales,0.50
+10737,Cabarita Beach,New South Wales,1.43
+10738,Cabbage Tree Island (Ballina - NSW),New South Wales,0.54
+10739,Cabbage Tree Island (Mid-Coast - NSW),New South Wales,2.15
+10740,Cabramatta,New South Wales,5.04
+10741,Cabramatta West,New South Wales,1.83
+10742,Cabramurra,New South Wales,341.38
+10743,Caddens,New South Wales,1.69
+10744,Cadgee (NSW),New South Wales,22.59
+10745,Cadia,New South Wales,13.63
+10746,Caffreys Flat,New South Wales,65.22
+10747,Cairncross,New South Wales,21.20
+10748,Calala,New South Wales,61.21
+10749,Calamia,New South Wales,91.81
+10750,Calderwood,New South Wales,14.25
+10751,Caldwell,New South Wales,370.49
+10752,Calga,New South Wales,17.54
+10753,Califat,New South Wales,46.51
+10754,Calimo,New South Wales,375.79
+10755,Callaghan,New South Wales,1.79
+10756,Callaghans Creek,New South Wales,64.68
+10757,Callala Bay,New South Wales,7.65
+10758,Callala Beach,New South Wales,4.40
+10759,Calliope (NSW),New South Wales,16.73
+10760,Caloola,New South Wales,132.36
+10761,Cambalong,New South Wales,56.38
+10762,Camberwell (NSW),New South Wales,25.36
+10763,Cambewarra,New South Wales,18.31
+10764,Cambewarra Village,New South Wales,1.00
+10765,Camboon (NSW),New South Wales,26.22
+10766,Cambra,New South Wales,57.55
+10767,Cambridge Gardens,New South Wales,0.77
+10768,Cambridge Park,New South Wales,2.62
+10769,Cambridge Plateau,New South Wales,40.78
+10770,Camden,New South Wales,4.64
+10771,Camden Head,New South Wales,2.64
+10772,Camden Park (NSW),New South Wales,10.37
+10773,Camden South,New South Wales,4.24
+10774,Camellia,New South Wales,0.56
+10775,Cameron Park,New South Wales,12.18
+10776,Camerons Creek,New South Wales,161.12
+10777,Camira (NSW),New South Wales,71.24
+10778,Cammeray,New South Wales,1.55
+10779,Camp Creek (NSW),New South Wales,396.07
+10780,Campbelltown (NSW),New South Wales,11.39
+10781,Camperdown (NSW),New South Wales,1.52
+10782,Campsie,New South Wales,3.37
+10783,Campvale,New South Wales,14.84
+10784,Cams Wharf,New South Wales,0.83
+10785,Canada Bay,New South Wales,0.32
+10786,Canadian Lead,New South Wales,22.78
+10787,Canbelego,New South Wales,2849.78
+10788,Candelo,New South Wales,96.85
+10789,Cangai,New South Wales,129.54
+10790,Caniaba,New South Wales,30.12
+10791,Canley Heights,New South Wales,2.61
+10792,Canley Vale,New South Wales,2.89
+10793,Canobolas,New South Wales,71.02
+10794,Canoelands,New South Wales,63.45
+10795,Canonba,New South Wales,704.91
+10796,Canowindra,New South Wales,765.38
+10797,Canterbury (NSW),New South Wales,1.96
+10798,Canton Beach,New South Wales,0.83
+10799,Canyonleigh,New South Wales,257.82
+10800,Caparra,New South Wales,31.06
+10801,Capeen Creek,New South Wales,43.85
+10802,Capertee,New South Wales,214.03
+10803,Capoompeta,New South Wales,71.88
+10804,Captains Flat,New South Wales,166.91
+10805,Carabost,New South Wales,205.99
+10806,Caragabal,New South Wales,538.87
+10807,Carcalgong,New South Wales,74.66
+10808,Carcoar,New South Wales,124.07
+10809,Cardiff (NSW),New South Wales,5.16
+10810,Cardiff Heights,New South Wales,1.32
+10811,Cardiff South,New South Wales,1.38
+10812,Carey Bay,New South Wales,0.49
+10813,Cargo,New South Wales,253.37
+10814,Carinda,New South Wales,3378.21
+10815,Caringbah,New South Wales,4.09
+10816,Caringbah South,New South Wales,4.09
+10817,Carlaminda,New South Wales,79.25
+10818,Carlingford,New South Wales,8.53
+10819,Carlton (NSW),New South Wales,2.07
+10820,Carnes Hill,New South Wales,1.32
+10821,Carnham,New South Wales,63.59
+10822,Carool,New South Wales,7.34
+10823,Caroona,New South Wales,221.24
+10824,Carrabolla,New South Wales,215.08
+10825,Carrai,New South Wales,257.40
+10826,Carramar (NSW),New South Wales,1.02
+10827,Carrathool,New South Wales,2406.88
+10828,Carrick (NSW),New South Wales,84.46
+10829,Carrington (Mid-Coast - NSW),New South Wales,3.48
+10830,Carrington (Newcastle - NSW),New South Wales,2.04
+10831,Carrington Falls,New South Wales,14.59
+10832,Carroll,New South Wales,250.95
+10833,Carrowbrook,New South Wales,94.31
+10834,Carrs Creek,New South Wales,5.49
+10835,Carrs Island,New South Wales,1.40
+10836,Carrs Peninsula,New South Wales,3.12
+10837,Carss Park,New South Wales,0.63
+10838,Cartwright,New South Wales,0.96
+10839,Cartwrights Hill,New South Wales,2.86
+10840,Carwell,New South Wales,54.21
+10841,Carwoola,New South Wales,84.41
+10842,Cascade (NSW),New South Wales,85.45
+10843,Casino,New South Wales,80.03
+10844,Cassilis (NSW),New South Wales,983.02
+10845,Castle Cove,New South Wales,2.34
+10846,Castle Doyle,New South Wales,90.98
+10847,Castle Hill (NSW),New South Wales,18.81
+10848,Castle Rock,New South Wales,91.15
+10849,Castlecrag,New South Wales,1.51
+10850,Castlereagh,New South Wales,32.14
+10851,Casuarina (NSW),New South Wales,2.68
+10852,Casula,New South Wales,7.07
+10853,Catalina,New South Wales,3.84
+10854,Cataract,New South Wales,204.65
+10855,Cathcart (NSW),New South Wales,188.22
+10856,Catherine Field,New South Wales,9.82
+10857,Catherine Hill Bay,New South Wales,8.64
+10858,Cathundral,New South Wales,224.25
+10859,Cattai,New South Wales,22.70
+10860,Cattle Creek (NSW),New South Wales,217.39
+10861,Cavan (NSW),New South Wales,141.07
+10862,Caves Beach,New South Wales,2.43
+10863,Cawdor (NSW),New South Wales,28.32
+10864,Cawongla,New South Wales,35.88
+10865,Cecil Hills,New South Wales,6.22
+10866,Cecil Park,New South Wales,10.98
+10867,Cedar Brush Creek,New South Wales,40.68
+10868,Cedar Creek (Cessnock - NSW),New South Wales,107.43
+10869,Cedar Creek (Tweed - NSW),New South Wales,6.22
+10870,Cedar Party,New South Wales,38.40
+10871,Cedar Point,New South Wales,37.44
+10872,Cells River,New South Wales,182.64
+10873,Centennial Park (NSW),New South Wales,2.23
+10874,Central Colo,New South Wales,11.76
+10875,Central Macdonald,New South Wales,12.93
+10876,Central Mangrove,New South Wales,23.01
+10877,Central Tilba,New South Wales,39.35
+10878,Cessnock,New South Wales,35.24
+10879,Chaelundi,New South Wales,326.94
+10880,Chain Valley Bay,New South Wales,5.60
+10881,Chakola,New South Wales,120.45
+10882,Chambigne,New South Wales,193.98
+10883,Charbon,New South Wales,5.19
+10884,Charles Sturt University,New South Wales,3.51
+10885,Charlestown (NSW),New South Wales,7.12
+10886,Charleys Forest,New South Wales,89.03
+10887,Charlotte Bay,New South Wales,9.69
+10888,Charlton (NSW),New South Wales,55.62
+10889,Charmhaven,New South Wales,7.07
+10890,Chatham Valley,New South Wales,46.88
+10891,Chatsbury,New South Wales,99.32
+10892,Chatswood,New South Wales,5.01
+10893,Chatswood West,New South Wales,0.81
+10894,Chatsworth (NSW),New South Wales,13.33
+10895,Cheero Point,New South Wales,0.18
+10896,Cheltenham (NSW),New South Wales,1.65
+10897,Cherry Tree Hill,New South Wales,102.69
+10898,Cherrybrook,New South Wales,8.26
+10899,Chester Hill,New South Wales,3.98
+10900,Chichester (NSW),New South Wales,218.35
+10901,Chifley (NSW),New South Wales,1.06
+10902,Chilcotts Creek,New South Wales,49.12
+10903,Chilcotts Grass,New South Wales,2.12
+10904,Chillingham,New South Wales,8.37
+10905,Chinderah,New South Wales,14.88
+10906,Chinnock,New South Wales,13.11
+10907,Chippendale,New South Wales,0.46
+10908,Chipping Norton,New South Wales,7.13
+10909,Chisholm (NSW),New South Wales,7.62
+10910,Chiswick,New South Wales,0.51
+10911,Chittaway Bay,New South Wales,1.12
+10912,Chittaway Point,New South Wales,1.62
+10913,Chowan Creek,New South Wales,12.51
+10914,Chullora,New South Wales,1.99
+10915,Church Point,New South Wales,0.72
+10916,Clandulla,New South Wales,71.44
+10917,Clare (NSW),New South Wales,1808.76
+10918,Claremont Meadows,New South Wales,3.04
+10919,Clarence,New South Wales,17.18
+10920,Clarence Town,New South Wales,91.95
+10921,Clarendon (NSW),New South Wales,4.72
+10922,Clarenza,New South Wales,64.69
+10923,Clareville,New South Wales,0.50
+10924,Claymore,New South Wales,1.42
+10925,Clear Creek,New South Wales,52.97
+10926,Clear Range,New South Wales,47.43
+10927,Clearfield,New South Wales,36.15
+10928,Clemton Park,New South Wales,0.37
+10929,Clergate,New South Wales,30.08
+10930,Cleveland (NSW),New South Wales,3.23
+10931,Clifden,New South Wales,41.77
+10932,Cliftleigh,New South Wales,4.29
+10933,Clifton (NSW),New South Wales,0.24
+10934,Clifton Grove,New South Wales,43.11
+10935,Clontarf (NSW),New South Wales,0.86
+10936,Clothiers Creek,New South Wales,9.94
+10937,Clouds Creek,New South Wales,244.60
+10938,Clovelly,New South Wales,0.79
+10939,Clunes (NSW),New South Wales,23.52
+10940,Clybucca,New South Wales,85.25
+10941,Clyde (NSW),New South Wales,0.67
+10942,Clydesdale (NSW),New South Wales,6.03
+10943,Coal Point,New South Wales,1.37
+10944,Coalcliff,New South Wales,1.90
+10945,Coaldale,New South Wales,93.94
+10946,Coasters Retreat,New South Wales,0.12
+10947,Cobaki,New South Wales,7.62
+10948,Cobaki Lakes,New South Wales,9.90
+10949,Cobar,New South Wales,2186.32
+10950,Cobar Park,New South Wales,0.82
+10951,Cobargo,New South Wales,104.03
+10952,Cobark,New South Wales,140.37
+10953,Cobbadah,New South Wales,275.48
+10954,Cobbitty,New South Wales,52.16
+10955,Cobramunga,New South Wales,104.57
+10956,Cockwhy,New South Wales,41.69
+10957,Codrington (NSW),New South Wales,19.25
+10958,Coffee Camp,New South Wales,21.19
+10959,Coffs Harbour,New South Wales,46.05
+10960,Coggan,New South Wales,33.55
+10961,Cogra Bay,New South Wales,0.57
+10962,Coila,New South Wales,8.67
+10963,Coldstream (NSW),New South Wales,11.06
+10964,Coleambally,New South Wales,1865.22
+10965,Colebee,New South Wales,3.48
+10966,Coledale,New South Wales,2.10
+10967,Colinroobie,New South Wales,296.12
+10968,Colinton (NSW),New South Wales,86.89
+10969,Collarenebri,New South Wales,5044.61
+10970,Collaroy (NSW),New South Wales,2.68
+10971,Collaroy Plateau,New South Wales,1.22
+10972,Collector,New South Wales,112.70
+10973,Collendina,New South Wales,176.06
+10974,Collerina,New South Wales,1588.90
+10975,Collie (NSW),New South Wales,719.17
+10976,Collingullie,New South Wales,147.38
+10977,Collingwood (NSW),New South Wales,19.76
+10978,Collins Creek,New South Wales,34.01
+10979,Collombatti,New South Wales,199.99
+10980,Collum Collum,New South Wales,48.11
+10981,Colly Blue,New South Wales,42.92
+10982,Colo (Bathurst Regional - NSW),New South Wales,60.82
+10983,Colo (Hawkesbury - NSW),New South Wales,6.90
+10984,Colo Heights,New South Wales,524.08
+10985,Colo Vale,New South Wales,65.74
+10986,Colongra,New South Wales,7.89
+10987,Colyton,New South Wales,3.36
+10988,Comara,New South Wales,456.81
+10989,Combaning,New South Wales,171.85
+10990,Combara,New South Wales,282.65
+10991,Comberton,New South Wales,60.86
+10992,Comboyne,New South Wales,100.17
+10993,Come By Chance,New South Wales,761.96
+10994,Comerong Island,New South Wales,14.03
+10995,Commissioners Creek,New South Wales,13.61
+10996,Como (NSW),New South Wales,1.60
+10997,Comobella,New South Wales,117.37
+10998,Conargo,New South Wales,850.27
+10999,Concord,New South Wales,5.06
+11000,Concord West,New South Wales,2.54
+11001,Condell Park,New South Wales,3.89
+11002,Condobolin,New South Wales,4966.85
+11003,Condong,New South Wales,3.82
+11004,Coneac,New South Wales,45.13
+11005,Congarinni,New South Wales,31.21
+11006,Congarinni North,New South Wales,31.45
+11007,Congewai,New South Wales,67.18
+11008,Congo,New South Wales,10.12
+11009,Conimbia,New South Wales,583.49
+11010,Coniston,New South Wales,1.05
+11011,Conjola,New South Wales,42.59
+11012,Conjola Park,New South Wales,2.90
+11013,Connells Point,New South Wales,1.03
+11014,Constitution Hill,New South Wales,1.19
+11015,Coogee (NSW),New South Wales,1.92
+11016,Cookamidgera,New South Wales,180.97
+11017,Cookardinia,New South Wales,189.69
+11018,Cooks Gap,New South Wales,44.23
+11019,Cooks Hill,New South Wales,0.72
+11020,Cooks Myalls,New South Wales,171.66
+11021,Coolabah,New South Wales,2571.95
+11022,Coolac,New South Wales,334.82
+11023,Coolagolite,New South Wales,88.32
+11024,Coolah,New South Wales,1590.92
+11025,Coolamon,New South Wales,297.22
+11026,Coolangatta (NSW),New South Wales,13.52
+11027,Coolangubra,New South Wales,135.68
+11028,Coolatai,New South Wales,507.66
+11029,Cooleman,New South Wales,65.81
+11030,Cooleys Creek,New South Wales,5.73
+11031,Coolgardie (NSW),New South Wales,6.85
+11032,Coolongolook,New South Wales,140.55
+11033,Coolringdon,New South Wales,108.33
+11034,Coolumbooka,New South Wales,84.19
+11035,Coolumburra,New South Wales,43.18
+11036,Cooma (NSW),New South Wales,97.84
+11037,Coomba Bay,New South Wales,9.34
+11038,Coomba Park,New South Wales,10.64
+11039,Coombadjha,New South Wales,194.15
+11040,Coombell,New South Wales,62.90
+11041,Coomealla,New South Wales,132.17
+11042,Coomoo Coomoo,New South Wales,163.55
+11043,Coonabarabran,New South Wales,241.78
+11044,Coonamble,New South Wales,1514.41
+11045,Coongbar,New South Wales,69.29
+11046,Cooperabung,New South Wales,60.79
+11047,Coopernook,New South Wales,25.08
+11048,Coopers Gully,New South Wales,16.13
+11049,Coopers Shoot,New South Wales,14.11
+11050,Cooplacurripa,New South Wales,409.70
+11051,Coorabell,New South Wales,20.39
+11052,Cooranbong,New South Wales,70.49
+11053,Cootamundra,New South Wales,888.40
+11054,Cootralantra,New South Wales,162.07
+11055,Cooyal,New South Wales,52.71
+11056,Copacabana,New South Wales,2.00
+11057,Cope,New South Wales,76.47
+11058,Copeland,New South Wales,45.63
+11059,Copeton,New South Wales,186.67
+11060,Copmanhurst,New South Wales,21.85
+11061,Coppabella (NSW),New South Wales,163.57
+11062,Copperhannia,New South Wales,185.73
+11063,Coraki,New South Wales,32.34
+11064,Coralville,New South Wales,34.92
+11065,Coramba,New South Wales,53.89
+11066,Corang,New South Wales,130.34
+11067,Corangula,New South Wales,9.91
+11068,Corbie Hill,New South Wales,104.51
+11069,Cordeaux,New South Wales,92.73
+11070,Cordeaux Heights,New South Wales,3.35
+11071,Coree,New South Wales,402.27
+11072,Coreen,New South Wales,349.55
+11073,Corindi Beach,New South Wales,24.25
+11074,Corinella (NSW),New South Wales,482.20
+11075,Corlette,New South Wales,3.06
+11076,Corndale (NSW),New South Wales,23.54
+11077,Corney Town,New South Wales,0.38
+11078,Cornwallis,New South Wales,7.52
+11079,Corobimilla,New South Wales,190.05
+11080,Corowa,New South Wales,77.20
+11081,Corrabare,New South Wales,72.52
+11082,Corrimal,New South Wales,5.04
+11083,Corrong,New South Wales,978.79
+11084,Corrowong,New South Wales,362.35
+11085,Corunna,New South Wales,11.54
+11086,Cottage Point,New South Wales,0.40
+11087,Cottonvale (NSW),New South Wales,9.82
+11088,Cougal,New South Wales,35.81
+11089,Countegany,New South Wales,170.08
+11090,Courabyra,New South Wales,49.45
+11091,Couradda,New South Wales,162.85
+11092,Couragago,New South Wales,24.26
+11093,Couridjah,New South Wales,2.81
+11094,Coutts Crossing,New South Wales,59.18
+11095,Cow Flat,New South Wales,36.70
+11096,Cowabbie,New South Wales,125.78
+11097,Cowan,New South Wales,31.90
+11098,Cowper,New South Wales,13.59
+11099,Cowra,New South Wales,885.43
+11100,Coxs Creek,New South Wales,123.77
+11101,Coxs Crown,New South Wales,29.96
+11102,Crabbes Creek,New South Wales,18.08
+11103,Crackenback,New South Wales,84.54
+11104,Craigie (NSW),New South Wales,98.09
+11105,Cranebrook,New South Wales,14.95
+11106,Crangan Bay,New South Wales,6.56
+11107,Craven,New South Wales,94.71
+11108,Craven Plateau,New South Wales,18.81
+11109,Crawford River,New South Wales,98.43
+11110,Crawney,New South Wales,269.10
+11111,Creewah,New South Wales,35.38
+11112,Cremorne (NSW),New South Wales,1.63
+11113,Cremorne Point,New South Wales,0.43
+11114,Crescent Head,New South Wales,181.87
+11115,Crestwood,New South Wales,1.96
+11116,Cringila,New South Wales,1.68
+11117,Croki,New South Wales,1.37
+11118,Cromer (NSW),New South Wales,6.21
+11119,Cronulla,New South Wales,3.87
+11120,Crooble,New South Wales,239.33
+11121,Croobyar,New South Wales,16.86
+11122,Crooked Corner,New South Wales,247.96
+11123,Crookwell,New South Wales,207.39
+11124,Croom,New South Wales,18.69
+11125,Croppa Creek,New South Wales,396.93
+11126,Cross Roads (NSW),New South Wales,14.68
+11127,Crosslands,New South Wales,3.73
+11128,Croudace Bay,New South Wales,0.67
+11129,Crowdy Bay National Park,New South Wales,53.30
+11130,Crowdy Head,New South Wales,6.92
+11131,Crows Nest (NSW),New South Wales,0.76
+11132,Crowther,New South Wales,206.23
+11133,Crowther Island,New South Wales,0.59
+11134,Croydon (NSW),New South Wales,2.44
+11135,Croydon Park (NSW),New South Wales,2.55
+11136,Crudine,New South Wales,116.81
+11137,Cryon,New South Wales,563.74
+11138,Crystal Creek (NSW),New South Wales,11.47
+11139,Cubba,New South Wales,2267.86
+11140,Cudal,New South Wales,155.03
+11141,Cudgegong,New South Wales,158.26
+11142,Cudgel,New South Wales,52.02
+11143,Cudgen,New South Wales,10.22
+11144,Cudgera Creek,New South Wales,24.50
+11145,Cudmirrah,New South Wales,0.60
+11146,Culburra Beach,New South Wales,13.37
+11147,Culcairn,New South Wales,321.63
+11148,Cullen Bullen,New South Wales,80.57
+11149,Cullenbone,New South Wales,2.93
+11150,Cullendore,New South Wales,56.08
+11151,Cullerin,New South Wales,121.77
+11152,Cullivel,New South Wales,108.28
+11153,Culmaran Creek,New South Wales,33.17
+11154,Cumbalum,New South Wales,16.59
+11155,Cumbandry,New South Wales,11.00
+11156,Cumberland Reach,New South Wales,3.43
+11157,Cumbo,New South Wales,54.70
+11158,Cumborah,New South Wales,1803.38
+11159,Cumnock,New South Wales,407.07
+11160,Cundle Flat,New South Wales,17.99
+11161,Cundletown,New South Wales,18.55
+11162,Cundumbul,New South Wales,74.31
+11163,Cunjurong Point,New South Wales,1.59
+11164,Cunningar,New South Wales,177.59
+11165,Cunninyeuk,New South Wales,185.23
+11166,Curban,New South Wales,423.18
+11167,Curl Curl,New South Wales,1.28
+11168,Curlew Waters,New South Wales,1.51
+11169,Curlewis (NSW),New South Wales,570.14
+11170,Curlwaa,New South Wales,25.22
+11171,Curra Creek,New South Wales,91.38
+11172,Currabubula,New South Wales,265.99
+11173,Curragh,New South Wales,46.30
+11174,Curramore (NSW),New South Wales,10.56
+11175,Currans Hill,New South Wales,3.61
+11176,Currarong,New South Wales,0.96
+11177,Currawang,New South Wales,232.82
+11178,Currawarna,New South Wales,186.37
+11179,Curraweela,New South Wales,101.01
+11180,Curricabark,New South Wales,98.34
+11181,Currowan,New South Wales,165.17
+11182,Cuttabri,New South Wales,296.94
+11183,Cuttagee,New South Wales,15.07
+11184,Dabee,New South Wales,91.79
+11185,Daceyville,New South Wales,0.49
+11186,Dairy Arm,New South Wales,22.24
+11187,Dairy Flat,New South Wales,68.10
+11188,Dairymans Plains,New South Wales,34.94
+11189,Daleys Point,New South Wales,1.34
+11190,Dalgety,New South Wales,211.82
+11191,Dalmeny,New South Wales,7.15
+11192,Dalmorton,New South Wales,330.00
+11193,Dalswinton,New South Wales,27.15
+11194,Dalton,New South Wales,67.90
+11195,Dalwood (Ballina - NSW),New South Wales,10.88
+11196,Dalwood (Singleton - NSW),New South Wales,10.85
+11197,Dandaloo,New South Wales,507.40
+11198,Dandry,New South Wales,831.41
+11199,Dangar Island,New South Wales,0.32
+11200,Dangarsleigh,New South Wales,99.44
+11201,Dangelong,New South Wales,74.88
+11202,Dapto,New South Wales,7.37
+11203,Darawank,New South Wales,32.60
+11204,Darbalara,New South Wales,110.69
+11205,Darbys Falls,New South Wales,63.86
+11206,Dareton,New South Wales,2.40
+11207,Dargan,New South Wales,8.10
+11208,Dark Corner,New South Wales,104.61
+11209,Darkes Forest,New South Wales,25.55
+11210,Darkwood,New South Wales,142.72
+11211,Darling Point,New South Wales,0.67
+11212,Darlinghurst,New South Wales,0.86
+11213,Darlington (Singleton - NSW),New South Wales,0.29
+11214,Darlington (Sydney - NSW),New South Wales,0.38
+11215,Darlington Point,New South Wales,725.40
+11216,Darlow,New South Wales,55.42
+11217,Dartbrook,New South Wales,57.14
+11218,Daruka,New South Wales,27.68
+11219,Davidson,New South Wales,2.57
+11220,Davis Creek,New South Wales,110.50
+11221,Davistown,New South Wales,1.61
+11222,Dawes Point,New South Wales,0.15
+11223,Daysdale,New South Wales,312.67
+11224,Dean Park,New South Wales,1.51
+11225,Deauville,New South Wales,2.49
+11226,Debenham,New South Wales,112.73
+11227,Dee Why,New South Wales,3.05
+11228,Deep Creek (Clarence Valley - NSW),New South Wales,63.49
+11229,Deep Creek (Kempsey - NSW),New South Wales,32.35
+11230,Deep Creek (Kyogle - NSW),New South Wales,97.75
+11231,Deepwater (NSW),New South Wales,506.32
+11232,Deer Vale,New South Wales,94.41
+11233,Delegate,New South Wales,272.92
+11234,Delungra,New South Wales,664.73
+11235,Denham Court,New South Wales,13.43
+11236,Denhams Beach,New South Wales,0.52
+11237,Deniliquin,New South Wales,965.61
+11238,Denistone,New South Wales,1.51
+11239,Denistone East,New South Wales,0.70
+11240,Denistone West,New South Wales,0.32
+11241,Denman,New South Wales,116.65
+11242,Depot Beach,New South Wales,2.15
+11243,Derriwong,New South Wales,52.97
+11244,Deua,New South Wales,526.34
+11245,Deua River Valley,New South Wales,188.76
+11246,Devils Hole,New South Wales,11.66
+11247,Dewitt,New South Wales,114.85
+11248,Dharruk,New South Wales,0.94
+11249,Dhulura,New South Wales,39.29
+11250,Dhuragoon,New South Wales,163.89
+11251,Diamond Beach,New South Wales,10.43
+11252,Diamond Head,New South Wales,28.65
+11253,Diehard,New South Wales,87.90
+11254,Diggers Camp,New South Wales,17.74
+11255,Dignams Creek,New South Wales,121.39
+11256,Dilkoon,New South Wales,31.36
+11257,Dilpurra,New South Wales,153.52
+11258,Dingo Forest,New South Wales,87.36
+11259,Dinoga,New South Wales,286.38
+11260,Dirnaseer,New South Wales,186.49
+11261,Dirty Creek,New South Wales,15.61
+11262,Dobies Bight,New South Wales,32.90
+11263,Doctor George Mountain,New South Wales,7.17
+11264,Doctors Gap,New South Wales,1.44
+11265,Dog Rocks,New South Wales,49.19
+11266,Dolans Bay,New South Wales,0.26
+11267,Dolls Point,New South Wales,0.22
+11268,Dollys Flat,New South Wales,18.75
+11269,Dolphin Point,New South Wales,1.49
+11270,Dombarton,New South Wales,8.35
+11271,Donald Creek,New South Wales,18.44
+11272,Dondingalong,New South Wales,83.06
+11273,Doon Doon,New South Wales,41.98
+11274,Doonbah,New South Wales,9.12
+11275,Doonside,New South Wales,5.96
+11276,Dooralong,New South Wales,22.56
+11277,Dora Creek,New South Wales,10.26
+11278,Dorrigo,New South Wales,40.54
+11279,Dorrigo Mountain,New South Wales,41.37
+11280,Dorroughby,New South Wales,9.13
+11281,Double Bay,New South Wales,0.79
+11282,Doubtful Creek,New South Wales,56.13
+11283,Douglas Park,New South Wales,26.77
+11284,Dover Heights,New South Wales,0.95
+11285,Downside,New South Wales,79.37
+11286,Doyalson,New South Wales,8.28
+11287,Doyalson North,New South Wales,3.46
+11288,Doyles Creek,New South Wales,260.83
+11289,Doyles River,New South Wales,108.02
+11290,Drake,New South Wales,284.50
+11291,Drildool,New South Wales,256.85
+11292,Dripstone,New South Wales,70.32
+11293,Drummoyne,New South Wales,2.31
+11294,Dry Creek (NSW),New South Wales,31.79
+11295,Dry Plain,New South Wales,118.79
+11296,Dubbo,New South Wales,990.70
+11297,Duck Creek,New South Wales,80.39
+11298,Duckenfield,New South Wales,2.45
+11299,Duckmaloi,New South Wales,31.69
+11300,Dudley,New South Wales,5.46
+11301,Duffys Forest,New South Wales,4.62
+11302,Dulguigan,New South Wales,11.86
+11303,Dulwich Hill,New South Wales,2.12
+11304,Dum Dum,New South Wales,10.55
+11305,Dumaresq,New South Wales,127.37
+11306,Dumaresq Island,New South Wales,8.47
+11307,Dumaresq Valley,New South Wales,287.44
+11308,Dumbudgery,New South Wales,30.21
+11309,Dunbible,New South Wales,15.22
+11310,Dunbogan,New South Wales,6.81
+11311,Duncans Creek,New South Wales,69.71
+11312,Dundas (NSW),New South Wales,1.35
+11313,Dundas Valley,New South Wales,1.78
+11314,Dundee,New South Wales,309.42
+11315,Dundurrabin,New South Wales,156.58
+11316,Dunedoo,New South Wales,1500.74
+11317,Dungarubba,New South Wales,15.48
+11318,Dungay,New South Wales,16.61
+11319,Dungeree,New South Wales,42.61
+11320,Dungog,New South Wales,5.50
+11321,Dungowan,New South Wales,173.11
+11322,Dunkeld (NSW),New South Wales,9.41
+11323,Dunmore (NSW),New South Wales,18.52
+11324,Dunolly (NSW),New South Wales,1.67
+11325,Dunoon,New South Wales,30.33
+11326,Duns Creek,New South Wales,27.71
+11327,Dunville Loop,New South Wales,42.27
+11328,Dural (Hornsby - NSW),New South Wales,34.13
+11329,Dural (Singleton - NSW),New South Wales,46.44
+11330,Duramana,New South Wales,130.71
+11331,Duranbah,New South Wales,10.87
+11332,Duri,New South Wales,138.83
+11333,Duroby,New South Wales,2.64
+11334,Durran Durra,New South Wales,87.56
+11335,Durras North,New South Wales,10.08
+11336,Durren Durren,New South Wales,4.37
+11337,Duval,New South Wales,20.09
+11338,Dyers Crossing,New South Wales,38.85
+11339,Dyraaba,New South Wales,66.25
+11340,Dyrring,New South Wales,29.57
+11341,Eagle Vale,New South Wales,2.52
+11342,Eagleton,New South Wales,15.94
+11343,Earlwood,New South Wales,5.61
+11344,East Albury,New South Wales,12.33
+11345,East Ballina,New South Wales,6.50
+11346,East Branxton,New South Wales,1.32
+11347,East Coraki,New South Wales,45.72
+11348,East Corrimal,New South Wales,1.40
+11349,East Gosford,New South Wales,2.08
+11350,East Gresford,New South Wales,31.58
+11351,East Hills,New South Wales,1.43
+11352,East Jindabyne,New South Wales,49.30
+11353,East Kangaloon,New South Wales,45.71
+11354,East Kempsey,New South Wales,3.75
+11355,East Killara,New South Wales,3.19
+11356,East Kurrajong,New South Wales,35.62
+11357,East Lindfield,New South Wales,2.33
+11358,East Lismore,New South Wales,6.54
+11359,East Lynne,New South Wales,37.26
+11360,East Maitland,New South Wales,15.94
+11361,East Ryde,New South Wales,1.09
+11362,East Seaham,New South Wales,37.70
+11363,East Tamworth,New South Wales,14.81
+11364,East Wagga Wagga,New South Wales,10.55
+11365,East Wardell,New South Wales,20.29
+11366,Eastern Creek,New South Wales,20.43
+11367,Eastgardens,New South Wales,0.54
+11368,Eastlakes,New South Wales,2.00
+11369,Eastwood (NSW),New South Wales,5.19
+11370,Eatonsville,New South Wales,19.88
+11371,Ebenezer (NSW),New South Wales,21.86
+11372,Ebor,New South Wales,329.67
+11373,Eccleston,New South Wales,54.76
+11374,Edderton,New South Wales,43.83
+11375,Eden,New South Wales,85.46
+11376,Eden Creek,New South Wales,37.77
+11377,Edensor Park,New South Wales,3.10
+11378,Edenville,New South Wales,31.30
+11379,Edgecliff,New South Wales,0.32
+11380,Edgeroi,New South Wales,346.99
+11381,Edgeworth,New South Wales,6.02
+11382,Edith (NSW),New South Wales,62.86
+11383,Edmondson Park,New South Wales,6.95
+11384,Edrom,New South Wales,37.88
+11385,Eenaweena,New South Wales,305.83
+11386,Eglinton (NSW),New South Wales,63.47
+11387,Eighteen Mile,New South Wales,71.07
+11388,Elands,New South Wales,113.08
+11389,Elanora Heights,New South Wales,3.88
+11390,Elcombe,New South Wales,185.93
+11391,Elderslie (Camden - NSW),New South Wales,5.04
+11392,Elderslie (Singleton - NSW),New South Wales,19.85
+11393,Eleebana,New South Wales,4.21
+11394,Elermore Vale,New South Wales,5.07
+11395,Elizabeth Bay,New South Wales,0.25
+11396,Elizabeth Beach,New South Wales,1.62
+11397,Elizabeth Hills,New South Wales,1.12
+11398,Ellalong,New South Wales,35.41
+11399,Elland,New South Wales,33.61
+11400,Ellangowan (NSW),New South Wales,167.37
+11401,Ellenborough,New South Wales,134.68
+11402,Ellerslie (Snowy Valleys - NSW),New South Wales,104.12
+11403,Ellerslie (Wentworth - NSW),New South Wales,23.13
+11404,Ellerston,New South Wales,290.39
+11405,Ellis Lane,New South Wales,3.58
+11406,Elong Elong,New South Wales,221.64
+11407,Elrington,New South Wales,23.68
+11408,Elsmore,New South Wales,120.41
+11409,Eltham (NSW),New South Wales,16.62
+11410,Elvina Bay,New South Wales,0.25
+11411,Emerald Beach,New South Wales,15.04
+11412,Emerald Hill,New South Wales,190.19
+11413,Emerton,New South Wales,0.90
+11414,Emmaville,New South Wales,618.75
+11415,Empire Bay,New South Wales,3.97
+11416,Empire Vale,New South Wales,14.27
+11417,Emu Heights (NSW),New South Wales,3.43
+11418,Emu Plains,New South Wales,8.25
+11419,Emu Swamp,New South Wales,58.34
+11420,Endrick,New South Wales,162.35
+11421,Enfield (NSW),New South Wales,0.73
+11422,Engadine,New South Wales,9.23
+11423,Englorie Park,New South Wales,0.11
+11424,Enmore (Armidale Regional - NSW),New South Wales,222.17
+11425,Enmore (Inner West - NSW),New South Wales,0.44
+11426,Enngonia,New South Wales,6039.75
+11427,Environa,New South Wales,8.36
+11428,Epping (NSW),New South Wales,6.84
+11429,Eraring,New South Wales,7.90
+11430,Eremerang,New South Wales,1813.51
+11431,Erigolia,New South Wales,302.44
+11432,Erin Vale,New South Wales,155.42
+11433,Erina,New South Wales,5.15
+11434,Erina Heights,New South Wales,1.52
+11435,Ermington,New South Wales,4.13
+11436,Erowal Bay,New South Wales,3.39
+11437,Errowanbang,New South Wales,60.89
+11438,Erskine Park,New South Wales,8.39
+11439,Erskineville,New South Wales,0.81
+11440,Erudgere,New South Wales,42.22
+11441,Eschol Park,New South Wales,2.73
+11442,Esk (NSW),New South Wales,55.84
+11443,Essington,New South Wales,141.38
+11444,Estella,New South Wales,1.99
+11445,Ettalong Beach,New South Wales,1.78
+11446,Ettamogah,New South Wales,20.50
+11447,Ettrema,New South Wales,178.67
+11448,Ettrick (NSW),New South Wales,44.16
+11449,Euabalong,New South Wales,2038.33
+11450,Euabalong West,New South Wales,0.60
+11451,Euberta,New South Wales,104.76
+11452,Euchareena,New South Wales,421.18
+11453,Eucumbene,New South Wales,3.86
+11454,Eugowra,New South Wales,519.70
+11455,Eulah Creek,New South Wales,107.33
+11456,Eumungerie,New South Wales,350.34
+11457,Eunanoreenya,New South Wales,39.07
+11458,Eungai Creek,New South Wales,24.11
+11459,Eungai Rail,New South Wales,10.09
+11460,Eungella (NSW),New South Wales,28.84
+11461,Eureka (NSW),New South Wales,21.49
+11462,Eurimbla,New South Wales,111.38
+11463,Eurobodalla,New South Wales,40.35
+11464,Euroka,New South Wales,9.00
+11465,Euroley,New South Wales,296.66
+11466,Eurongilly,New South Wales,153.98
+11467,Eurunderee,New South Wales,48.30
+11468,Euston,New South Wales,3345.62
+11469,Evans Head,New South Wales,22.25
+11470,Evans Plains,New South Wales,65.62
+11471,Eveleigh,New South Wales,0.53
+11472,Eviron,New South Wales,14.41
+11473,Ewingar,New South Wales,116.83
+11474,Ewingsdale,New South Wales,18.78
+11475,Exeter (NSW),New South Wales,51.54
+11476,Failford,New South Wales,15.64
+11477,Fairfield (NSW),New South Wales,4.43
+11478,Fairfield East,New South Wales,1.99
+11479,Fairfield Heights,New South Wales,1.47
+11480,Fairfield West,New South Wales,3.22
+11481,Fairholme,New South Wales,332.29
+11482,Fairlight,New South Wales,1.17
+11483,Fairy Hill,New South Wales,28.08
+11484,Fairy Meadow,New South Wales,3.42
+11485,Falbrook,New South Wales,16.16
+11486,Falconer,New South Wales,49.85
+11487,Falls Creek (NSW),New South Wales,29.46
+11488,Far Meadow,New South Wales,13.17
+11489,Fargunyah,New South Wales,72.50
+11490,Farley,New South Wales,13.21
+11491,Farmborough Heights,New South Wales,3.04
+11492,Farnham,New South Wales,27.57
+11493,Farrants Hill,New South Wales,3.57
+11494,Farringdon,New South Wales,67.48
+11495,Fassifern (NSW),New South Wales,5.33
+11496,Faulconbridge,New South Wales,14.93
+11497,Faulkland,New South Wales,37.43
+11498,Fawcetts Plain,New South Wales,27.27
+11499,Federal (NSW),New South Wales,27.59
+11500,Fennell Bay,New South Wales,2.72
+11501,Fern Bay,New South Wales,8.35
+11502,Fern Gully,New South Wales,3.42
+11503,Fernances,New South Wales,6.11
+11504,Fernances Crossing,New South Wales,14.58
+11505,Fernbank Creek,New South Wales,14.73
+11506,Fernbrook,New South Wales,42.96
+11507,Fernhill,New South Wales,0.39
+11508,Fernleigh,New South Wales,11.46
+11509,Fernmount,New South Wales,16.59
+11510,Fernside,New South Wales,14.92
+11511,Fernvale (NSW),New South Wales,12.95
+11512,Ferodale,New South Wales,81.99
+11513,Fiddletown,New South Wales,69.41
+11514,Fifield,New South Wales,665.04
+11515,Figtree,New South Wales,8.56
+11516,Findon Creek,New South Wales,67.53
+11517,Fine Flower,New South Wales,60.84
+11518,Fingal Bay,New South Wales,9.61
+11519,Fingal Head,New South Wales,4.32
+11520,Finley,New South Wales,535.90
+11521,Firefly,New South Wales,46.68
+11522,Fishermans Bay,New South Wales,1.16
+11523,Fishermans Paradise,New South Wales,0.99
+11524,Fishermans Reach,New South Wales,18.97
+11525,Fishers Hill,New South Wales,14.54
+11526,Fishing Point,New South Wales,0.67
+11527,Fitzgeralds Mount,New South Wales,21.51
+11528,Fitzgeralds Valley,New South Wales,5.74
+11529,Fitzroy Falls,New South Wales,70.79
+11530,Five Dock,New South Wales,2.45
+11531,Five Ways,New South Wales,573.92
+11532,Flat Tops,New South Wales,18.22
+11533,Fletcher (NSW),New South Wales,6.18
+11534,Flinders (NSW),New South Wales,2.31
+11535,Floraville,New South Wales,1.36
+11536,Forbes (NSW),New South Wales,1082.12
+11537,Forbes Creek,New South Wales,39.03
+11538,Forbes River,New South Wales,218.53
+11539,Forbesdale,New South Wales,37.55
+11540,Fords Bridge,New South Wales,3778.60
+11541,Fordwich,New South Wales,23.68
+11542,Forest Glen (NSW),New South Wales,5.60
+11543,Forest Grove (NSW),New South Wales,8.43
+11544,Forest Hill (NSW),New South Wales,34.62
+11545,Forest Land,New South Wales,209.15
+11546,Forest Lodge,New South Wales,0.44
+11547,Forest Reefs,New South Wales,66.07
+11548,Forestville (NSW),New South Wales,4.69
+11549,Forresters Beach,New South Wales,2.77
+11550,Forster (NSW),New South Wales,32.54
+11551,Fortis Creek,New South Wales,106.90
+11552,Fosters Valley,New South Wales,55.83
+11553,Fosterton,New South Wales,32.45
+11554,Fountaindale,New South Wales,7.77
+11555,Four Corners,New South Wales,257.54
+11556,Four Mile Creek (NSW),New South Wales,29.27
+11557,Fowlers Gap,New South Wales,4164.83
+11558,Foxground,New South Wales,20.06
+11559,Frazer Park,New South Wales,2.98
+11560,Frazers Creek,New South Wales,46.16
+11561,Frederickton,New South Wales,12.26
+11562,Freeburn Island,New South Wales,4.02
+11563,Freemans,New South Wales,2.24
+11564,Freemans Reach,New South Wales,24.60
+11565,Freemans Waterhole,New South Wales,35.76
+11566,Freemantle,New South Wales,59.88
+11567,French Park,New South Wales,21.28
+11568,Frenchs Forest,New South Wales,8.64
+11569,Freshwater (NSW),New South Wales,1.78
+11570,Frog Rock,New South Wales,13.80
+11571,Frogmore,New South Wales,304.21
+11572,Frogs Hollow,New South Wales,16.34
+11573,Frying Pan,New South Wales,65.48
+11574,Fullerton,New South Wales,204.37
+11575,Fullerton Cove,New South Wales,18.48
+11576,Furracabad,New South Wales,77.64
+11577,Gadara,New South Wales,47.02
+11578,Gala Vale,New South Wales,121.84
+11579,Galambine,New South Wales,58.46
+11580,Galong,New South Wales,260.13
+11581,Galore,New South Wales,259.02
+11582,Galston,New South Wales,23.56
+11583,Ganbenang,New South Wales,136.91
+11584,Gangat,New South Wales,9.67
+11585,Ganmain,New South Wales,439.87
+11586,Garah,New South Wales,2334.29
+11587,Garden Suburb,New South Wales,1.90
+11588,Garema,New South Wales,302.67
+11589,Garland,New South Wales,85.86
+11590,Garland Valley,New South Wales,96.41
+11591,Garoo,New South Wales,261.14
+11592,Garra,New South Wales,60.07
+11593,Garthowen,New South Wales,73.06
+11594,Gateshead,New South Wales,2.68
+11595,Gearys Flat,New South Wales,87.44
+11596,Geehi,New South Wales,366.38
+11597,Gelston Park,New South Wales,30.05
+11598,Gemalla,New South Wales,24.72
+11599,Geneva,New South Wales,13.98
+11600,Georges Creek (NSW),New South Wales,183.75
+11601,Georges Hall,New South Wales,3.32
+11602,Georges Plains,New South Wales,43.85
+11603,Georgetown (NSW),New South Wales,0.55
+11604,Georgica,New South Wales,28.28
+11605,Gerogery,New South Wales,168.96
+11606,Gerringong,New South Wales,10.86
+11607,Gerroa,New South Wales,9.00
+11608,Geurie,New South Wales,190.42
+11609,Ghinni Ghi,New South Wales,62.66
+11610,Ghinni Ghinni,New South Wales,6.91
+11611,Ghoolendaadi,New South Wales,201.44
+11612,Giants Creek,New South Wales,147.64
+11613,Gibberagee,New South Wales,155.38
+11614,Gibraltar Range,New South Wales,520.88
+11615,Gidginbung,New South Wales,136.91
+11616,Gidley,New South Wales,20.90
+11617,Gilead,New South Wales,28.04
+11618,Gilgai,New South Wales,86.17
+11619,Gilgandra,New South Wales,648.13
+11620,Gilgooma,New South Wales,368.52
+11621,Gilgunnia,New South Wales,361.64
+11622,Gillenbah,New South Wales,293.03
+11623,Gilletts Ridge,New South Wales,6.88
+11624,Gillieston Heights,New South Wales,11.80
+11625,Gilmandyke,New South Wales,54.95
+11626,Gilmore (NSW),New South Wales,95.59
+11627,Gin Gin (NSW),New South Wales,567.18
+11628,Gineroi,New South Wales,172.63
+11629,Ginghi,New South Wales,53.42
+11630,Gingkin,New South Wales,140.67
+11631,Girards Hill,New South Wales,0.73
+11632,Girilambone,New South Wales,1702.91
+11633,Giro,New South Wales,181.88
+11634,Girral,New South Wales,404.99
+11635,Girralong,New South Wales,40.43
+11636,Girraween (NSW),New South Wales,2.32
+11637,Girvan,New South Wales,66.25
+11638,Gladesville,New South Wales,3.51
+11639,Gladstone (NSW),New South Wales,6.62
+11640,Glanmire (NSW),New South Wales,46.84
+11641,Glebe (NSW),New South Wales,1.69
+11642,Gledswood Hills,New South Wales,4.07
+11643,Glen Alice,New South Wales,140.11
+11644,Glen Allen,New South Wales,148.97
+11645,Glen Alpine,New South Wales,5.36
+11646,Glen Davis,New South Wales,358.47
+11647,Glen Elgin,New South Wales,310.67
+11648,Glen Fergus,New South Wales,59.40
+11649,Glen Innes,New South Wales,198.30
+11650,Glen Martin,New South Wales,69.24
+11651,Glen Nevis,New South Wales,113.08
+11652,Glen Oak,New South Wales,44.54
+11653,Glen Ward,New South Wales,107.66
+11654,Glen William,New South Wales,26.11
+11655,Glenbawn,New South Wales,114.19
+11656,Glenbrook,New South Wales,6.99
+11657,Glencoe (NSW),New South Wales,155.55
+11658,Glendale (NSW),New South Wales,3.76
+11659,Glendenning,New South Wales,3.57
+11660,Glendon,New South Wales,10.68
+11661,Glendon Brook,New South Wales,161.86
+11662,Glenelg (NSW),New South Wales,146.37
+11663,Glenellen,New South Wales,36.61
+11664,Glenfield (NSW),New South Wales,6.99
+11665,Glenfield Park,New South Wales,3.06
+11666,Glengarrie,New South Wales,6.44
+11667,Glenhaven,New South Wales,7.21
+11668,Gleniffer,New South Wales,63.84
+11669,Glenmore (NSW),New South Wales,6.70
+11670,Glenmore Park,New South Wales,9.74
+11671,Glennies Creek,New South Wales,40.20
+11672,Glenning Valley,New South Wales,5.66
+11673,Glenorie,New South Wales,79.44
+11674,Glenquarry,New South Wales,44.99
+11675,Glenreagh,New South Wales,86.24
+11676,Glenridding,New South Wales,9.34
+11677,Glenrock (NSW),New South Wales,304.52
+11678,Glenroy (Albury - NSW),New South Wales,8.06
+11679,Glenroy (Snowy Valleys - NSW),New South Wales,96.97
+11680,Glenthorne,New South Wales,9.19
+11681,Glenugie,New South Wales,106.35
+11682,Glenwood (NSW),New South Wales,5.12
+11683,Glenworth Valley,New South Wales,22.75
+11684,Glossodia,New South Wales,15.54
+11685,Gloucester,New South Wales,59.12
+11686,Gloucester Tops,New South Wales,78.70
+11687,Goat Island,New South Wales,0.31
+11688,Gobarralong,New South Wales,208.66
+11689,Gobbagombalin,New South Wales,43.26
+11690,Gocup,New South Wales,62.64
+11691,Godfreys Creek,New South Wales,247.34
+11692,Gogeldrie,New South Wales,103.56
+11693,Gol Gol,New South Wales,20.48
+11694,Gollan,New South Wales,249.30
+11695,Golspie,New South Wales,205.21
+11696,Gongolgon,New South Wales,2212.88
+11697,Gonn,New South Wales,186.42
+11698,Goobarragandra,New South Wales,505.09
+11699,Good Forest,New South Wales,22.14
+11700,Good Hope,New South Wales,142.29
+11701,Goodnight,New South Wales,93.18
+11702,Goodooga,New South Wales,3488.15
+11703,Goodwood Island,New South Wales,10.05
+11704,Googong,New South Wales,71.90
+11705,Goolgowi,New South Wales,864.80
+11706,Goolhi,New South Wales,453.82
+11707,Goolma,New South Wales,244.46
+11708,Goolmangar,New South Wales,13.16
+11709,Gooloogong,New South Wales,289.85
+11710,Goombargana,New South Wales,121.49
+11711,Goonellabah,New South Wales,23.11
+11712,Goonengerry,New South Wales,27.71
+11713,Goonoo Forest,New South Wales,505.04
+11714,Goonoo Goonoo,New South Wales,33.85
+11715,Goonumbla,New South Wales,330.83
+11716,Goorangoola,New South Wales,83.89
+11717,Goorianawa,New South Wales,210.44
+11718,Gordon (NSW),New South Wales,3.79
+11719,Gorge Creek,New South Wales,50.44
+11720,Gormans Hill,New South Wales,16.49
+11721,Gorokan,New South Wales,3.09
+11722,Gosford,New South Wales,2.95
+11723,Gosforth,New South Wales,6.66
+11724,Gostwyck,New South Wales,83.87
+11725,Goulburn,New South Wales,55.58
+11726,Gouldsville,New South Wales,5.33
+11727,Gowan,New South Wales,134.30
+11728,Gowang,New South Wales,212.31
+11729,Gowrie (Singleton - NSW),New South Wales,4.60
+11730,Gowrie (Tamworth Regional - NSW),New South Wales,126.91
+11731,Grabben Gullen,New South Wales,84.53
+11732,Gradys Creek,New South Wales,71.00
+11733,Grafton,New South Wales,12.67
+11734,Gragin,New South Wales,27.92
+11735,Grahamstown,New South Wales,33.84
+11736,Graman,New South Wales,308.61
+11737,Grants Beach,New South Wales,6.03
+11738,Granville (NSW),New South Wales,3.33
+11739,Grasmere,New South Wales,5.44
+11740,Grassy Head,New South Wales,7.67
+11741,Grattai,New South Wales,175.37
+11742,Gravesend,New South Wales,652.79
+11743,Grays Point,New South Wales,1.32
+11744,Great Mackerel Beach,New South Wales,0.12
+11745,Great Marlow,New South Wales,10.15
+11746,Green Cape,New South Wales,53.07
+11747,Green Creek,New South Wales,62.88
+11748,Green Forest,New South Wales,12.47
+11749,Green Gully (NSW),New South Wales,24.34
+11750,Green Hills (Armidale Regional - NSW),New South Wales,45.55
+11751,Green Hills (Snowy Valleys - NSW),New South Wales,219.68
+11752,Green Pigeon,New South Wales,40.08
+11753,Green Point (Central Coast - NSW),New South Wales,8.45
+11754,Green Point (Gosford - NSW),New South Wales,0.09
+11755,Green Point (Mid-Coast - NSW),New South Wales,0.99
+11756,Green Valley (NSW),New South Wales,3.21
+11757,Greenacre,New South Wales,7.40
+11758,Greendale (Bega Valley - NSW),New South Wales,36.11
+11759,Greendale (Liverpool - NSW),New South Wales,33.93
+11760,Greenethorpe,New South Wales,163.01
+11761,Greenfield Park,New South Wales,1.50
+11762,Greengrove,New South Wales,5.67
+11763,Greenhill (NSW),New South Wales,7.71
+11764,Greenhills Beach,New South Wales,0.54
+11765,Greenlands (Singleton - NSW),New South Wales,64.48
+11766,Greenlands (Snowy Monaro Regional - NSW),New South Wales,61.39
+11767,Greenleigh,New South Wales,6.52
+11768,Greenridge,New South Wales,24.84
+11769,Greenwell Point,New South Wales,2.67
+11770,Greenwich,New South Wales,1.66
+11771,Greenwich Park,New South Wales,88.91
+11772,Greg Greg,New South Wales,77.59
+11773,Gregadoo,New South Wales,118.40
+11774,Gregory Hills,New South Wales,6.39
+11775,Greigs Flat,New South Wales,21.74
+11776,Grenfell,New South Wales,877.97
+11777,Gresford,New South Wales,54.15
+11778,Greta (NSW),New South Wales,20.71
+11779,Greta Main,New South Wales,3.00
+11780,Grevillia,New South Wales,22.53
+11781,Greystanes,New South Wales,8.97
+11782,Griffith (NSW),New South Wales,51.90
+11783,Grogan,New South Wales,275.22
+11784,Grong Grong,New South Wales,550.57
+11785,Grose Vale,New South Wales,18.48
+11786,Grose Wold,New South Wales,11.35
+11787,Grosses Plain,New South Wales,44.65
+11788,Growee,New South Wales,72.28
+11789,Guerilla Bay,New South Wales,1.68
+11790,Guildford (NSW),New South Wales,5.90
+11791,Guildford West,New South Wales,1.61
+11792,Gulargambone,New South Wales,733.89
+11793,Gulf Creek,New South Wales,170.10
+11794,Gulgong,New South Wales,102.08
+11795,Gulmarrad,New South Wales,30.71
+11796,Gum Flat,New South Wales,141.86
+11797,Gum Scrub,New South Wales,71.42
+11798,Gumbalie,New South Wales,3409.64
+11799,Gumble,New South Wales,167.09
+11800,Gumly Gumly,New South Wales,12.33
+11801,Gumma,New South Wales,28.87
+11802,Gunbar,New South Wales,1574.65
+11803,Gundagai,New South Wales,47.27
+11804,Gundamulda,New South Wales,79.85
+11805,Gundaroo,New South Wales,300.29
+11806,Gundary,New South Wales,107.51
+11807,Gunderbooka,New South Wales,2801.48
+11808,Gunderman,New South Wales,102.69
+11809,Gundy,New South Wales,73.71
+11810,Gungal,New South Wales,146.73
+11811,Gungalman,New South Wales,413.31
+11812,Gunnedah,New South Wales,518.06
+11813,Gunning,New South Wales,78.81
+11814,Gunning Gap,New South Wales,202.81
+11815,Gunningbland,New South Wales,177.24
+11816,Gunningrah,New South Wales,84.67
+11817,Gurley,New South Wales,953.55
+11818,Gurnang,New South Wales,58.04
+11819,Gurranang,New South Wales,42.13
+11820,Gurrundah,New South Wales,193.05
+11821,Guyong,New South Wales,67.43
+11822,Guyra,New South Wales,299.03
+11823,Gwabegar,New South Wales,542.73
+11824,Gwandalan,New South Wales,2.87
+11825,Gwynneville,New South Wales,1.26
+11826,Gymea,New South Wales,2.18
+11827,Gymea Bay,New South Wales,2.40
+11828,Haberfield,New South Wales,2.38
+11829,Hacks Ferry,New South Wales,20.72
+11830,Halekulani,New South Wales,1.40
+11831,Halfway Creek,New South Wales,83.17
+11832,Hallidays Point,New South Wales,9.95
+11833,Halloran,New South Wales,3.47
+11834,Halls Creek (NSW),New South Wales,472.86
+11835,Hallsville,New South Wales,23.32
+11836,Halton,New South Wales,54.57
+11837,Hambledon Hill,New South Wales,4.15
+11838,Hamilton (NSW),New South Wales,1.39
+11839,Hamilton East,New South Wales,0.38
+11840,Hamilton North,New South Wales,0.80
+11841,Hamilton South,New South Wales,1.17
+11842,Hamilton Valley,New South Wales,11.88
+11843,Hamlyn Terrace,New South Wales,5.21
+11844,Hammondville,New South Wales,1.82
+11845,Hampden Hall,New South Wales,2.77
+11846,Hampton (NSW),New South Wales,143.24
+11847,Hanging Rock,New South Wales,313.09
+11848,Hanleys Creek,New South Wales,15.99
+11849,Hannam Vale,New South Wales,25.31
+11850,Hanwood,New South Wales,102.65
+11851,Harden,New South Wales,14.22
+11852,Hardys Bay,New South Wales,0.61
+11853,Harefield,New South Wales,205.57
+11854,Hargraves,New South Wales,588.37
+11855,Harolds Cross,New South Wales,74.47
+11856,Harparary,New South Wales,98.24
+11857,Harpers Hill,New South Wales,3.80
+11858,Harrington,New South Wales,32.95
+11859,Harrington Park,New South Wales,8.00
+11860,Harris Park,New South Wales,0.64
+11861,Hartley (NSW),New South Wales,77.33
+11862,Hartley Vale,New South Wales,20.86
+11863,Hartwood,New South Wales,178.50
+11864,Hartys Plains,New South Wales,3.46
+11865,Harwood,New South Wales,23.59
+11866,Hassall Grove,New South Wales,1.22
+11867,Hassans Walls,New South Wales,5.39
+11868,Hastings Point,New South Wales,1.92
+11869,Hat Head,New South Wales,34.53
+11870,Hatfield,New South Wales,1822.50
+11871,Havilah (NSW),New South Wales,43.38
+11872,Hawkesbury Heights,New South Wales,2.99
+11873,Hawks Nest,New South Wales,33.77
+11874,Hay (NSW),New South Wales,1946.92
+11875,Hay South,New South Wales,2297.06
+11876,Hayes Gap,New South Wales,51.67
+11877,Haymarket,New South Wales,0.52
+11878,Haystack,New South Wales,26.07
+11879,Hayters Hill,New South Wales,2.48
+11880,Haywards Bay,New South Wales,1.17
+11881,Hazelbrook,New South Wales,12.50
+11882,Hazelgrove,New South Wales,36.89
+11883,Heathcote (NSW),New South Wales,10.17
+11884,Heatherbrae,New South Wales,12.83
+11885,Hebden,New South Wales,106.81
+11886,Hebersham,New South Wales,1.68
+11887,Heckenberg,New South Wales,0.93
+11888,Heddon Greta,New South Wales,4.92
+11889,Heifer Station,New South Wales,152.53
+11890,Helensburgh,New South Wales,18.48
+11891,Henley,New South Wales,0.27
+11892,Henty (NSW),New South Wales,354.12
+11893,Hereford Hall,New South Wales,77.65
+11894,Hermidale,New South Wales,1550.24
+11895,Hermitage Flat,New South Wales,0.68
+11896,Hernani,New South Wales,238.95
+11897,Herons Creek,New South Wales,85.14
+11898,Hexham (NSW),New South Wales,18.71
+11899,Hickeys Creek,New South Wales,33.82
+11900,High Range,New South Wales,282.83
+11901,Higher Macdonald,New South Wales,87.01
+11902,Highfields (NSW),New South Wales,0.87
+11903,Hill End (NSW),New South Wales,151.70
+11904,Hill Top (Snowy Monaro Regional - NSW),New South Wales,39.67
+11905,Hill Top (Wingecarribee - NSW),New South Wales,37.91
+11906,Hilldale,New South Wales,38.97
+11907,Hillgrove (Armidale Regional - NSW),New South Wales,365.19
+11908,Hillgrove (Wagga Wagga - NSW),New South Wales,5.44
+11909,Hillsborough (Lake Macquarie - NSW),New South Wales,1.47
+11910,Hillsborough (Maitland - NSW),New South Wales,9.52
+11911,Hillsdale,New South Wales,0.55
+11912,Hillston,New South Wales,3985.58
+11913,Hillville,New South Wales,42.78
+11914,Hillvue,New South Wales,11.76
+11915,Hinchinbrook (NSW),New South Wales,3.23
+11916,Hinton,New South Wales,9.97
+11917,Hobartville (NSW),New South Wales,1.09
+11918,Hobbys Yards,New South Wales,75.65
+11919,Hogarth Range,New South Wales,57.36
+11920,Holbrook,New South Wales,450.06
+11921,Holgate,New South Wales,9.05
+11922,Hollisdale,New South Wales,34.21
+11923,Hollydeen,New South Wales,19.27
+11924,Holmesville,New South Wales,1.70
+11925,Holroyd,New South Wales,0.50
+11926,Holsworthy,New South Wales,190.28
+11927,Holts Flat,New South Wales,34.79
+11928,Home Rule,New South Wales,30.34
+11929,Homebush (NSW),New South Wales,2.50
+11930,Homebush West,New South Wales,1.23
+11931,Homeleigh,New South Wales,22.22
+11932,Honeybugle,New South Wales,597.21
+11933,Hopefield,New South Wales,136.44
+11934,Hopkins Creek,New South Wales,12.56
+11935,Horningsea Park,New South Wales,0.98
+11936,Hornsby,New South Wales,8.39
+11937,Hornsby Heights,New South Wales,10.22
+11938,Horse Station Creek,New South Wales,18.92
+11939,Horseshoe Bend,New South Wales,1.01
+11940,Horseshoe Creek,New South Wales,15.91
+11941,Horsfield Bay,New South Wales,0.42
+11942,Horsley,New South Wales,5.51
+11943,Horsley Park,New South Wales,21.97
+11944,Hoskinstown,New South Wales,81.18
+11945,Hovells Creek,New South Wales,130.70
+11946,Howards Grass,New South Wales,2.58
+11947,Howell,New South Wales,85.10
+11948,Howes Valley,New South Wales,554.30
+11949,Howick (NSW),New South Wales,50.87
+11950,Howlong,New South Wales,156.07
+11951,Hoxton Park,New South Wales,1.54
+11952,Humula,New South Wales,232.43
+11953,Hungerford (NSW),New South Wales,1586.90
+11954,Hunters Hill,New South Wales,3.63
+11955,Hunterview,New South Wales,5.59
+11956,Huntingdon,New South Wales,5.80
+11957,Huntingwood,New South Wales,1.72
+11958,Huntley (Orange - NSW),New South Wales,17.74
+11959,Huntley (Wollongong - NSW),New South Wales,13.49
+11960,Huntleys Cove,New South Wales,0.27
+11961,Huntleys Point,New South Wales,0.21
+11962,Huonbrook,New South Wales,18.00
+11963,Hurlstone Park,New South Wales,1.20
+11964,Hurstville,New South Wales,4.23
+11965,Hurstville Grove,New South Wales,0.95
+11966,Huskisson,New South Wales,12.39
+11967,Hyams Beach,New South Wales,5.34
+11968,Hyland Park,New South Wales,0.45
+11969,Hyndmans Creek,New South Wales,11.56
+11970,Ilarwill,New South Wales,11.60
+11971,Ilford,New South Wales,198.88
+11972,Illabo,New South Wales,131.02
+11973,Illaroo,New South Wales,32.90
+11974,Illawong,New South Wales,4.76
+11975,Iluka (NSW),New South Wales,12.79
+11976,Indi,New South Wales,48.32
+11977,Ingebirah,New South Wales,256.10
+11978,Ingleburn,New South Wales,12.45
+11979,Ingleside,New South Wales,18.09
+11980,Innes View,New South Wales,15.79
+11981,Inverell,New South Wales,207.66
+11982,Invergordon (NSW),New South Wales,43.41
+11983,Invergowrie,New South Wales,41.78
+11984,Iron Pot Creek,New South Wales,23.11
+11985,Ironbark (NSW),New South Wales,142.94
+11986,Ironmungy,New South Wales,73.02
+11987,Irvington,New South Wales,15.67
+11988,Irymple (NSW),New South Wales,2248.57
+11989,Isabella,New South Wales,124.54
+11990,Islington,New South Wales,0.71
+11991,Ivanhoe (NSW),New South Wales,15789.89
+11992,Jackadgery,New South Wales,342.48
+11993,Jacks Creek,New South Wales,269.18
+11994,Jacksons Flat,New South Wales,15.07
+11995,Jacky Bulbin Flat,New South Wales,84.57
+11996,Jagumba,New South Wales,374.27
+11997,Jagungal Wilderness,New South Wales,462.15
+11998,Jamberoo,New South Wales,58.88
+11999,James Creek,New South Wales,11.15
+12000,Jamisontown,New South Wales,3.96
+12001,Jannali,New South Wales,2.50
+12002,Jaspers Brush,New South Wales,26.43
+12003,Jaunter,New South Wales,61.59
+12004,Jeir,New South Wales,109.10
+12005,Jellat Jellat,New South Wales,10.60
+12006,Jemalong,New South Wales,289.42
+12007,Jembaicumbene,New South Wales,42.66
+12008,Jennings,New South Wales,52.35
+12009,Jenolan,New South Wales,232.60
+12010,Jeogla,New South Wales,681.95
+12011,Jerangle,New South Wales,359.51
+12012,Jeremadra,New South Wales,15.88
+12013,Jeremy,New South Wales,68.33
+12014,Jerilderie,New South Wales,1470.44
+12015,Jerrabattgulla,New South Wales,38.09
+12016,Jerrabomberra,New South Wales,11.33
+12017,Jerrara,New South Wales,9.37
+12018,Jerrawa,New South Wales,70.06
+12019,Jerrawangala,New South Wales,95.07
+12020,Jerrong,New South Wales,64.78
+12021,Jerrys Plains,New South Wales,213.95
+12022,Jerseyville,New South Wales,7.49
+12023,Jesmond,New South Wales,1.22
+12024,Jewells,New South Wales,2.95
+12025,Jews Lagoon,New South Wales,321.79
+12026,Jiggi,New South Wales,32.22
+12027,Jilliby,New South Wales,84.02
+12028,Jimenbuen,New South Wales,338.38
+12029,Jincumbilly,New South Wales,44.85
+12030,Jindabyne,New South Wales,113.12
+12031,Jinden,New South Wales,126.09
+12032,Jindera,New South Wales,138.39
+12033,Jingellic,New South Wales,151.07
+12034,Jingera,New South Wales,104.10
+12035,Joadja,New South Wales,76.86
+12036,Joes Box,New South Wales,13.40
+12037,Johns River,New South Wales,44.44
+12038,Jolly Nose,New South Wales,30.84
+12039,Jones Bridge,New South Wales,4.53
+12040,Jones Creek,New South Wales,89.09
+12041,Jones Island,New South Wales,10.01
+12042,Jordan Springs,New South Wales,3.98
+12043,Judds Creek,New South Wales,42.36
+12044,Jugiong,New South Wales,160.67
+12045,Junction Hill,New South Wales,7.47
+12046,Junee,New South Wales,31.03
+12047,Junee Reefs,New South Wales,218.71
+12048,Kahibah,New South Wales,1.10
+12049,Kains Flat,New South Wales,43.45
+12050,Kalang,New South Wales,176.25
+12051,Kalaru,New South Wales,14.58
+12052,Kalkite,New South Wales,25.43
+12053,Kamarah,New South Wales,180.15
+12054,Kameruka,New South Wales,31.77
+12055,Kanahooka,New South Wales,3.66
+12056,Kanangra,New South Wales,451.49
+12057,Kandos,New South Wales,39.91
+12058,Kangaloon,New South Wales,33.91
+12059,Kangaroo Creek,New South Wales,160.69
+12060,Kangaroo Point (NSW),New South Wales,0.27
+12061,Kangaroo Valley,New South Wales,123.83
+12062,Kangaroobie,New South Wales,22.53
+12063,Kangiara,New South Wales,91.68
+12064,Kangy Angy,New South Wales,7.14
+12065,Kanimbla (NSW),New South Wales,61.70
+12066,Kanoona,New South Wales,16.30
+12067,Kanwal,New South Wales,2.43
+12068,Kapooka,New South Wales,14.76
+12069,Kaputar,New South Wales,169.41
+12070,Karaak Flat,New South Wales,7.70
+12071,Karabar,New South Wales,6.98
+12072,Karangi,New South Wales,50.68
+12073,Kareela,New South Wales,1.60
+12074,Kariong,New South Wales,25.79
+12075,Kars Springs,New South Wales,158.85
+12076,Karuah,New South Wales,73.89
+12077,Katoomba,New South Wales,22.15
+12078,Kayuga,New South Wales,46.86
+12079,Kearns,New South Wales,2.36
+12080,Kearsley,New South Wales,8.47
+12081,Keepit,New South Wales,66.74
+12082,Keera,New South Wales,307.08
+12083,Keerrong,New South Wales,13.45
+12084,Keinbah,New South Wales,14.50
+12085,Keiraville,New South Wales,2.50
+12086,Keith Hall,New South Wales,9.38
+12087,Kellys Plains,New South Wales,9.02
+12088,Kellyville,New South Wales,18.65
+12089,Kellyville Ridge,New South Wales,2.71
+12090,Kelso (NSW),New South Wales,31.82
+12091,Kelvin,New South Wales,276.79
+12092,Kembla Grange,New South Wales,14.48
+12093,Kembla Heights,New South Wales,6.08
+12094,Kemps Creek,New South Wales,34.40
+12095,Kempsey,New South Wales,6.98
+12096,Kendall,New South Wales,13.81
+12097,Kenebri,New South Wales,504.70
+12098,Kennaicle Creek,New South Wales,11.40
+12099,Kensington (NSW),New South Wales,2.67
+12100,Kenthurst,New South Wales,45.49
+12101,Kentlyn,New South Wales,11.29
+12102,Kentucky,New South Wales,245.66
+12103,Kentucky South,New South Wales,49.35
+12104,Kerewong,New South Wales,50.11
+12105,Keri Keri,New South Wales,560.18
+12106,Kerrabee,New South Wales,115.48
+12107,Kerrigundi,New South Wales,2820.00
+12108,Kerrs Creek,New South Wales,93.08
+12109,Kew (NSW),New South Wales,20.53
+12110,Keybarbin,New South Wales,39.99
+12111,Khancoban,New South Wales,241.53
+12112,Khatambuhl,New South Wales,62.48
+12113,Kia Ora (NSW),New South Wales,15.57
+12114,Kiacatoo,New South Wales,971.89
+12115,Kiah,New South Wales,72.68
+12116,Kiama,New South Wales,9.79
+12117,Kiama Downs,New South Wales,3.80
+12118,Kiama Heights,New South Wales,4.07
+12119,Kianga (NSW),New South Wales,36.10
+12120,Kiar,New South Wales,4.58
+12121,Kickabil,New South Wales,303.47
+12122,Kielvale,New South Wales,7.89
+12123,Kikiamah,New South Wales,185.19
+12124,Kikoira,New South Wales,430.26
+12125,Kilaben Bay,New South Wales,1.61
+12126,Kilgin,New South Wales,11.52
+12127,Kilgra,New South Wales,14.92
+12128,Killabakh,New South Wales,57.36
+12129,Killara (NSW),New South Wales,4.63
+12130,Killarney Heights,New South Wales,4.24
+12131,Killarney Vale,New South Wales,3.02
+12132,Killawarra (NSW),New South Wales,22.09
+12133,Killcare,New South Wales,1.66
+12134,Killcare Heights,New South Wales,2.15
+12135,Killiekrankie,New South Wales,84.41
+12136,Killimicat,New South Wales,35.29
+12137,Killingworth (NSW),New South Wales,23.41
+12138,Killongbutta,New South Wales,92.19
+12139,Kimbriki,New South Wales,64.60
+12140,Kinchela,New South Wales,62.92
+12141,Kincumber,New South Wales,9.91
+12142,Kincumber South,New South Wales,1.27
+12143,Kindee,New South Wales,61.71
+12144,Kindervale,New South Wales,65.88
+12145,King Creek,New South Wales,17.41
+12146,Kingfisher Shores,New South Wales,0.42
+12147,Kinghorne,New South Wales,10.42
+12148,Kings Forest,New South Wales,10.62
+12149,Kings Langley,New South Wales,3.67
+12150,Kings Park (NSW),New South Wales,2.61
+12151,Kings Plains (Blayney - NSW),New South Wales,50.01
+12152,Kings Plains (Inverell - NSW),New South Wales,160.43
+12153,Kings Point,New South Wales,2.63
+12154,Kingscliff,New South Wales,6.28
+12155,Kingsdale,New South Wales,67.70
+12156,Kingsford (NSW),New South Wales,1.99
+12157,Kingsgate,New South Wales,204.28
+12158,Kingsgrove,New South Wales,4.49
+12159,Kingsland,New South Wales,75.73
+12160,Kingstown,New South Wales,321.87
+12161,Kingsvale,New South Wales,156.67
+12162,Kingswood (Bega Valley - NSW),New South Wales,6.38
+12163,Kingswood (Penrith - NSW),New South Wales,4.78
+12164,Kingswood (Tamworth Regional - NSW),New South Wales,19.12
+12165,Kioloa,New South Wales,5.56
+12166,Kiora,New South Wales,13.31
+12167,Kippara,New South Wales,42.55
+12168,Kippaxs,New South Wales,24.88
+12169,Kippenduff,New South Wales,115.43
+12170,Kirkconnell,New South Wales,13.77
+12171,Kirkham,New South Wales,4.22
+12172,Kirrawee,New South Wales,3.55
+12173,Kirribilli,New South Wales,0.44
+12174,Kitchener,New South Wales,16.87
+12175,Kiwarrak,New South Wales,65.53
+12176,Klori,New South Wales,126.82
+12177,Knights Hill,New South Wales,10.35
+12178,Knockrow,New South Wales,13.13
+12179,Knorrit Flat,New South Wales,18.32
+12180,Knorrit Forest,New South Wales,42.23
+12181,Kogarah,New South Wales,2.61
+12182,Kogarah Bay,New South Wales,0.66
+12183,Kooba,New South Wales,51.88
+12184,Kookabookra,New South Wales,202.67
+12185,Koolewong,New South Wales,1.32
+12186,Koolkhan,New South Wales,1.56
+12187,Koonawarra,New South Wales,2.23
+12188,Koonorigan,New South Wales,38.22
+12189,Koonyum Range,New South Wales,7.79
+12190,Kooragang,New South Wales,25.22
+12191,Koorainghat,New South Wales,31.91
+12192,Koorawatha,New South Wales,299.70
+12193,Kooringal (NSW),New South Wales,4.86
+12194,Kootingal,New South Wales,82.60
+12195,Koraleigh,New South Wales,145.24
+12196,Koreelah,New South Wales,270.97
+12197,Korora,New South Wales,16.60
+12198,Kosciuszko,New South Wales,128.29
+12199,Kosciuszko National Park,New South Wales,1977.20
+12200,Kotara,New South Wales,2.57
+12201,Kotara South,New South Wales,0.59
+12202,Krambach,New South Wales,60.10
+12203,Krawarree,New South Wales,106.22
+12204,Kremnos,New South Wales,113.44
+12205,Ku-Ring-Gai Chase,New South Wales,93.90
+12206,Kulnura,New South Wales,189.33
+12207,Kulwin (NSW),New South Wales,3680.73
+12208,Kunama,New South Wales,22.06
+12209,Kundabung,New South Wales,126.86
+12210,Kundibakh,New South Wales,31.09
+12211,Kundle Kundle,New South Wales,13.13
+12212,Kungala,New South Wales,47.73
+12213,Kunghur,New South Wales,22.93
+12214,Kunghur Creek,New South Wales,11.72
+12215,Kurmond,New South Wales,8.33
+12216,Kurnell,New South Wales,19.20
+12217,Kurraba Point,New South Wales,0.23
+12218,Kurrajong,New South Wales,47.17
+12219,Kurrajong Heights,New South Wales,20.80
+12220,Kurrajong Hills,New South Wales,17.48
+12221,Kurri Kurri,New South Wales,5.06
+12222,Kyalite,New South Wales,534.07
+12223,Kyarran,New South Wales,7.47
+12224,Kybeyan,New South Wales,303.37
+12225,Kyeamba,New South Wales,302.24
+12226,Kyeemagh,New South Wales,0.60
+12227,Kyle Bay,New South Wales,0.37
+12228,Kynnumboon,New South Wales,10.02
+12229,Kyogle,New South Wales,30.13
+12230,La Perouse,New South Wales,1.75
+12231,Lacmalac,New South Wales,24.56
+12232,Lade Vale,New South Wales,101.88
+12233,Ladysmith,New South Wales,80.55
+12234,Laffing Waters,New South Wales,21.38
+12235,Laggan,New South Wales,389.21
+12236,Lagoon Grass,New South Wales,5.13
+12237,Laguna,New South Wales,229.74
+12238,Lake Albert (NSW),New South Wales,24.54
+12239,Lake Bathurst,New South Wales,204.99
+12240,Lake Brewster,New South Wales,154.60
+12241,Lake Burrendong,New South Wales,64.23
+12242,Lake Cargelligo,New South Wales,1788.76
+12243,Lake Cathie,New South Wales,19.20
+12244,Lake Conjola,New South Wales,19.32
+12245,Lake Cowal,New South Wales,444.75
+12246,Lake George,New South Wales,147.59
+12247,Lake Haven,New South Wales,1.72
+12248,Lake Heights,New South Wales,1.63
+12249,Lake Hume Village,New South Wales,10.70
+12250,Lake Illawarra,New South Wales,1.67
+12251,Lake Innes,New South Wales,75.48
+12252,Lake Macquarie,New South Wales,0.71
+12253,Lake Munmorah,New South Wales,5.71
+12254,Lake Tabourie,New South Wales,4.35
+12255,Lake Wyangan,New South Wales,30.23
+12256,Lakelands (NSW),New South Wales,0.82
+12257,Lakemba,New South Wales,2.19
+12258,Lakesland,New South Wales,73.34
+12259,Lakewood,New South Wales,2.15
+12260,Lalalty,New South Wales,111.54
+12261,Lalor Park,New South Wales,2.70
+12262,Lambs Valley (Glen Innes Severn - NSW),New South Wales,74.10
+12263,Lambs Valley (Singleton - NSW),New South Wales,58.46
+12264,Lambton,New South Wales,2.74
+12265,Landervale,New South Wales,160.21
+12266,Lane Cove,New South Wales,2.58
+12267,Lane Cove North,New South Wales,2.36
+12268,Lane Cove West,New South Wales,1.69
+12269,Langley Vale,New South Wales,10.81
+12270,Lanitza,New South Wales,66.51
+12271,Lankeys Creek,New South Wales,135.88
+12272,Lansdowne (Canterbury-Bankstown - NSW),New South Wales,1.41
+12273,Lansdowne (Mid-Coast - NSW),New South Wales,35.40
+12274,Lansdowne Forest,New South Wales,71.43
+12275,Lansvale,New South Wales,2.89
+12276,Lapstone,New South Wales,1.40
+12277,Larbert,New South Wales,86.90
+12278,Largs,New South Wales,7.68
+12279,Larnook,New South Wales,61.86
+12280,Larras Lee,New South Wales,112.83
+12281,Laughtondale,New South Wales,27.06
+12282,Laurel Hill,New South Wales,6.14
+12283,Laurieton,New South Wales,4.33
+12284,Lavadia,New South Wales,29.81
+12285,Lavender Bay,New South Wales,0.16
+12286,Laverstock,New South Wales,78.79
+12287,Lavington,New South Wales,14.78
+12288,Lawrence (NSW),New South Wales,132.36
+12289,Lawson (NSW),New South Wales,7.29
+12290,Leadville,New South Wales,247.52
+12291,Leconfield,New South Wales,8.56
+12292,Lee Creek,New South Wales,48.74
+12293,Leeton,New South Wales,230.79
+12294,Leets Vale,New South Wales,9.27
+12295,Leeville,New South Wales,75.96
+12296,Legume,New South Wales,216.92
+12297,Leichhardt (NSW),New South Wales,2.60
+12298,Lemington,New South Wales,52.03
+12299,Lemon Tree,New South Wales,8.50
+12300,Lemon Tree Passage,New South Wales,2.97
+12301,Len Waters Estate,New South Wales,1.09
+12302,Lenaghan,New South Wales,6.08
+12303,Lennox Head,New South Wales,20.71
+12304,Leonay,New South Wales,2.47
+12305,Leppington,New South Wales,20.33
+12306,Lerida,New South Wales,81.28
+12307,Lethbridge Park,New South Wales,1.62
+12308,Leumeah,New South Wales,4.05
+12309,Leura,New South Wales,11.63
+12310,Levenstrath,New South Wales,8.15
+12311,Lewinsbrook,New South Wales,28.65
+12312,Lewis Ponds,New South Wales,96.70
+12313,Lewisham (NSW),New South Wales,0.64
+12314,Leycester,New South Wales,15.54
+12315,Liberty Grove,New South Wales,0.23
+12316,Lidcombe,New South Wales,6.80
+12317,Liddell,New South Wales,34.18
+12318,Lidsdale,New South Wales,69.72
+12319,Lidster,New South Wales,126.64
+12320,Lightning Ridge,New South Wales,2138.79
+12321,Lilli Pilli (Eurobodalla - NSW),New South Wales,2.84
+12322,Lilli Pilli (Sutherland Shire - NSW),New South Wales,0.61
+12323,Lillian Rock,New South Wales,13.68
+12324,Lilydale (NSW),New South Wales,62.17
+12325,Lilyfield,New South Wales,2.16
+12326,Lilyvale (NSW),New South Wales,18.18
+12327,Limbri,New South Wales,168.38
+12328,Limeburners Creek (Mid-Coast - NSW),New South Wales,62.67
+12329,Limeburners Creek (Port Macquarie-Hastings - NSW),New South Wales,70.07
+12330,Limekilns,New South Wales,67.82
+12331,Limerick,New South Wales,48.55
+12332,Limestone (NSW),New South Wales,112.53
+12333,Limpinwood,New South Wales,54.31
+12334,Linburn,New South Wales,40.81
+12335,Linden (NSW),New South Wales,13.73
+12336,Lindendale,New South Wales,13.50
+12337,Lindesay,New South Wales,266.48
+12338,Lindesay Creek,New South Wales,46.91
+12339,Lindfield,New South Wales,5.13
+12340,Lindifferon,New South Wales,175.32
+12341,Linley Point,New South Wales,0.20
+12342,Lionsville,New South Wales,181.27
+12343,Lisarow,New South Wales,10.86
+12344,Lismore (NSW),New South Wales,3.68
+12345,Lismore Heights,New South Wales,1.84
+12346,Liston,New South Wales,77.05
+12347,Lithgow,New South Wales,5.98
+12348,Little Back Creek,New South Wales,14.00
+12349,Little Bay,New South Wales,2.46
+12350,Little Billabong,New South Wales,463.90
+12351,Little Forest,New South Wales,24.76
+12352,Little Hartley,New South Wales,24.53
+12353,Little Jacks Creek,New South Wales,99.19
+12354,Little Jilliby,New South Wales,3.68
+12355,Little Pelican,New South Wales,0.31
+12356,Little Plain,New South Wales,62.97
+12357,Little River (NSW),New South Wales,22.72
+12358,Little Topar,New South Wales,3631.75
+12359,Little Wobby,New South Wales,1.49
+12360,Littleton,New South Wales,1.00
+12361,Liverpool,New South Wales,6.36
+12362,Llanarth (NSW),New South Wales,2.45
+12363,Llandilo,New South Wales,18.63
+12364,Llangothlin,New South Wales,134.07
+12365,Lloyd,New South Wales,4.68
+12366,Loadstone,New South Wales,18.83
+12367,Lochiel (NSW),New South Wales,84.23
+12368,Lochinvar,New South Wales,20.26
+12369,Lockhart,New South Wales,485.68
+12370,Locksley (NSW),New South Wales,21.56
+12371,Loftus,New South Wales,2.53
+12372,Loftville,New South Wales,2.18
+12373,Logans Crossing,New South Wales,6.71
+12374,Logie Brae,New South Wales,128.58
+12375,Londonderry (NSW),New South Wales,36.25
+12376,Long Beach,New South Wales,9.61
+12377,Long Flat (NSW),New South Wales,9.78
+12378,Long Jetty,New South Wales,2.54
+12379,Long Plain (Inverell - NSW),New South Wales,46.07
+12380,Long Plain (Snowy Monaro Regional - NSW),New South Wales,114.66
+12381,Long Point (Campbelltown - NSW),New South Wales,2.01
+12382,Long Point (Singleton - NSW),New South Wales,7.54
+12383,Longarm,New South Wales,86.04
+12384,Longreach (NSW),New South Wales,13.70
+12385,Longueville,New South Wales,0.99
+12386,Loomberah,New South Wales,301.56
+12387,Lord Howe Island,New South Wales,16.29
+12388,Lords Hill,New South Wales,89.18
+12389,Lorn,New South Wales,4.59
+12390,Lorne (NSW),New South Wales,50.72
+12391,Lost River,New South Wales,116.00
+12392,Lostock,New South Wales,62.90
+12393,Louisa Creek,New South Wales,28.02
+12394,Louth,New South Wales,6516.28
+12395,Louth Park,New South Wales,12.02
+12396,Lovedale,New South Wales,48.54
+12397,Lovett Bay,New South Wales,0.45
+12398,Lowanna,New South Wales,158.94
+12399,Lower Acacia Creek,New South Wales,47.76
+12400,Lower Bago,New South Wales,11.74
+12401,Lower Belford,New South Wales,41.77
+12402,Lower Boro,New South Wales,171.66
+12403,Lower Bottle Creek,New South Wales,30.06
+12404,Lower Creek,New South Wales,250.44
+12405,Lower Duck Creek,New South Wales,78.40
+12406,Lower Dyraaba,New South Wales,19.14
+12407,Lower Lewis Ponds,New South Wales,41.67
+12408,Lower Macdonald,New South Wales,10.21
+12409,Lower Mangrove,New South Wales,16.54
+12410,Lower Pappinbarra,New South Wales,15.03
+12411,Lower Peacock,New South Wales,32.75
+12412,Lower Portland,New South Wales,60.06
+12413,Lower Southgate,New South Wales,73.28
+12414,Lowesdale,New South Wales,147.91
+12415,Lowther,New South Wales,34.25
+12416,Loxford,New South Wales,9.13
+12417,Lucas Heights,New South Wales,9.93
+12418,Lucknow (NSW),New South Wales,23.14
+12419,Luddenham,New South Wales,44.10
+12420,Lue,New South Wales,118.37
+12421,Lugarno,New South Wales,2.68
+12422,Lurnea,New South Wales,2.50
+12423,Luskintyre,New South Wales,19.12
+12424,Lynchs Creek,New South Wales,36.90
+12425,Lyndhurst (Armidale Regional - NSW),New South Wales,181.40
+12426,Lyndhurst (Blayney - NSW),New South Wales,61.96
+12427,Lynwood (NSW),New South Wales,8.04
+12428,Mabins Well,New South Wales,413.74
+12429,Macdonalds Creek,New South Wales,69.59
+12430,Macksville,New South Wales,11.11
+12431,Maclean,New South Wales,9.73
+12432,Macmasters Beach,New South Wales,5.88
+12433,Macquarie Fields,New South Wales,7.01
+12434,Macquarie Hills,New South Wales,2.34
+12435,Macquarie Links,New South Wales,1.77
+12436,Macquarie Marshes,New South Wales,389.74
+12437,Macquarie Park,New South Wales,6.76
+12438,Macquarie Pass,New South Wales,9.81
+12439,Maddens Plains,New South Wales,15.63
+12440,Maffra (NSW),New South Wales,76.41
+12441,Magenta (NSW),New South Wales,6.46
+12442,Magometon,New South Wales,326.09
+12443,Maianbar,New South Wales,0.29
+12444,Maimuru,New South Wales,57.59
+12445,Main Arm,New South Wales,25.78
+12446,Main Creek,New South Wales,75.95
+12447,Mairjimmy,New South Wales,96.90
+12448,Maison Dieu,New South Wales,31.03
+12449,Maitland (NSW),New South Wales,5.47
+12450,Maitland Bar,New South Wales,21.96
+12451,Maitland Vale,New South Wales,11.32
+12452,Majors Creek (NSW),New South Wales,69.94
+12453,Malabar,New South Wales,3.57
+12454,Maldon (NSW),New South Wales,2.08
+12455,Mallabula,New South Wales,2.97
+12456,Mallan,New South Wales,321.47
+12457,Mallanganee,New South Wales,46.56
+12458,Mallee,New South Wales,1874.20
+12459,Mallowa,New South Wales,731.74
+12460,Maloneys Beach,New South Wales,5.19
+12461,Malua Bay,New South Wales,12.38
+12462,Manar,New South Wales,43.60
+12463,Manchester Square,New South Wales,8.46
+12464,Mandagery,New South Wales,208.39
+12465,Mandalong,New South Wales,52.26
+12466,Mandemar,New South Wales,15.74
+12467,Mandurama,New South Wales,321.83
+12468,Mangerton,New South Wales,1.10
+12469,Mangoola,New South Wales,47.27
+12470,Mangoplah,New South Wales,220.19
+12471,Mangrove Creek,New South Wales,19.19
+12472,Mangrove Mountain,New South Wales,76.80
+12473,Manildra,New South Wales,351.98
+12474,Manilla,New South Wales,70.64
+12475,Manly (NSW),New South Wales,5.57
+12476,Manly Vale,New South Wales,1.90
+12477,Mannering Park,New South Wales,7.13
+12478,Manning Point,New South Wales,3.00
+12479,Mannus,New South Wales,97.81
+12480,Manobalai,New South Wales,147.53
+12481,Manton (NSW),New South Wales,71.20
+12482,Manyana,New South Wales,2.38
+12483,Maragle,New South Wales,274.13
+12484,Maraylya,New South Wales,20.47
+12485,Marayong,New South Wales,2.72
+12486,March,New South Wales,13.42
+12487,Marchmont,New South Wales,53.29
+12488,Mardi,New South Wales,9.50
+12489,Marengo (NSW),New South Wales,250.26
+12490,Mares Run,New South Wales,56.31
+12491,Marinna,New South Wales,76.04
+12492,Marks Point,New South Wales,1.26
+12493,Markwell,New South Wales,53.32
+12494,Marlee,New South Wales,61.30
+12495,Marlo Merrican,New South Wales,52.16
+12496,Marlow,New South Wales,1.18
+12497,Marlowe,New South Wales,48.32
+12498,Marmong Point,New South Wales,0.89
+12499,Marom Creek,New South Wales,25.23
+12500,Maroota,New South Wales,57.11
+12501,Maroubra,New South Wales,5.92
+12502,Marrangaroo,New South Wales,70.38
+12503,Marrar,New South Wales,171.32
+12504,Marrickville,New South Wales,5.77
+12505,Marsden Park,New South Wales,23.35
+12506,Marsfield,New South Wales,3.86
+12507,Marshall Mount,New South Wales,11.17
+12508,Marshdale,New South Wales,22.53
+12509,Marthaguy,New South Wales,1113.29
+12510,Martindale,New South Wales,434.76
+12511,Martins Creek,New South Wales,33.74
+12512,Martinsville,New South Wales,65.52
+12513,Marulan,New South Wales,190.04
+12514,Maryland (Newcastle - NSW),New South Wales,4.54
+12515,Maryland (Tenterfield - NSW),New South Wales,128.51
+12516,Marys Mount,New South Wales,152.63
+12517,Maryvale (NSW),New South Wales,99.99
+12518,Maryville,New South Wales,0.58
+12519,Mascot,New South Wales,11.96
+12520,Matcham,New South Wales,8.85
+12521,Matheson,New South Wales,133.72
+12522,Mathoura,New South Wales,546.61
+12523,Matong,New South Wales,299.78
+12524,Matraville,New South Wales,3.93
+12525,Maude (NSW),New South Wales,2410.22
+12526,Maules Creek,New South Wales,491.99
+12527,Maxwell,New South Wales,70.08
+12528,Maybole,New South Wales,97.28
+12529,Mayers Flat,New South Wales,34.78
+12530,Mayfield (Newcastle - NSW),New South Wales,3.12
+12531,Mayfield (Oberon - NSW),New South Wales,15.94
+12532,Mayfield (Queanbeyan-Palerang Regional - NSW),New South Wales,91.44
+12533,Mayfield (Shoalhaven - NSW),New South Wales,2.23
+12534,Mayfield East,New South Wales,0.62
+12535,Mayfield North,New South Wales,4.43
+12536,Mayfield West,New South Wales,2.31
+12537,Mayrung,New South Wales,235.53
+12538,Mays Hill,New South Wales,0.30
+12539,Mayvale,New South Wales,98.67
+12540,McCullys Gap,New South Wales,89.68
+12541,McDougalls Hill,New South Wales,3.17
+12542,McGraths Hill,New South Wales,3.09
+12543,McKees Hill,New South Wales,33.13
+12544,McKellars Park,New South Wales,0.44
+12545,McLeans Ridges,New South Wales,13.50
+12546,McLeods Shoot,New South Wales,6.20
+12547,McMahons Point,New South Wales,0.35
+12548,McMahons Reef,New South Wales,131.95
+12549,Meadow Flat,New South Wales,70.74
+12550,Meadowbank (NSW),New South Wales,0.69
+12551,Mebbin,New South Wales,42.35
+12552,Mebul,New South Wales,101.61
+12553,Medlow Bath,New South Wales,4.78
+12554,Medowie,New South Wales,42.54
+12555,Medway,New South Wales,17.63
+12556,Meerschaum Vale,New South Wales,36.89
+12557,Megalong Valley,New South Wales,96.07
+12558,Megan,New South Wales,47.30
+12559,Melbergen,New South Wales,155.54
+12560,Melinga,New South Wales,38.00
+12561,Mellong,New South Wales,402.09
+12562,Mellool,New South Wales,243.70
+12563,Melrose Park (NSW),New South Wales,1.08
+12564,Melville (NSW),New South Wales,5.58
+12565,Memagong,New South Wales,231.40
+12566,Menah,New South Wales,39.91
+12567,Menai,New South Wales,12.94
+12568,Menangle,New South Wales,34.09
+12569,Menangle Park,New South Wales,8.72
+12570,Mendooran,New South Wales,874.05
+12571,Menindee,New South Wales,13316.33
+12572,Merah North,New South Wales,593.37
+12573,Merewether,New South Wales,6.28
+12574,Merewether Heights,New South Wales,0.53
+12575,Merimbula,New South Wales,18.07
+12576,Meringo,New South Wales,6.48
+12577,Mernot,New South Wales,153.67
+12578,Meroo,New South Wales,43.56
+12579,Meroo Meadow,New South Wales,18.26
+12580,Merotherie,New South Wales,96.14
+12581,Merriangaah,New South Wales,86.46
+12582,Merricumbene,New South Wales,27.66
+12583,Merrigal,New South Wales,231.61
+12584,Merrill,New South Wales,90.05
+12585,Merriwa (NSW),New South Wales,1900.64
+12586,Merriwagga,New South Wales,906.85
+12587,Merrygoen,New South Wales,181.70
+12588,Merrylands,New South Wales,6.75
+12589,Merrylands West,New South Wales,1.74
+12590,Merungle Hill,New South Wales,42.36
+12591,Meryla,New South Wales,102.91
+12592,Metford,New South Wales,2.42
+12593,Methul,New South Wales,193.34
+12594,Metz,New South Wales,196.60
+12595,Miamley,New South Wales,316.87
+12596,Miandetta (NSW),New South Wales,540.68
+12597,Micalo Island,New South Wales,9.96
+12598,Michelago,New South Wales,235.54
+12599,Middle Arm,New South Wales,131.34
+12600,Middle Brook,New South Wales,72.23
+12601,Middle Brother,New South Wales,22.55
+12602,Middle Cove,New South Wales,1.04
+12603,Middle Dural,New South Wales,7.66
+12604,Middle Falbrook,New South Wales,11.07
+12605,Middle Flat,New South Wales,38.88
+12606,Middle Pocket,New South Wales,10.69
+12607,Middleton Grange,New South Wales,2.55
+12608,Middlingbank,New South Wales,70.97
+12609,Midginbil,New South Wales,14.01
+12610,Mihi,New South Wales,84.82
+12611,Mila,New South Wales,195.42
+12612,Milbrodale,New South Wales,157.53
+12613,Milbrulong,New South Wales,180.98
+12614,Milkers Flat,New South Wales,7.61
+12615,Millah Murrah,New South Wales,51.75
+12616,Millbank (NSW),New South Wales,120.33
+12617,Miller,New South Wales,1.27
+12618,Millers Forest,New South Wales,27.81
+12619,Millers Point,New South Wales,0.25
+12620,Millfield,New South Wales,32.39
+12621,Millie,New South Wales,351.48
+12622,Millingandi,New South Wales,19.16
+12623,Millthorpe,New South Wales,76.41
+12624,Milparinka,New South Wales,9158.44
+12625,Milperra,New South Wales,5.37
+12626,Milroy (Gunnedah - NSW),New South Wales,261.37
+12627,Milroy (Mid-Western Regional - NSW),New South Wales,8.04
+12628,Milsons Passage,New South Wales,0.64
+12629,Milsons Point,New South Wales,0.20
+12630,Milton (NSW),New South Wales,16.34
+12631,Milvale,New South Wales,296.15
+12632,Mimosa (NSW),New South Wales,221.75
+12633,Minchinbury,New South Wales,4.19
+12634,Mindaribba,New South Wales,24.51
+12635,Mingoola (NSW),New South Wales,70.49
+12636,Minimbah,New South Wales,36.45
+12637,Minjary,New South Wales,21.59
+12638,Minmi,New South Wales,8.97
+12639,Minnamurra,New South Wales,1.66
+12640,Minnie Water,New South Wales,55.95
+12641,Minore,New South Wales,87.33
+12642,Minto,New South Wales,9.57
+12643,Minto Heights,New South Wales,5.96
+12644,Mirador,New South Wales,1.77
+12645,Miranda (NSW),New South Wales,4.68
+12646,Mirannie,New South Wales,101.01
+12647,Mirrabooka (NSW),New South Wales,0.78
+12648,Mirrool,New South Wales,147.16
+12649,Missabotti,New South Wales,141.79
+12650,Mitchell (NSW),New South Wales,3.57
+12651,Mitchells Flat,New South Wales,34.77
+12652,Mitchells Island,New South Wales,33.09
+12653,Mittagong,New South Wales,58.42
+12654,Moama,New South Wales,583.06
+12655,Modanville,New South Wales,9.77
+12656,Mogareeka,New South Wales,3.54
+12657,Mogendoura,New South Wales,41.72
+12658,Moggs Swamp,New South Wales,239.64
+12659,Mogilla,New South Wales,51.08
+12660,Mogo (Eurobodalla - NSW),New South Wales,106.14
+12661,Mogo (Mid-Western Regional - NSW),New South Wales,65.45
+12662,Mogo Creek,New South Wales,97.16
+12663,Mogood,New South Wales,96.58
+12664,Mograni,New South Wales,26.81
+12665,Mogriguy,New South Wales,93.67
+12666,Mole River,New South Wales,371.84
+12667,Moleville Creek,New South Wales,7.81
+12668,Mollyan,New South Wales,243.89
+12669,Mollymook,New South Wales,1.47
+12670,Mollymook Beach,New South Wales,3.34
+12671,Molong,New South Wales,420.99
+12672,Mona Vale,New South Wales,4.56
+12673,Monak,New South Wales,49.00
+12674,Monaltrie,New South Wales,19.27
+12675,Mondayong,New South Wales,81.74
+12676,Mondrook,New South Wales,13.21
+12677,Monga,New South Wales,104.54
+12678,Mongarlowe,New South Wales,35.41
+12679,Mongogarie,New South Wales,67.98
+12680,Monia Gap,New South Wales,311.57
+12681,Monivae,New South Wales,44.18
+12682,Monkerai,New South Wales,125.03
+12683,Monteagle,New South Wales,121.64
+12684,Montecollum,New South Wales,3.36
+12685,Montefiores,New South Wales,7.48
+12686,Monterey,New South Wales,1.15
+12687,Mooball,New South Wales,11.01
+12688,Moobi,New South Wales,55.86
+12689,Moogem,New South Wales,136.41
+12690,Mookerawa,New South Wales,60.67
+12691,Mookima Wybra,New South Wales,59.61
+12692,Moolarben,New South Wales,55.15
+12693,Moollattoo,New South Wales,81.76
+12694,Moolpa,New South Wales,320.38
+12695,Moombooldool,New South Wales,128.15
+12696,Moonan Brook,New South Wales,199.22
+12697,Moonan Flat,New South Wales,152.27
+12698,Moonbah,New South Wales,154.77
+12699,Moonbi,New South Wales,198.90
+12700,Moonbria,New South Wales,265.33
+12701,Mooneba,New South Wales,9.27
+12702,Moonee,New South Wales,2.99
+12703,Moonee Beach,New South Wales,18.22
+12704,Mooney Mooney,New South Wales,1.90
+12705,Mooney Mooney Creek,New South Wales,18.97
+12706,Moonpar,New South Wales,62.01
+12707,Mooral Creek,New South Wales,45.65
+12708,Moorara,New South Wales,1534.31
+12709,Moorbel,New South Wales,15.91
+12710,Moore Creek,New South Wales,108.70
+12711,Moore Park,New South Wales,1.86
+12712,Moorebank,New South Wales,12.52
+12713,Moorilda,New South Wales,28.45
+12714,Moorland (NSW),New South Wales,37.49
+12715,Moorong,New South Wales,18.81
+12716,Moorwatha,New South Wales,88.57
+12717,Moparrabah,New South Wales,335.03
+12718,Moppy,New South Wales,85.07
+12719,Morago,New South Wales,195.32
+12720,Morangarell,New South Wales,192.35
+12721,Morans Crossing,New South Wales,31.93
+12722,Moree,New South Wales,3870.55
+12723,Morisset,New South Wales,27.06
+12724,Morisset Park,New South Wales,1.04
+12725,Morning Bay,New South Wales,0.22
+12726,Mororo,New South Wales,88.25
+12727,Morpeth,New South Wales,4.44
+12728,Mortdale,New South Wales,2.88
+12729,Mortlake (NSW),New South Wales,0.24
+12730,Morton,New South Wales,81.69
+12731,Mortons Creek,New South Wales,42.30
+12732,Morts Estate,New South Wales,0.82
+12733,Morundah,New South Wales,1190.95
+12734,Moruya,New South Wales,77.89
+12735,Moruya Heads,New South Wales,14.63
+12736,Morven (Glen Innes Severn - NSW),New South Wales,116.20
+12737,Morven (Greater Hume Shire - NSW),New South Wales,129.65
+12738,Mosman,New South Wales,8.65
+12739,Moss Vale,New South Wales,78.21
+12740,Mossgiel,New South Wales,2471.23
+12741,Mossy Point,New South Wales,2.32
+12742,Moto,New South Wales,35.44
+12743,Moulamein,New South Wales,1845.38
+12744,Mount Adrah,New South Wales,136.45
+12745,Mount Annan,New South Wales,10.23
+12746,Mount Aquila,New South Wales,30.94
+12747,Mount Arthur,New South Wales,63.89
+12748,Mount Austin,New South Wales,2.57
+12749,Mount Burrell,New South Wales,31.66
+12750,Mount Colah,New South Wales,11.06
+12751,Mount Collins,New South Wales,78.69
+12752,Mount Cooper (NSW),New South Wales,71.79
+12753,Mount Darragh,New South Wales,61.56
+12754,Mount David,New South Wales,64.31
+12755,Mount Dee,New South Wales,0.81
+12756,Mount Druitt,New South Wales,6.26
+12757,Mount Elliot (NSW),New South Wales,2.42
+12758,Mount Fairy,New South Wales,91.37
+12759,Mount Foster,New South Wales,135.36
+12760,Mount Frome,New South Wales,21.71
+12761,Mount George (NSW),New South Wales,82.80
+12762,Mount Harris,New South Wales,426.36
+12763,Mount Hope (NSW),New South Wales,3248.44
+12764,Mount Horeb,New South Wales,31.05
+12765,Mount Hunter,New South Wales,32.75
+12766,Mount Hutton (NSW),New South Wales,3.12
+12767,Mount Irvine,New South Wales,9.36
+12768,Mount Keira,New South Wales,6.99
+12769,Mount Kembla,New South Wales,6.11
+12770,Mount Kingiman,New South Wales,30.28
+12771,Mount Knowles,New South Wales,37.58
+12772,Mount Kuring-Gai,New South Wales,10.58
+12773,Mount Lambie,New South Wales,57.82
+12774,Mount Lewis,New South Wales,0.33
+12775,Mount Lindsey,New South Wales,68.71
+12776,Mount Marsden,New South Wales,81.35
+12777,Mount Marsh,New South Wales,143.97
+12778,Mount Mitchell,New South Wales,204.70
+12779,Mount Murray,New South Wales,5.31
+12780,Mount Olive (Oberon - NSW),New South Wales,26.89
+12781,Mount Olive (Singleton - NSW),New South Wales,38.10
+12782,Mount Ousley,New South Wales,0.80
+12783,Mount Panorama,New South Wales,6.88
+12784,Mount Pleasant (NSW),New South Wales,0.98
+12785,Mount Pritchard,New South Wales,3.09
+12786,Mount Rankin,New South Wales,100.89
+12787,Mount Rivers,New South Wales,31.93
+12788,Mount Riverview,New South Wales,3.01
+12789,Mount Royal,New South Wales,87.75
+12790,Mount Russell,New South Wales,69.96
+12791,Mount Saint Thomas,New South Wales,0.65
+12792,Mount Seaview,New South Wales,224.06
+12793,Mount Tenandra,New South Wales,211.24
+12794,Mount Thorley,New South Wales,70.15
+12795,Mount Tomah,New South Wales,8.28
+12796,Mount Vernon,New South Wales,6.54
+12797,Mount Victoria,New South Wales,16.52
+12798,Mount View,New South Wales,28.14
+12799,Mount Vincent,New South Wales,35.23
+12800,Mount Warning,New South Wales,54.19
+12801,Mount Warrigal,New South Wales,1.90
+12802,Mount Werong,New South Wales,207.83
+12803,Mount White,New South Wales,16.68
+12804,Mount Wilson,New South Wales,10.27
+12805,Mountain Creek (NSW),New South Wales,144.06
+12806,Mountain Lagoon,New South Wales,54.66
+12807,Mountain Top,New South Wales,11.55
+12808,Mountain View (NSW),New South Wales,12.65
+12809,Mourquong,New South Wales,12.93
+12810,Mowbray Park,New South Wales,8.85
+12811,Mozart,New South Wales,58.86
+12812,Mudgee,New South Wales,33.67
+12813,Mulbring,New South Wales,27.51
+12814,Mulgoa,New South Wales,54.26
+12815,Mulgrave (NSW),New South Wales,4.02
+12816,Mulguthrie,New South Wales,118.11
+12817,Muli Muli,New South Wales,0.57
+12818,Mulla,New South Wales,269.80
+12819,Mulla Creek,New South Wales,164.46
+12820,Mullaley,New South Wales,313.87
+12821,Mullamuddy,New South Wales,35.92
+12822,Mullaway,New South Wales,1.74
+12823,Mullengandra,New South Wales,127.19
+12824,Mullengudgery,New South Wales,490.89
+12825,Mullion,New South Wales,148.90
+12826,Mullion Creek,New South Wales,157.00
+12827,Mulloon,New South Wales,104.75
+12828,Mullumbimby,New South Wales,27.61
+12829,Mullumbimby Creek,New South Wales,11.77
+12830,Mulwala,New South Wales,356.93
+12831,Mulyandry,New South Wales,214.24
+12832,Mumbil,New South Wales,153.02
+12833,Mumblebone Plain,New South Wales,373.76
+12834,Mumbulla Mountain,New South Wales,44.01
+12835,Mummel,New South Wales,51.35
+12836,Mummulgum,New South Wales,47.30
+12837,Mundamia,New South Wales,12.09
+12838,Mundarlo,New South Wales,174.12
+12839,Munderoo,New South Wales,143.12
+12840,Mundongo,New South Wales,12.59
+12841,Mungay Creek,New South Wales,57.96
+12842,Munghorn,New South Wales,59.70
+12843,Mungindi (NSW),New South Wales,1622.71
+12844,Mungo,New South Wales,793.38
+12845,Mungo Brush,New South Wales,56.22
+12846,Munni,New South Wales,54.66
+12847,Munyabla,New South Wales,130.28
+12848,Murga,New South Wales,125.34
+12849,Murrah,New South Wales,92.55
+12850,Murrami,New South Wales,248.58
+12851,Murrawombie,New South Wales,399.72
+12852,Murray Downs,New South Wales,173.23
+12853,Murray Gorge,New South Wales,88.71
+12854,Murrays Beach,New South Wales,2.42
+12855,Murrays Run,New South Wales,33.85
+12856,Murrengenburg,New South Wales,20.70
+12857,Murrin Bridge,New South Wales,3.98
+12858,Murringo,New South Wales,327.16
+12859,Murrulebale,New South Wales,150.25
+12860,Murrumbateman,New South Wales,139.00
+12861,Murrumbo,New South Wales,120.02
+12862,Murrumbucca,New South Wales,151.58
+12863,Murrumburrah,New South Wales,43.44
+12864,Murrurundi,New South Wales,73.04
+12865,Murulla,New South Wales,65.77
+12866,Murwillumbah,New South Wales,12.00
+12867,Muscle Creek,New South Wales,88.51
+12868,Muswellbrook,New South Wales,262.40
+12869,Mutawintji,New South Wales,6301.30
+12870,Muttama,New South Wales,163.21
+12871,Myall Creek,New South Wales,140.38
+12872,Myall Lake,New South Wales,63.47
+12873,Myall Park (NSW),New South Wales,266.42
+12874,Myalla (NSW),New South Wales,80.14
+12875,Mylestom,New South Wales,3.60
+12876,Mylneford,New South Wales,13.03
+12877,Myocum,New South Wales,32.31
+12878,Myola (NSW),New South Wales,1.10
+12879,Myrtle Creek (NSW),New South Wales,213.44
+12880,Myrtle Mountain,New South Wales,42.44
+12881,Myrtle Park,New South Wales,83.69
+12882,Myrtleville,New South Wales,161.85
+12883,Mystery Bay,New South Wales,3.43
+12884,Myuna Bay,New South Wales,7.56
+12885,Nabiac,New South Wales,143.70
+12886,Nadgee,New South Wales,419.72
+12887,Nambucca Heads,New South Wales,30.92
+12888,Namoi River,New South Wales,297.50
+12889,Nana Glen,New South Wales,65.02
+12890,Nangus,New South Wales,246.95
+12891,Nanima,New South Wales,67.41
+12892,Napier Lane,New South Wales,256.63
+12893,Napoleon Reef,New South Wales,34.94
+12894,Naradhan,New South Wales,621.67
+12895,Narara,New South Wales,8.24
+12896,Narellan,New South Wales,4.28
+12897,Narellan Vale,New South Wales,2.48
+12898,Naremburn,New South Wales,1.25
+12899,Narone Creek,New South Wales,4.48
+12900,Narooma,New South Wales,120.23
+12901,Narrabarba,New South Wales,106.32
+12902,Narrabeen,New South Wales,2.20
+12903,Narrabri,New South Wales,1293.98
+12904,Narraburra,New South Wales,122.75
+12905,Narran Lake,New South Wales,890.50
+12906,Narrandera,New South Wales,357.86
+12907,Narrangullen,New South Wales,148.60
+12908,Narrawa,New South Wales,298.24
+12909,Narrawallee,New South Wales,3.66
+12910,Narraweena,New South Wales,1.78
+12911,Narromine,New South Wales,1907.98
+12912,Narwee,New South Wales,1.27
+12913,Nashdale,New South Wales,26.70
+12914,Nashua,New South Wales,18.13
+12915,Nattai,New South Wales,51.63
+12916,Naughtons Gap,New South Wales,9.86
+12917,Neath,New South Wales,3.36
+12918,Nebea,New South Wales,220.73
+12919,Neilrex,New South Wales,164.89
+12920,Nelligen,New South Wales,70.38
+12921,Nelson (Bega Valley - NSW),New South Wales,34.64
+12922,Nelson (The Hills Shire - NSW),New South Wales,4.92
+12923,Nelson Bay (NSW),New South Wales,15.66
+12924,Nelsons Plains,New South Wales,20.87
+12925,Nelungaloo,New South Wales,110.50
+12926,Nemingha,New South Wales,33.38
+12927,Nericon,New South Wales,64.62
+12928,Neringla,New South Wales,192.90
+12929,Nerong,New South Wales,176.58
+12930,Nerriga,New South Wales,134.56
+12931,Nerrigundah,New South Wales,169.76
+12932,Nethercote,New South Wales,58.82
+12933,Neurea,New South Wales,121.50
+12934,Neutral Bay,New South Wales,1.28
+12935,Never Never,New South Wales,92.13
+12936,Nevertire,New South Wales,677.28
+12937,Neville,New South Wales,205.36
+12938,New Berrima,New South Wales,3.39
+12939,New Brighton,New South Wales,1.75
+12940,New Buildings,New South Wales,31.60
+12941,New Italy,New South Wales,71.75
+12942,New Lambton,New South Wales,5.30
+12943,New Lambton Heights,New South Wales,2.91
+12944,New Mexico,New South Wales,102.03
+12945,New Park,New South Wales,5.34
+12946,New Valley,New South Wales,203.97
+12947,Newbold,New South Wales,5.92
+12948,Newbridge (NSW),New South Wales,82.99
+12949,Newcastle,New South Wales,1.16
+12950,Newcastle East,New South Wales,0.52
+12951,Newcastle West,New South Wales,0.87
+12952,Newee Creek,New South Wales,28.58
+12953,Newington (NSW),New South Wales,0.93
+12954,Newnes,New South Wales,50.88
+12955,Newnes Plateau,New South Wales,429.32
+12956,Newport (NSW),New South Wales,3.81
+12957,Newrybar,New South Wales,20.99
+12958,Newstead (NSW),New South Wales,86.13
+12959,Newton Boyd,New South Wales,588.69
+12960,Newtown (NSW),New South Wales,1.58
+12961,Niagara Park,New South Wales,4.78
+12962,Niangala,New South Wales,691.84
+12963,Niemur,New South Wales,270.08
+12964,Nightcap,New South Wales,39.65
+12965,Nimbin,New South Wales,72.88
+12966,Nimmitabel,New South Wales,139.93
+12967,Nimmo,New South Wales,37.22
+12968,Nobbys Creek,New South Wales,19.49
+12969,Nombi,New South Wales,346.72
+12970,Noona,New South Wales,3418.08
+12971,Noorong,New South Wales,226.85
+12972,Nooroo,New South Wales,71.78
+12973,Norah Head,New South Wales,4.25
+12974,Noraville,New South Wales,1.76
+12975,Nords Wharf,New South Wales,3.06
+12976,Normanhurst,New South Wales,2.19
+12977,North Albury,New South Wales,5.87
+12978,North Arm (NSW),New South Wales,5.19
+12979,North Arm Cove,New South Wales,48.51
+12980,North Avoca,New South Wales,1.50
+12981,North Balgowlah,New South Wales,1.12
+12982,North Batemans Bay,New South Wales,5.99
+12983,North Boambee Valley,New South Wales,13.32
+12984,North Bondi,New South Wales,1.26
+12985,North Bourke,New South Wales,4233.88
+12986,North Brother,New South Wales,10.46
+12987,North Casino,New South Wales,28.87
+12988,North Curl Curl,New South Wales,1.22
+12989,North Dorrigo,New South Wales,30.16
+12990,North Epping,New South Wales,2.33
+12991,North Gosford,New South Wales,1.92
+12992,North Haven (NSW),New South Wales,5.88
+12993,North Lambton,New South Wales,1.34
+12994,North Lismore,New South Wales,12.50
+12995,North Macksville,New South Wales,18.21
+12996,North Macquarie,New South Wales,2.59
+12997,North Manly,New South Wales,1.07
+12998,North Narooma,New South Wales,11.32
+12999,North Narrabeen,New South Wales,2.54
+13000,North Nowra,New South Wales,10.23
+13001,North Parramatta,New South Wales,5.24
+13002,North Richmond,New South Wales,22.12
+13003,North Rocks,New South Wales,5.46
+13004,North Rothbury,New South Wales,15.91
+13005,North Ryde,New South Wales,5.36
+13006,North Shore (NSW),New South Wales,19.02
+13007,North St Marys,New South Wales,3.19
+13008,North Star,New South Wales,904.76
+13009,North Strathfield,New South Wales,1.04
+13010,North Sydney,New South Wales,1.47
+13011,North Tamworth,New South Wales,18.15
+13012,North Tumbulgum,New South Wales,13.89
+13013,North Turramurra,New South Wales,11.61
+13014,North Wagga Wagga,New South Wales,16.45
+13015,North Wahroonga,New South Wales,3.89
+13016,North Willoughby,New South Wales,0.93
+13017,North Wollongong,New South Wales,2.42
+13018,North Woodburn,New South Wales,5.32
+13019,North Yalgogrin,New South Wales,444.13
+13020,North Yeoval,New South Wales,23.51
+13021,Northangera,New South Wales,24.52
+13022,Northbridge (NSW),New South Wales,2.73
+13023,Northmead,New South Wales,4.29
+13024,Northwood (NSW),New South Wales,0.38
+13025,Norway,New South Wales,48.24
+13026,Nowendoc,New South Wales,874.35
+13027,Nowley,New South Wales,368.30
+13028,Nowra,New South Wales,8.99
+13029,Nowra Hill,New South Wales,33.99
+13030,Nubba,New South Wales,95.85
+13031,Nulkaba,New South Wales,14.46
+13032,Nullamanna,New South Wales,263.61
+13033,Nullica,New South Wales,146.02
+13034,Nullo Mountain,New South Wales,487.26
+13035,Numbaa,New South Wales,20.12
+13036,Number One,New South Wales,51.53
+13037,Numbla Vale,New South Wales,120.16
+13038,Numbugga,New South Wales,55.78
+13039,Numeralla,New South Wales,174.62
+13040,Numinbah,New South Wales,29.58
+13041,Numulgi,New South Wales,16.54
+13042,Nunderi,New South Wales,3.83
+13043,Nundle,New South Wales,177.56
+13044,Nungatta,New South Wales,262.49
+13045,Nungatta South,New South Wales,4.55
+13046,Nurenmerenmong,New South Wales,240.98
+13047,Nymagee,New South Wales,4277.16
+13048,Nymboida,New South Wales,323.36
+13049,Nyngan,New South Wales,2142.35
+13050,Nyora (NSW),New South Wales,78.06
+13051,Nyrang Creek,New South Wales,32.37
+13052,O'Connell (NSW),New South Wales,119.42
+13053,Oak Flats,New South Wales,3.76
+13054,Oakdale (NSW),New South Wales,94.01
+13055,Oakey Park,New South Wales,2.18
+13056,Oakhampton,New South Wales,5.19
+13057,Oakhampton Heights,New South Wales,1.96
+13058,Oakhurst (NSW),New South Wales,2.03
+13059,Oaklands,New South Wales,596.43
+13060,Oakville,New South Wales,15.15
+13061,Oakwood (NSW),New South Wales,152.22
+13062,Oallen,New South Wales,268.42
+13063,Oatlands (NSW),New South Wales,2.46
+13064,Oatley,New South Wales,4.37
+13065,Oban,New South Wales,72.61
+13066,Obanvale,New South Wales,3.15
+13067,Oberne Creek,New South Wales,191.18
+13068,Oberon,New South Wales,187.41
+13069,Obley,New South Wales,326.37
+13070,Ocean Shores,New South Wales,12.85
+13071,Ogunbil,New South Wales,180.31
+13072,Old Adaminaby,New South Wales,24.72
+13073,Old Bar,New South Wales,24.27
+13074,Old Bonalbo,New South Wales,5.23
+13075,Old Erowal Bay,New South Wales,0.79
+13076,Old Grevillia,New South Wales,9.75
+13077,Old Guildford,New South Wales,0.96
+13078,Old Junee,New South Wales,185.74
+13079,Old Mill,New South Wales,3.25
+13080,Old Station,New South Wales,15.88
+13081,Old Toongabbie,New South Wales,1.27
+13082,Olinda (NSW),New South Wales,92.21
+13083,Olney,New South Wales,132.62
+13084,Omadale,New South Wales,22.96
+13085,One Mile (NSW),New South Wales,5.08
+13086,One Tree,New South Wales,1629.08
+13087,Oolong,New South Wales,59.50
+13088,Ooma,New South Wales,131.06
+13089,Ootha,New South Wales,252.49
+13090,Ophir,New South Wales,146.91
+13091,Oran Park,New South Wales,13.74
+13092,Orange,New South Wales,150.93
+13093,Orange Grove (NSW),New South Wales,103.85
+13094,Orangeville,New South Wales,42.86
+13095,Orchard Hills,New South Wales,43.07
+13096,Orient Point,New South Wales,2.05
+13097,Orton Park,New South Wales,5.46
+13098,Osborne (NSW),New South Wales,177.04
+13099,Osterley (NSW),New South Wales,3.68
+13100,Oswald,New South Wales,2.76
+13101,Otford,New South Wales,6.84
+13102,Oura,New South Wales,141.62
+13103,Ourimbah,New South Wales,87.15
+13104,Ournie,New South Wales,110.23
+13105,Owens Gap,New South Wales,149.68
+13106,Oxford Falls,New South Wales,6.65
+13107,Oxley (Balranald - NSW),New South Wales,2872.40
+13108,Oxley (Warren - NSW),New South Wales,707.45
+13109,Oxley Island,New South Wales,32.40
+13110,Oxley Park,New South Wales,1.27
+13111,Oxley Vale,New South Wales,8.50
+13112,Oyster Bay,New South Wales,2.10
+13113,Oyster Cove (NSW),New South Wales,6.08
+13114,Packsaddle,New South Wales,9661.01
+13115,Paddington (NSW),New South Wales,1.63
+13116,Paddys Flat (Kyogle - NSW),New South Wales,52.07
+13117,Paddys Flat (Snowy Monaro Regional - NSW),New South Wales,168.29
+13118,Paddys River (Snowy Valleys - NSW),New South Wales,115.73
+13119,Paddys River (Wingecarribee - NSW),New South Wales,25.31
+13120,Padstow,New South Wales,5.40
+13121,Padstow Heights,New South Wales,1.93
+13122,Pagans Flat,New South Wales,14.42
+13123,Pages Creek,New South Wales,134.42
+13124,Pages River,New South Wales,37.09
+13125,Pagewood,New South Wales,2.20
+13126,Palarang,New South Wales,92.54
+13127,Palerang,New South Wales,66.76
+13128,Paling Yards (Bathurst Regional - NSW),New South Wales,25.74
+13129,Paling Yards (Oberon - NSW),New South Wales,247.65
+13130,Pallal,New South Wales,246.44
+13131,Pallamallawa,New South Wales,497.58
+13132,Palm Beach (NSW),New South Wales,2.72
+13133,Palm Grove (NSW),New South Wales,16.11
+13134,Palmdale (NSW),New South Wales,3.08
+13135,Palmers Channel,New South Wales,19.44
+13136,Palmers Island,New South Wales,34.82
+13137,Palmers Oaky,New South Wales,182.11
+13138,Palmvale,New South Wales,6.35
+13139,Palmwoods (NSW),New South Wales,3.87
+13140,Pambula,New South Wales,8.54
+13141,Pambula Beach,New South Wales,6.32
+13142,Pampoolah,New South Wales,17.06
+13143,Pan Ban,New South Wales,3253.55
+13144,Panania,New South Wales,4.75
+13145,Pangee,New South Wales,739.10
+13146,Panuara,New South Wales,155.88
+13147,Pappinbarra,New South Wales,67.32
+13148,Para,New South Wales,686.68
+13149,Paradise (NSW),New South Wales,113.61
+13150,Paringi,New South Wales,109.55
+13151,Parkes (NSW),New South Wales,983.11
+13152,Parkesbourne,New South Wales,67.95
+13153,Parklea,New South Wales,1.06
+13154,Parkville (NSW),New South Wales,62.94
+13155,Parma,New South Wales,19.43
+13156,Parramatta,New South Wales,5.26
+13157,Parraweena,New South Wales,254.95
+13158,Patchs Beach,New South Wales,2.56
+13159,Paterson (NSW),New South Wales,41.39
+13160,Patonga,New South Wales,18.10
+13161,Paupong,New South Wales,154.65
+13162,Paxton,New South Wales,4.32
+13163,Paynes Crossing,New South Wales,220.79
+13164,Paytens Bridge,New South Wales,246.96
+13165,Peacock Creek,New South Wales,66.99
+13166,Peak Hill (NSW),New South Wales,1263.25
+13167,Peak View,New South Wales,260.76
+13168,Peakhurst,New South Wales,3.71
+13169,Peakhurst Heights,New South Wales,0.87
+13170,Pearces Creek,New South Wales,8.61
+13171,Pearl Beach,New South Wales,1.26
+13172,Peats Ridge,New South Wales,28.24
+13173,Pebbly Beach,New South Wales,3.92
+13174,Peel,New South Wales,91.61
+13175,Peelwood,New South Wales,218.30
+13176,Pejar,New South Wales,65.19
+13177,Pelaw Main,New South Wales,9.27
+13178,Pelican (NSW),New South Wales,0.69
+13179,Pelton,New South Wales,12.33
+13180,Pembrooke,New South Wales,64.28
+13181,Pemulwuy,New South Wales,3.78
+13182,Pendle Hill,New South Wales,1.96
+13183,Pennant Hills,New South Wales,6.12
+13184,Penrith,New South Wales,12.20
+13185,Penrose,New South Wales,42.89
+13186,Penshurst (NSW),New South Wales,2.52
+13187,Pericoe,New South Wales,107.31
+13188,Perrys Crossing,New South Wales,72.03
+13189,Perthville,New South Wales,38.37
+13190,Petersham,New South Wales,1.29
+13191,Pheasants Nest,New South Wales,32.58
+13192,Phegans Bay,New South Wales,0.56
+13193,Phillip Bay,New South Wales,0.63
+13194,Phoenix Park,New South Wales,5.23
+13195,Piallamore,New South Wales,41.01
+13196,Piallaway,New South Wales,295.09
+13197,Piambong,New South Wales,229.81
+13198,Picketts Valley,New South Wales,2.17
+13199,Picnic Point,New South Wales,3.86
+13200,Picton (NSW),New South Wales,42.30
+13201,Pigeonbah,New South Wales,216.44
+13202,Piggabeen,New South Wales,9.63
+13203,Pikapene,New South Wales,35.51
+13204,Pillar Valley,New South Wales,196.39
+13205,Pilliga,New South Wales,1269.55
+13206,Pilot Wilderness,New South Wales,186.20
+13207,Pimlico (NSW),New South Wales,26.17
+13208,Pimlico Island,New South Wales,0.74
+13209,Pinbeyan,New South Wales,175.45
+13210,Pindaroi,New South Wales,283.61
+13211,Pindimar,New South Wales,30.90
+13212,Pine Camp,New South Wales,1855.18
+13213,Pine Clump,New South Wales,169.36
+13214,Pine Grove (NSW),New South Wales,110.67
+13215,Pine Lodge (NSW),New South Wales,65.05
+13216,Pine Ridge,New South Wales,209.03
+13217,Pine Valley,New South Wales,2.97
+13218,Piney Range,New South Wales,242.21
+13219,Pinkett,New South Wales,125.71
+13220,Pinnacle (NSW),New South Wales,128.60
+13221,Pinnacle Swamp,New South Wales,49.30
+13222,Pinny Beach,New South Wales,4.83
+13223,Piora,New South Wales,39.92
+13224,Pipeclay,New South Wales,30.88
+13225,Pitnacree,New South Wales,2.58
+13226,Pitt Town,New South Wales,12.60
+13227,Pitt Town Bottoms,New South Wales,5.73
+13228,Pleasant Hills,New South Wales,200.13
+13229,Pleasure Point,New South Wales,1.55
+13230,Plumpton (NSW),New South Wales,2.96
+13231,Point Clare,New South Wales,3.34
+13232,Point Frederick,New South Wales,0.60
+13233,Point Piper,New South Wales,0.39
+13234,Point Wolstoncroft,New South Wales,1.13
+13235,Pointer Mountain,New South Wales,43.24
+13236,Pokolbin,New South Wales,139.96
+13237,Pola Creek,New South Wales,7.34
+13238,Polo Flat,New South Wales,2.83
+13239,Pomeroy,New South Wales,44.78
+13240,Pomona (NSW),New South Wales,7.92
+13241,Ponto,New South Wales,67.64
+13242,Pooncarie,New South Wales,5223.57
+13243,Port Botany,New South Wales,1.23
+13244,Port Hacking,New South Wales,0.41
+13245,Port Kembla,New South Wales,13.62
+13246,Port Macquarie,New South Wales,54.47
+13247,Port Stephens,New South Wales,4.04
+13248,Porters Creek,New South Wales,28.54
+13249,Porters Retreat,New South Wales,106.89
+13250,Portland (NSW),New South Wales,98.90
+13251,Possum Brush,New South Wales,67.09
+13252,Possum Creek,New South Wales,11.24
+13253,Potato Point,New South Wales,11.80
+13254,Pottery Estate,New South Wales,0.43
+13255,Potts Hill,New South Wales,1.13
+13256,Potts Point,New South Wales,0.62
+13257,Pottsville,New South Wales,12.62
+13258,Prairiewood,New South Wales,2.13
+13259,Premer,New South Wales,174.48
+13260,Prestons,New South Wales,9.21
+13261,Pretty Beach (Central Coast - NSW),New South Wales,0.53
+13262,Pretty Beach (Shoalhaven - NSW),New South Wales,3.84
+13263,Pretty Pine,New South Wales,162.53
+13264,Primbee,New South Wales,3.22
+13265,Primrose Valley,New South Wales,98.53
+13266,Prospect (NSW),New South Wales,13.78
+13267,Pucawan,New South Wales,80.08
+13268,Puddledock,New South Wales,20.99
+13269,Pulganbar,New South Wales,76.08
+13270,Pullabooka,New South Wales,204.03
+13271,Pulletop,New South Wales,124.40
+13272,Pumpenbil,New South Wales,40.72
+13273,Punchbowl (Canterbury-Bankstown - NSW),New South Wales,4.32
+13274,Punchbowl (Clarence Valley - NSW),New South Wales,35.43
+13275,Purfleet,New South Wales,0.39
+13276,Purlewaugh,New South Wales,343.31
+13277,Putney,New South Wales,1.51
+13278,Putta Bucca,New South Wales,4.35
+13279,Putty,New South Wales,502.57
+13280,Pyangle,New South Wales,78.91
+13281,Pymble,New South Wales,6.57
+13282,Pyramul,New South Wales,164.79
+13283,Pyree,New South Wales,21.93
+13284,Pyrmont,New South Wales,0.93
+13285,Quaama,New South Wales,36.93
+13286,Quakers Hill,New South Wales,9.73
+13287,Quambone,New South Wales,1197.76
+13288,Quanda,New South Wales,180.08
+13289,Quandary,New South Wales,126.75
+13290,Quandialla,New South Wales,232.73
+13291,Queanbeyan,New South Wales,2.80
+13292,Queanbeyan East,New South Wales,4.21
+13293,Queanbeyan West,New South Wales,2.86
+13294,Queens Park (NSW),New South Wales,0.84
+13295,Queens Pinch,New South Wales,44.53
+13296,Queenscliff (NSW),New South Wales,0.42
+13297,Quialigo,New South Wales,131.59
+13298,Quidong,New South Wales,89.01
+13299,Quiera,New South Wales,76.22
+13300,Quipolly,New South Wales,156.87
+13301,Quirindi,New South Wales,415.76
+13302,Quorrobolong,New South Wales,66.07
+13303,Raby,New South Wales,2.66
+13304,Raglan (NSW),New South Wales,13.34
+13305,Rainbow Flat,New South Wales,32.22
+13306,Rainbow Reach,New South Wales,14.88
+13307,Raleigh,New South Wales,38.74
+13308,Ramornie,New South Wales,211.21
+13309,Ramsgate,New South Wales,0.43
+13310,Ramsgate Beach,New South Wales,0.40
+13311,Rand,New South Wales,418.76
+13312,Randwick,New South Wales,5.31
+13313,Rangari,New South Wales,180.50
+13314,Rangers Valley,New South Wales,125.24
+13315,Rankin Park,New South Wales,1.44
+13316,Rankins Springs,New South Wales,942.56
+13317,Rannock,New South Wales,175.96
+13318,Rappville,New South Wales,46.80
+13319,Rathmines,New South Wales,4.06
+13320,Ravensdale,New South Wales,117.23
+13321,Ravenswood (NSW),New South Wales,0.65
+13322,Ravensworth (NSW),New South Wales,64.57
+13323,Rawdon Island,New South Wales,10.63
+13324,Rawdon Vale,New South Wales,66.83
+13325,Raworth,New South Wales,4.54
+13326,Rawsonville,New South Wales,55.24
+13327,Raymond Terrace,New South Wales,40.77
+13328,Razorback,New South Wales,45.98
+13329,Red Head,New South Wales,2.55
+13330,Red Hill (Snowy Valleys - NSW),New South Wales,24.71
+13331,Red Hill (Tamworth Regional - NSW),New South Wales,146.81
+13332,Red Hill (Warren - NSW),New South Wales,39.52
+13333,Red Range,New South Wales,239.94
+13334,Red Rock,New South Wales,8.99
+13335,Red Rocks,New South Wales,9.19
+13336,Redbank (NSW),New South Wales,28.85
+13337,Redbournberry,New South Wales,4.43
+13338,Reddestone,New South Wales,144.50
+13339,Redfern,New South Wales,1.17
+13340,Redhead,New South Wales,3.68
+13341,Redlands,New South Wales,61.98
+13342,Reedy Creek (NSW),New South Wales,62.14
+13343,Reedy Swamp,New South Wales,9.41
+13344,Reefton (NSW),New South Wales,144.92
+13345,Regents Park (NSW),New South Wales,1.99
+13346,Regentville,New South Wales,1.19
+13347,Reids Flat,New South Wales,177.07
+13348,Reidsdale,New South Wales,67.97
+13349,Rennie,New South Wales,114.48
+13350,Renwick,New South Wales,1.40
+13351,Repentance Creek,New South Wales,7.10
+13352,Repton,New South Wales,8.86
+13353,Reserve Creek,New South Wales,16.44
+13354,Retreat (NSW),New South Wales,135.53
+13355,Revesby,New South Wales,5.61
+13356,Revesby Heights,New South Wales,0.80
+13357,Rhine Falls,New South Wales,43.70
+13358,Rhodes,New South Wales,1.01
+13359,Richlands (NSW),New South Wales,31.26
+13360,Richmond (NSW),New South Wales,26.81
+13361,Richmond Hill (NSW),New South Wales,6.63
+13362,Richmond Lowlands,New South Wales,7.67
+13363,Richmond Vale,New South Wales,27.49
+13364,Rileys Hill,New South Wales,10.70
+13365,Ringwood (NSW),New South Wales,92.19
+13366,Riverlea,New South Wales,10.45
+13367,Riverside (NSW),New South Wales,14.88
+13368,Riverstone,New South Wales,22.46
+13369,Rivertree,New South Wales,175.73
+13370,Riverview (NSW),New South Wales,1.37
+13371,Riverwood,New South Wales,3.84
+13372,Rixs Creek,New South Wales,11.87
+13373,Rob Roy,New South Wales,39.53
+13374,Robertson (NSW),New South Wales,89.54
+13375,Robin Hill,New South Wales,7.71
+13376,Rock Flat,New South Wales,213.06
+13377,Rock Forest,New South Wales,92.40
+13378,Rock Valley,New South Wales,37.61
+13379,Rockdale,New South Wales,2.48
+13380,Rockley,New South Wales,99.68
+13381,Rockley Mount,New South Wales,14.84
+13382,Rockton,New South Wales,82.92
+13383,Rocky Creek (Gwydir - NSW),New South Wales,404.50
+13384,Rocky Creek (Inverell - NSW),New South Wales,167.05
+13385,Rocky Glen,New South Wales,390.58
+13386,Rocky Hall,New South Wales,60.89
+13387,Rocky Plain (NSW),New South Wales,133.84
+13388,Rocky Point (NSW),New South Wales,0.13
+13389,Rocky River (Tenterfield - NSW),New South Wales,654.14
+13390,Rocky River (Uralla - NSW),New South Wales,51.41
+13391,Rodd Point,New South Wales,0.37
+13392,Rollands Plains,New South Wales,38.22
+13393,Rookhurst,New South Wales,53.92
+13394,Rookwood (NSW),New South Wales,3.02
+13395,Rooty Hill,New South Wales,6.81
+13396,Ropers Road,New South Wales,124.38
+13397,Ropes Crossing,New South Wales,5.50
+13398,Rose Bay (NSW),New South Wales,2.55
+13399,Rose Valley (Kiama - NSW),New South Wales,11.54
+13400,Rose Valley (Snowy Monaro Regional - NSW),New South Wales,70.44
+13401,Rosebank,New South Wales,29.76
+13402,Roseberg,New South Wales,164.80
+13403,Roseberry,New South Wales,8.76
+13404,Roseberry Creek,New South Wales,40.45
+13405,Rosebery (NSW),New South Wales,1.93
+13406,Rosebrook (NSW),New South Wales,20.40
+13407,Rosedale (NSW),New South Wales,4.79
+13408,Rosehill (NSW),New South Wales,3.67
+13409,Roselands,New South Wales,2.74
+13410,Rosemeadow,New South Wales,2.98
+13411,Rosemeath,New South Wales,41.17
+13412,Roseville,New South Wales,3.92
+13413,Roseville Chase,New South Wales,1.26
+13414,Rosewood (Port Macquarie-Hastings - NSW),New South Wales,12.79
+13415,Rosewood (Snowy Valleys - NSW),New South Wales,149.86
+13416,Roslyn,New South Wales,147.29
+13417,Rossglen,New South Wales,4.45
+13418,Rossgole,New South Wales,62.57
+13419,Rossi,New South Wales,70.83
+13420,Rossmore (NSW),New South Wales,16.35
+13421,Roto,New South Wales,2887.78
+13422,Rouchel,New South Wales,72.94
+13423,Rouchel Brook,New South Wales,71.82
+13424,Roughit,New South Wales,11.03
+13425,Round Mountain,New South Wales,10.64
+13426,Round Swamp,New South Wales,19.34
+13427,Rous,New South Wales,12.69
+13428,Rous Mill,New South Wales,9.95
+13429,Rouse Hill,New South Wales,10.64
+13430,Rowan,New South Wales,30.59
+13431,Rowena,New South Wales,1231.50
+13432,Rowlands Creek,New South Wales,27.59
+13433,Royal National Park,New South Wales,139.16
+13434,Royalla,New South Wales,42.90
+13435,Rozelle,New South Wales,1.83
+13436,Ruby Creek,New South Wales,29.02
+13437,Rufus,New South Wales,1550.77
+13438,Rugby,New South Wales,206.78
+13439,Rukenvale,New South Wales,9.53
+13440,Run-o-Waters,New South Wales,9.21
+13441,Running Stream,New South Wales,269.64
+13442,Runnyford,New South Wales,46.99
+13443,Ruse,New South Wales,2.60
+13444,Rushcutters Bay,New South Wales,0.16
+13445,Rushes Creek,New South Wales,175.51
+13446,Rushforth,New South Wales,35.11
+13447,Russell Lea,New South Wales,1.02
+13448,Russell Vale,New South Wales,2.21
+13449,Rutherford,New South Wales,13.47
+13450,Ruthven,New South Wales,17.71
+13451,Ryan (NSW),New South Wales,63.53
+13452,Rydal,New South Wales,61.08
+13453,Rydalmere,New South Wales,3.80
+13454,Ryde,New South Wales,7.10
+13455,Rye Park,New South Wales,326.38
+13456,Ryhope,New South Wales,1.69
+13457,Rylstone,New South Wales,124.13
+13458,Sackville,New South Wales,5.09
+13459,Sackville North,New South Wales,13.09
+13460,Saddleback Mountain,New South Wales,6.47
+13461,Sadleir,New South Wales,0.90
+13462,Safety Beach (NSW),New South Wales,1.66
+13463,Salamander Bay,New South Wales,8.56
+13464,Salisbury (NSW),New South Wales,103.77
+13465,Salisbury Plains,New South Wales,235.65
+13466,Sallys Flat,New South Wales,54.18
+13467,Salt Ash,New South Wales,51.30
+13468,Saltwater,New South Wales,5.60
+13469,San Isidore,New South Wales,4.93
+13470,San Remo (NSW),New South Wales,2.28
+13471,Sancrox,New South Wales,25.59
+13472,Sanctuary Point,New South Wales,5.99
+13473,Sandbar,New South Wales,2.59
+13474,Sandgate (NSW),New South Wales,2.31
+13475,Sandigo,New South Wales,339.61
+13476,Sandilands (NSW),New South Wales,18.30
+13477,Sandon (NSW),New South Wales,5.65
+13478,Sandringham (NSW),New South Wales,0.50
+13479,Sandy Beach,New South Wales,13.47
+13480,Sandy Creek (Cobar - NSW),New South Wales,4813.84
+13481,Sandy Creek (Upper Hunter Shire - NSW),New South Wales,68.79
+13482,Sandy Crossing,New South Wales,2.12
+13483,Sandy Flat,New South Wales,172.24
+13484,Sandy Gully (NSW),New South Wales,10.07
+13485,Sandy Hill,New South Wales,175.33
+13486,Sandy Hollow,New South Wales,46.38
+13487,Sandy Point (NSW),New South Wales,0.40
+13488,Sanger,New South Wales,51.56
+13489,Sans Souci,New South Wales,3.07
+13490,Sapphire,New South Wales,103.73
+13491,Sapphire Beach,New South Wales,7.83
+13492,Saratoga,New South Wales,2.37
+13493,Sassafras (NSW),New South Wales,116.45
+13494,Saumarez,New South Wales,26.92
+13495,Saumarez Ponds,New South Wales,28.42
+13496,Savernake,New South Wales,389.02
+13497,Sawpit Creek,New South Wales,37.05
+13498,Sawtell,New South Wales,3.71
+13499,Sawyers Gully,New South Wales,33.01
+13500,Scarborough (NSW),New South Wales,2.08
+13501,Scheyville,New South Wales,7.41
+13502,Schofields,New South Wales,13.88
+13503,Scone,New South Wales,108.71
+13504,Scotia,New South Wales,4159.43
+13505,Scotland Island,New South Wales,0.55
+13506,Scotts Creek (NSW),New South Wales,109.06
+13507,Scotts Flat,New South Wales,7.35
+13508,Scotts Head,New South Wales,6.45
+13509,Seaforth (NSW),New South Wales,3.11
+13510,Seaham,New South Wales,38.64
+13511,Seahampton,New South Wales,6.05
+13512,Seal Rocks,New South Wales,19.33
+13513,Sebastopol (NSW),New South Wales,127.48
+13514,Sedgefield,New South Wales,14.75
+13515,Seelands,New South Wales,28.42
+13516,Sefton,New South Wales,1.81
+13517,Segenhoe,New South Wales,72.31
+13518,Seven Hills (NSW),New South Wales,9.63
+13519,Seven Oaks,New South Wales,5.14
+13520,Sextonville,New South Wales,54.23
+13521,Shadforth (NSW),New South Wales,18.12
+13522,Shallow Bay,New South Wales,23.04
+13523,Shalvey,New South Wales,1.58
+13524,Shanes Park,New South Wales,8.75
+13525,Shannon Brook,New South Wales,64.02
+13526,Shannon Vale,New South Wales,156.68
+13527,Shannondale,New South Wales,57.68
+13528,Shannons Flat,New South Wales,209.14
+13529,Shark Creek,New South Wales,51.77
+13530,Sharps Creek,New South Wales,41.25
+13531,Sheedys Gully,New South Wales,1.62
+13532,Shell Cove,New South Wales,10.07
+13533,Shellharbour,New South Wales,2.48
+13534,Shellharbour City Centre,New South Wales,0.73
+13535,Shelly Beach (NSW),New South Wales,1.16
+13536,Sherwood (Clarence Valley - NSW),New South Wales,102.33
+13537,Sherwood (Kempsey - NSW),New South Wales,14.74
+13538,Sherwood (Kyogle - NSW),New South Wales,24.40
+13539,Shoal Bay (NSW),New South Wales,4.02
+13540,Shoalhaven Heads,New South Wales,3.93
+13541,Shooters Hill,New South Wales,108.53
+13542,Shortland,New South Wales,6.56
+13543,Silent Grove,New South Wales,231.67
+13544,Silverdale (NSW),New South Wales,48.42
+13545,Silverton (NSW),New South Wales,1159.81
+13546,Silverwater (Lake Macquarie - NSW),New South Wales,0.90
+13547,Silverwater (Parramatta - NSW),New South Wales,2.70
+13548,Simpkins Creek,New South Wales,15.43
+13549,Singleton (NSW),New South Wales,4.36
+13550,Singleton Heights,New South Wales,3.79
+13551,Singleton Military Area,New South Wales,137.30
+13552,Singletons Mill,New South Wales,6.02
+13553,Six Mile Swamp,New South Wales,39.46
+13554,Skennars Head,New South Wales,7.42
+13555,Skillion Flat,New South Wales,16.58
+13556,Skinners Shoot,New South Wales,4.90
+13557,Sleepy Hollow,New South Wales,11.60
+13558,Smeaton Grange,New South Wales,2.77
+13559,Smithfield (NSW),New South Wales,8.91
+13560,Smiths Creek (Clarence Valley - NSW),New South Wales,33.67
+13561,Smiths Creek (Kyogle - NSW),New South Wales,29.82
+13562,Smiths Creek (Tweed - NSW),New South Wales,18.28
+13563,Smiths Lake,New South Wales,15.46
+13564,Smithtown,New South Wales,1.65
+13565,Snakes Plain,New South Wales,87.50
+13566,Snowball,New South Wales,132.60
+13567,Snowy Plain,New South Wales,103.87
+13568,Sodwalls,New South Wales,92.03
+13569,Sofala,New South Wales,85.41
+13570,Soldiers Point,New South Wales,1.09
+13571,Somersby,New South Wales,79.90
+13572,Somerton (NSW),New South Wales,216.23
+13573,South Albury,New South Wales,4.22
+13574,South Arm (Clarence Valley - NSW),New South Wales,17.72
+13575,South Arm (Nambucca - NSW),New South Wales,97.37
+13576,South Ballina,New South Wales,3.02
+13577,South Bathurst,New South Wales,4.65
+13578,South Bowenfels,New South Wales,30.71
+13579,South Coogee,New South Wales,1.13
+13580,South Durras,New South Wales,12.19
+13581,South Golden Beach,New South Wales,0.93
+13582,South Grafton,New South Wales,24.93
+13583,South Granville,New South Wales,2.19
+13584,South Gundagai,New South Wales,217.81
+13585,South Gundurimba,New South Wales,56.31
+13586,South Guyra,New South Wales,1.80
+13587,South Hurstville,New South Wales,1.04
+13588,South Kempsey,New South Wales,66.27
+13589,South Lismore,New South Wales,8.87
+13590,South Littleton,New South Wales,0.45
+13591,South Maitland,New South Wales,1.72
+13592,South Maroota,New South Wales,34.86
+13593,South Murwillumbah,New South Wales,11.32
+13594,South Nowra,New South Wales,8.62
+13595,South Pambula,New South Wales,8.12
+13596,South Penrith,New South Wales,5.06
+13597,South Tamworth,New South Wales,6.73
+13598,South Turramurra,New South Wales,3.06
+13599,South Wentworthville,New South Wales,1.81
+13600,South West Rocks,New South Wales,13.68
+13601,South Windsor,New South Wales,8.91
+13602,South Wolumla,New South Wales,92.56
+13603,Southampton (NSW),New South Wales,9.68
+13604,Southgate,New South Wales,35.14
+13605,Speers Point,New South Wales,3.06
+13606,Speewa,New South Wales,126.33
+13607,Spencer,New South Wales,32.03
+13608,Spicers Creek,New South Wales,214.34
+13609,Spicketts Creek,New South Wales,16.82
+13610,Splitters Creek,New South Wales,33.10
+13611,Spring Creek (NSW),New South Wales,15.52
+13612,Spring Farm (NSW),New South Wales,6.36
+13613,Spring Flat,New South Wales,61.11
+13614,Spring Grove,New South Wales,36.60
+13615,Spring Hill (Cabonne - NSW),New South Wales,27.99
+13616,Spring Hill (Wollongong - NSW),New South Wales,3.42
+13617,Spring Mountain (NSW),New South Wales,63.71
+13618,Spring Plains,New South Wales,536.63
+13619,Spring Ridge,New South Wales,515.18
+13620,Spring Terrace,New South Wales,24.06
+13621,Springdale (NSW),New South Wales,133.63
+13622,Springdale Heights,New South Wales,6.88
+13623,Springfield (Central Coast - NSW),New South Wales,4.59
+13624,Springfield (Snowy Monaro Regional - NSW),New South Wales,199.22
+13625,Springrange,New South Wales,77.93
+13626,Springside (NSW),New South Wales,60.27
+13627,Springvale (Lithgow - NSW),New South Wales,9.05
+13628,Springvale (Wagga Wagga - NSW),New South Wales,16.36
+13629,Springwood (NSW),New South Wales,19.40
+13630,St Albans (NSW),New South Wales,107.43
+13631,St Andrews (NSW),New South Wales,2.08
+13632,St Clair (Penrith - NSW),New South Wales,7.20
+13633,St Clair (Singleton - NSW),New South Wales,48.77
+13634,St Fillans,New South Wales,20.66
+13635,St George (NSW),New South Wales,89.65
+13636,St Georges Basin,New South Wales,45.11
+13637,St Helens Park,New South Wales,5.16
+13638,St Huberts Island,New South Wales,0.54
+13639,St Ives (NSW),New South Wales,14.26
+13640,St Ives Chase,New South Wales,3.48
+13641,St Johns Park,New South Wales,1.98
+13642,St Leonards (NSW),New South Wales,0.80
+13643,St Marys (NSW),New South Wales,9.70
+13644,St Peters (NSW),New South Wales,1.73
+13645,Stanborough,New South Wales,96.64
+13646,Stanbridge,New South Wales,73.03
+13647,Stanford Merthyr,New South Wales,0.74
+13648,Stanhope (NSW),New South Wales,38.58
+13649,Stanhope Gardens,New South Wales,2.84
+13650,Stanmore (NSW),New South Wales,1.22
+13651,Stannifer,New South Wales,73.61
+13652,Stannum,New South Wales,74.49
+13653,Stanwell Park,New South Wales,3.04
+13654,Stanwell Tops,New South Wales,4.69
+13655,State Mine Gully,New South Wales,18.49
+13656,Steam Plains,New South Wales,645.43
+13657,Steeple Flat,New South Wales,113.94
+13658,Stewarts Brook,New South Wales,122.59
+13659,Stewarts River,New South Wales,13.85
+13660,Stockinbingal,New South Wales,262.37
+13661,Stockrington,New South Wales,18.28
+13662,Stockton (NSW),New South Wales,3.59
+13663,Stockyard Creek (NSW),New South Wales,47.36
+13664,Stokers Siding,New South Wales,31.28
+13665,Stonehenge (NSW),New South Wales,74.01
+13666,Stonequarry,New South Wales,30.96
+13667,Stony Chute,New South Wales,21.02
+13668,Stony Creek (Bega Valley - NSW),New South Wales,27.90
+13669,Stony Creek (Mid-Western Regional - NSW),New South Wales,22.00
+13670,Stony Crossing,New South Wales,119.43
+13671,Stotts Creek,New South Wales,6.73
+13672,Stratford (NSW),New South Wales,36.69
+13673,Strathcedar,New South Wales,17.89
+13674,Stratheden,New South Wales,47.19
+13675,Strathfield (NSW),New South Wales,6.57
+13676,Strathfield South,New South Wales,2.51
+13677,Stroud,New South Wales,176.94
+13678,Stroud Hill,New South Wales,15.51
+13679,Stroud Road,New South Wales,57.24
+13680,Stuart Town,New South Wales,142.81
+13681,Stuarts Point,New South Wales,16.80
+13682,Stubbo,New South Wales,124.21
+13683,Stud Park,New South Wales,118.10
+13684,Suffolk Park,New South Wales,4.22
+13685,Sugarloaf (NSW),New South Wales,34.81
+13686,Summer Hill (Dungog - NSW),New South Wales,44.99
+13687,Summer Hill (Inner West - NSW),New South Wales,1.20
+13688,Summer Hill Creek,New South Wales,18.11
+13689,Summer Island,New South Wales,13.31
+13690,Summerland Point,New South Wales,3.06
+13691,Sun Valley (NSW),New South Wales,2.29
+13692,Sunny Corner,New South Wales,43.65
+13693,Sunset Strip (NSW),New South Wales,3.68
+13694,Sunshine (NSW),New South Wales,0.76
+13695,Sunshine Bay,New South Wales,1.33
+13696,Suntop,New South Wales,115.83
+13697,Surf Beach (NSW),New South Wales,4.36
+13698,Surfside,New South Wales,2.77
+13699,Surry Hills,New South Wales,1.32
+13700,Sussex Inlet,New South Wales,36.36
+13701,Sutherland (NSW),New South Wales,3.57
+13702,Sutton (NSW),New South Wales,144.81
+13703,Sutton Forest,New South Wales,106.41
+13704,Swan Bay (Port Stephens - NSW),New South Wales,31.64
+13705,Swan Bay (Richmond Valley - NSW),New South Wales,38.51
+13706,Swan Creek (NSW),New South Wales,9.15
+13707,Swan Vale,New South Wales,94.59
+13708,Swanbrook,New South Wales,33.96
+13709,Swanhaven,New South Wales,2.13
+13710,Swans Crossing,New South Wales,25.04
+13711,Swansea (NSW),New South Wales,4.87
+13712,Swansea Heads,New South Wales,0.86
+13713,Sweetmans Creek,New South Wales,10.59
+13714,Sydenham (NSW),New South Wales,0.27
+13715,Sydney,New South Wales,2.94
+13716,Sydney Olympic Park,New South Wales,6.63
+13717,Sylvania,New South Wales,3.38
+13718,Sylvania Waters,New South Wales,1.06
+13719,Tabbil Creek,New South Wales,17.33
+13720,Tabbimoble,New South Wales,153.77
+13721,Tabbita,New South Wales,453.77
+13722,Table Top,New South Wales,175.33
+13723,Tabulam,New South Wales,356.35
+13724,Tacoma,New South Wales,2.18
+13725,Tacoma South,New South Wales,1.48
+13726,Tahlee,New South Wales,3.00
+13727,Tahmoor,New South Wales,16.98
+13728,Talarm,New South Wales,29.25
+13729,Talawanta,New South Wales,1234.24
+13730,Talbingo,New South Wales,88.31
+13731,Tallawang,New South Wales,194.52
+13732,Tallimba,New South Wales,610.94
+13733,Tallong,New South Wales,198.31
+13734,Tallowal,New South Wales,92.00
+13735,Tallowwood Ridge,New South Wales,47.59
+13736,Tallwood,New South Wales,34.73
+13737,Tallwoods Village,New South Wales,2.44
+13738,Talmalmo,New South Wales,263.30
+13739,Talofa,New South Wales,5.42
+13740,Taloumbi,New South Wales,54.11
+13741,Tamarama,New South Wales,0.30
+13742,Tamban,New South Wales,68.11
+13743,Tambar Springs,New South Wales,664.22
+13744,Tambaroora,New South Wales,59.94
+13745,Taminda,New South Wales,7.67
+13746,Tamworth,New South Wales,1.20
+13747,Tanglewood,New South Wales,5.45
+13748,Tanilba Bay,New South Wales,13.03
+13749,Tanja,New South Wales,48.34
+13750,Tannabar,New South Wales,237.19
+13751,Tannas Mount,New South Wales,59.55
+13752,Tantangara,New South Wales,142.65
+13753,Tantawangalo,New South Wales,198.80
+13754,Tantonan,New South Wales,173.98
+13755,Tapitallee,New South Wales,18.78
+13756,Tara (NSW),New South Wales,89.34
+13757,Taradale (NSW),New South Wales,66.26
+13758,Tarago,New South Wales,310.00
+13759,Taralga,New South Wales,119.38
+13760,Tarana,New South Wales,139.57
+13761,Tarban,New South Wales,104.10
+13762,Tarbuck Bay,New South Wales,5.29
+13763,Tarcutta,New South Wales,413.11
+13764,Taree,New South Wales,47.85
+13765,Taree South,New South Wales,7.13
+13766,Taren Point,New South Wales,1.36
+13767,Tarlo,New South Wales,94.86
+13768,Tarraganda,New South Wales,12.54
+13769,Tarrawanna,New South Wales,2.51
+13770,Tarriaro,New South Wales,240.12
+13771,Tarro,New South Wales,5.79
+13772,Tascott,New South Wales,2.13
+13773,Tatham,New South Wales,67.87
+13774,Tathra,New South Wales,20.76
+13775,Tatton,New South Wales,1.77
+13776,Taylors Arm,New South Wales,18.41
+13777,Taylors Beach (NSW),New South Wales,5.34
+13778,Taylors Flat,New South Wales,186.32
+13779,Tea Gardens,New South Wales,81.55
+13780,Telarah,New South Wales,1.43
+13781,Telegraph Point,New South Wales,26.25
+13782,Telopea,New South Wales,1.51
+13783,Temagog,New South Wales,84.90
+13784,Temora,New South Wales,298.16
+13785,Tempe,New South Wales,1.85
+13786,Ten Mile Hollow,New South Wales,4.60
+13787,Tenambit,New South Wales,2.00
+13788,Tenandra,New South Wales,566.88
+13789,Tennyson (NSW),New South Wales,8.70
+13790,Tennyson Point,New South Wales,0.45
+13791,Tenterden (NSW),New South Wales,77.44
+13792,Tenterfield,New South Wales,669.79
+13793,Teralba,New South Wales,14.25
+13794,Terania Creek,New South Wales,20.04
+13795,Terara,New South Wales,8.83
+13796,Teridgerie,New South Wales,589.73
+13797,Termeil,New South Wales,63.64
+13798,Terrabella,New South Wales,24.54
+13799,Terrace Creek,New South Wales,44.21
+13800,Terragon,New South Wales,14.35
+13801,Terramungamine,New South Wales,202.98
+13802,Terranora,New South Wales,11.79
+13803,Terreel,New South Wales,146.23
+13804,Terrey Hills,New South Wales,8.45
+13805,Terrigal,New South Wales,8.69
+13806,Terry Hie Hie,New South Wales,426.45
+13807,Teven,New South Wales,21.82
+13808,Tewinga,New South Wales,7.26
+13809,Texas (NSW),New South Wales,184.48
+13810,Thalgarrah,New South Wales,354.74
+13811,Tharbogang,New South Wales,110.54
+13812,The Angle,New South Wales,22.54
+13813,The Bight,New South Wales,7.56
+13814,The Branch,New South Wales,107.15
+13815,The Brothers,New South Wales,119.52
+13816,The Channon,New South Wales,18.44
+13817,The Devils Wilderness,New South Wales,107.47
+13818,The Entrance,New South Wales,1.65
+13819,The Entrance North,New South Wales,1.02
+13820,The Freshwater,New South Wales,26.32
+13821,The Gap (Richmond Valley - NSW),New South Wales,47.52
+13822,The Gap (Wagga Wagga - NSW),New South Wales,145.97
+13823,The Glen (NSW),New South Wales,8.02
+13824,The Gulf,New South Wales,532.13
+13825,The Hatch,New South Wales,12.78
+13826,The Hill,New South Wales,0.55
+13827,The Junction,New South Wales,0.39
+13828,The Lagoon,New South Wales,88.54
+13829,The Marra,New South Wales,3001.04
+13830,The Meadows,New South Wales,16.44
+13831,The Oaks,New South Wales,38.92
+13832,The Pilliga,New South Wales,2753.64
+13833,The Pinnacles,New South Wales,16.75
+13834,The Pocket,New South Wales,15.87
+13835,The Ponds,New South Wales,4.65
+13836,The Ridgeway,New South Wales,2.27
+13837,The Risk,New South Wales,20.89
+13838,The Rock,New South Wales,286.54
+13839,The Rocks (Bathurst Regional - NSW),New South Wales,40.43
+13840,The Rocks (Sydney - NSW),New South Wales,0.20
+13841,The Sandon,New South Wales,20.35
+13842,The Slopes,New South Wales,3.50
+13843,The Whiteman,New South Wales,20.53
+13844,Theresa Creek (NSW),New South Wales,34.89
+13845,Theresa Park,New South Wales,16.85
+13846,Thirldene,New South Wales,158.89
+13847,Thirlmere,New South Wales,32.83
+13848,Thirroul,New South Wales,4.87
+13849,Thora,New South Wales,73.74
+13850,Thornleigh,New South Wales,3.87
+13851,Thornton (NSW),New South Wales,16.61
+13852,Thrumster,New South Wales,11.71
+13853,Thuddungra,New South Wales,161.93
+13854,Thule,New South Wales,253.83
+13855,Thumb Creek,New South Wales,85.09
+13856,Thurgoona,New South Wales,35.63
+13857,Thyra,New South Wales,80.04
+13858,Tianjara,New South Wales,81.16
+13859,Tibbuc,New South Wales,38.53
+13860,Tibooburra,New South Wales,12244.56
+13861,Tichborne,New South Wales,104.21
+13862,Tichular,New South Wales,34.36
+13863,Tighes Hill,New South Wales,0.80
+13864,Tilba Tilba,New South Wales,22.37
+13865,Tilbuster,New South Wales,39.55
+13866,Tilligerry Creek,New South Wales,7.54
+13867,Tilpa,New South Wales,6905.88
+13868,Timbarra (NSW),New South Wales,144.78
+13869,Timbillica,New South Wales,106.83
+13870,Timbumburi,New South Wales,42.72
+13871,Timor (NSW),New South Wales,202.31
+13872,Tindarey,New South Wales,3360.50
+13873,Tinderry,New South Wales,272.87
+13874,Tingha,New South Wales,270.65
+13875,Tingira Heights,New South Wales,1.82
+13876,Tinonee,New South Wales,16.48
+13877,Tinpot,New South Wales,103.58
+13878,Tintenbar,New South Wales,19.90
+13879,Tintinhull,New South Wales,18.83
+13880,Tiona,New South Wales,0.67
+13881,Tipperary (NSW),New South Wales,31.93
+13882,Tiri,New South Wales,11.25
+13883,Tirrannaville,New South Wales,145.73
+13884,Titaatee Creek,New South Wales,12.12
+13885,Tocal (NSW),New South Wales,21.09
+13886,Tocumwal,New South Wales,388.21
+13887,Tolland,New South Wales,2.09
+13888,Tolwong,New South Wales,106.46
+13889,Tomago,New South Wales,34.93
+13890,Tomakin,New South Wales,3.88
+13891,Tomalla,New South Wales,276.84
+13892,Tombong,New South Wales,130.76
+13893,Tomboye,New South Wales,83.88
+13894,Tomerong,New South Wales,55.95
+13895,Tomewin,New South Wales,5.65
+13896,Tomingley,New South Wales,834.04
+13897,Tomki,New South Wales,10.16
+13898,Toms Creek,New South Wales,59.77
+13899,Tonderburine,New South Wales,451.63
+13900,Tongarra,New South Wales,22.02
+13901,Toogong,New South Wales,93.68
+13902,Tooleybuc,New South Wales,120.05
+13903,Toolijooa,New South Wales,8.16
+13904,Tooloom,New South Wales,60.34
+13905,Tooloon,New South Wales,498.19
+13906,Tooma,New South Wales,230.65
+13907,Toongabbie (NSW),New South Wales,4.73
+13908,Toongi,New South Wales,190.34
+13909,Toonumbar,New South Wales,101.62
+13910,Tooranie,New South Wales,182.08
+13911,Tooraweenah,New South Wales,509.85
+13912,Toormina,New South Wales,5.40
+13913,Toorooka,New South Wales,97.24
+13914,Toothdale,New South Wales,24.96
+13915,Tootool,New South Wales,119.46
+13916,Toowoon Bay,New South Wales,0.55
+13917,Topi Topi,New South Wales,23.94
+13918,Toronto,New South Wales,9.33
+13919,Torrington (NSW),New South Wales,262.67
+13920,Torryburn (Dungog - NSW),New South Wales,22.21
+13921,Torryburn (Uralla - NSW),New South Wales,150.09
+13922,Totnes Valley,New South Wales,46.77
+13923,Tottenham (NSW),New South Wales,1621.62
+13924,Touga,New South Wales,81.64
+13925,Toukley,New South Wales,3.68
+13926,Towallum,New South Wales,151.55
+13927,Towamba,New South Wales,132.27
+13928,Townsend,New South Wales,3.22
+13929,Towradgi,New South Wales,1.43
+13930,Towrang,New South Wales,55.05
+13931,Tralee,New South Wales,13.47
+13932,Trangie,New South Wales,1027.97
+13933,Tregeagle,New South Wales,20.63
+13934,Tregear,New South Wales,1.64
+13935,Trenayr,New South Wales,10.88
+13936,Trentham Cliffs,New South Wales,13.79
+13937,Trewilga,New South Wales,6.51
+13938,Triamble,New South Wales,254.37
+13939,Triangle Flat,New South Wales,145.83
+13940,Trundle,New South Wales,879.05
+13941,Trungley Hall,New South Wales,152.30
+13942,Trunkey Creek,New South Wales,67.93
+13943,Tubbamurra,New South Wales,52.98
+13944,Tubbul,New South Wales,134.37
+13945,Tucabia,New South Wales,35.06
+13946,Tucki Tucki,New South Wales,17.43
+13947,Tuckombil,New South Wales,8.82
+13948,Tuckurimba,New South Wales,15.69
+13949,Tuena,New South Wales,231.79
+13950,Tuggerah,New South Wales,9.33
+13951,Tuggerawong,New South Wales,1.49
+13952,Tugrabakh,New South Wales,33.17
+13953,Tullakool,New South Wales,297.78
+13954,Tullamore,New South Wales,1358.13
+13955,Tullarwalla,New South Wales,20.64
+13956,Tullera,New South Wales,15.55
+13957,Tullibigeal,New South Wales,1095.60
+13958,Tullimbar,New South Wales,3.88
+13959,Tulloona,New South Wales,363.16
+13960,Tullymorgan,New South Wales,58.51
+13961,Tumbarumba,New South Wales,231.70
+13962,Tumbi Umbi,New South Wales,13.11
+13963,Tumblong,New South Wales,129.04
+13964,Tumbulgum,New South Wales,8.55
+13965,Tumorrama,New South Wales,195.20
+13966,Tumut,New South Wales,29.51
+13967,Tumut Plains,New South Wales,9.19
+13968,Tuncester,New South Wales,10.95
+13969,Tuncurry,New South Wales,15.67
+13970,Tunglebung,New South Wales,48.49
+13971,Tuntable Creek,New South Wales,19.19
+13972,Tuppal,New South Wales,92.02
+13973,Tura Beach,New South Wales,7.01
+13974,Turill,New South Wales,407.70
+13975,Turlinjah,New South Wales,13.31
+13976,Turners Flat,New South Wales,25.11
+13977,Turondale,New South Wales,84.05
+13978,Tuross,New South Wales,106.76
+13979,Tuross Head,New South Wales,15.85
+13980,Turramurra,New South Wales,6.00
+13981,Turrawan,New South Wales,84.29
+13982,Turrella,New South Wales,0.64
+13983,Turvey Park,New South Wales,3.75
+13984,Tweed Heads,New South Wales,3.76
+13985,Tweed Heads South,New South Wales,8.30
+13986,Tweed Heads West,New South Wales,9.97
+13987,Twelve Mile,New South Wales,175.36
+13988,Twelve Mile Creek,New South Wales,22.67
+13989,Twelve Mile Peg,New South Wales,78.24
+13990,Twenty Forests,New South Wales,8.87
+13991,Twin Rivers,New South Wales,291.00
+13992,Two Mile Flat,New South Wales,81.46
+13993,Tyagarah,New South Wales,17.74
+13994,Tyalgum,New South Wales,30.83
+13995,Tyalgum Creek,New South Wales,31.62
+13996,Tygalgah,New South Wales,18.45
+13997,Tyndale,New South Wales,42.02
+13998,Tyringham,New South Wales,84.02
+13999,Uarbry,New South Wales,172.55
+14000,Uki,New South Wales,16.34
+14001,Ulamambri,New South Wales,183.08
+14002,Ulan,New South Wales,295.10
+14003,Ulladulla,New South Wales,13.55
+14004,Ulmarra,New South Wales,60.33
+14005,Ulong,New South Wales,34.66
+14006,Ultimo,New South Wales,0.56
+14007,Umina Beach,New South Wales,6.99
+14008,Unanderra,New South Wales,6.50
+14009,Underbank,New South Wales,50.69
+14010,Undercliffe,New South Wales,39.83
+14011,Ungarie,New South Wales,858.11
+14012,Unumgar,New South Wales,42.34
+14013,Upper Allyn,New South Wales,147.05
+14014,Upper Bingara,New South Wales,85.32
+14015,Upper Burringbar,New South Wales,18.08
+14016,Upper Bylong,New South Wales,142.98
+14017,Upper Colo,New South Wales,55.72
+14018,Upper Coopers Creek,New South Wales,7.50
+14019,Upper Copmanhurst,New South Wales,23.25
+14020,Upper Corindi,New South Wales,64.42
+14021,Upper Crystal Creek,New South Wales,23.69
+14022,Upper Dartbrook,New South Wales,224.39
+14023,Upper Duck Creek,New South Wales,51.53
+14024,Upper Duroby,New South Wales,5.56
+14025,Upper Eden Creek,New South Wales,52.37
+14026,Upper Fine Flower,New South Wales,197.55
+14027,Upper Growee,New South Wales,17.09
+14028,Upper Horseshoe Creek,New South Wales,42.70
+14029,Upper Horton,New South Wales,595.36
+14030,Upper Kangaroo River,New South Wales,37.63
+14031,Upper Kangaroo Valley,New South Wales,11.64
+14032,Upper Karuah River,New South Wales,180.89
+14033,Upper Lansdowne,New South Wales,84.44
+14034,Upper Macdonald,New South Wales,55.61
+14035,Upper Main Arm,New South Wales,16.80
+14036,Upper Mangrove,New South Wales,43.77
+14037,Upper Manilla,New South Wales,187.49
+14038,Upper Mongogarie,New South Wales,97.70
+14039,Upper Myall,New South Wales,53.26
+14040,Upper Nile,New South Wales,221.44
+14041,Upper Orara,New South Wales,110.03
+14042,Upper Pappinbarra,New South Wales,99.03
+14043,Upper Rollands Plains,New South Wales,71.76
+14044,Upper Rouchel,New South Wales,247.98
+14045,Upper Taylors Arm,New South Wales,40.38
+14046,Upper Tooloom,New South Wales,251.68
+14047,Upper Turon,New South Wales,44.47
+14048,Upper Wilsons Creek,New South Wales,9.33
+14049,Upsalls Creek,New South Wales,13.62
+14050,Uralba,New South Wales,11.63
+14051,Uralla (NSW),New South Wales,193.52
+14052,Urana,New South Wales,1073.40
+14053,Urangeline,New South Wales,152.01
+14054,Urangeline East,New South Wales,97.50
+14055,Uranquinty,New South Wales,132.40
+14056,Urawilkie,New South Wales,513.40
+14057,Urbenville,New South Wales,182.71
+14058,Uriarra,New South Wales,205.63
+14059,Urila,New South Wales,40.74
+14060,Urliup,New South Wales,15.43
+14061,Urunga,New South Wales,48.51
+14062,Utungun,New South Wales,27.75
+14063,Vacy,New South Wales,65.45
+14064,Vale Of Clwydd,New South Wales,2.16
+14065,Valentine,New South Wales,4.91
+14066,Valery,New South Wales,53.91
+14067,Valla,New South Wales,80.68
+14068,Valla Beach,New South Wales,3.33
+14069,Valley Heights,New South Wales,2.18
+14070,Varroville,New South Wales,7.26
+14071,Vaucluse,New South Wales,3.08
+14072,Verges Creek,New South Wales,23.00
+14073,Verona,New South Wales,65.69
+14074,Villawood,New South Wales,3.93
+14075,Vincentia,New South Wales,13.28
+14076,Vineyard,New South Wales,11.01
+14077,Violet Hill,New South Wales,9.68
+14078,Vittoria (NSW),New South Wales,77.03
+14079,Voyager Point,New South Wales,1.73
+14080,Wadalba,New South Wales,3.82
+14081,Wadbilliga,New South Wales,262.22
+14082,Wadeville,New South Wales,12.97
+14083,Wagga Wagga,New South Wales,8.85
+14084,Wagstaffe,New South Wales,0.40
+14085,Wahroonga,New South Wales,9.77
+14086,Waitara,New South Wales,0.76
+14087,Waitui,New South Wales,15.62
+14088,Wakefield,New South Wales,18.12
+14089,Wakeley,New South Wales,1.63
+14090,Wakool,New South Wales,301.11
+14091,Walang,New South Wales,26.20
+14092,Walbundrie,New South Wales,231.09
+14093,Walcha,New South Wales,3239.09
+14094,Walcha Road,New South Wales,116.67
+14095,Waldegrave,New South Wales,10.15
+14096,Walgett,New South Wales,6565.98
+14097,Walla Walla,New South Wales,279.86
+14098,Wallabadah,New South Wales,378.24
+14099,Wallabi Point,New South Wales,4.22
+14100,Wallacetown,New South Wales,8.66
+14101,Wallacia,New South Wales,25.53
+14102,Wallaga Lake,New South Wales,12.27
+14103,Wallagoot,New South Wales,37.44
+14104,Wallalong,New South Wales,14.41
+14105,Wallamore,New South Wales,22.42
+14106,Wallanbah,New South Wales,38.72
+14107,Wallangra,New South Wales,396.60
+14108,Wallanthery,New South Wales,1179.03
+14109,Wallarah,New South Wales,6.59
+14110,Wallaringa,New South Wales,26.67
+14111,Wallarobba,New South Wales,49.55
+14112,Wallaroo (NSW),New South Wales,119.21
+14113,Wallendbeen,New South Wales,218.05
+14114,Wallerawang,New South Wales,67.07
+14115,Walleroobie,New South Wales,230.82
+14116,Wallingat,New South Wales,63.24
+14117,Wallis Lake,New South Wales,82.91
+14118,Wallsend,New South Wales,11.20
+14119,Walmer (NSW),New South Wales,119.91
+14120,Wamban,New South Wales,190.74
+14121,Wambangalang,New South Wales,273.85
+14122,Wamberal,New South Wales,8.77
+14123,Wamboin,New South Wales,86.53
+14124,Wambool,New South Wales,21.99
+14125,Wambrook,New South Wales,82.05
+14126,Wanaaring,New South Wales,19851.86
+14127,Wandandian,New South Wales,17.07
+14128,Wandella (NSW),New South Wales,61.75
+14129,Wandera,New South Wales,4.70
+14130,Wandook,New South Wales,74.25
+14131,Wandsworth,New South Wales,341.75
+14132,Wang Wauk,New South Wales,31.97
+14133,Wanganella,New South Wales,1504.27
+14134,Wanganui,New South Wales,2.50
+14135,Wangi Wangi,New South Wales,3.66
+14136,Wantabadgery,New South Wales,244.17
+14137,Wantagong,New South Wales,335.20
+14138,Wantiool,New South Wales,76.17
+14139,Wapengo,New South Wales,74.57
+14140,Warabrook,New South Wales,1.50
+14141,Waratah (NSW),New South Wales,1.91
+14142,Waratah West,New South Wales,1.52
+14143,Warburn,New South Wales,146.49
+14144,Wardell,New South Wales,32.35
+14145,Wardrop Valley,New South Wales,8.85
+14146,Wards Mistake,New South Wales,179.80
+14147,Wards River,New South Wales,90.82
+14148,Wareemba,New South Wales,0.32
+14149,Warialda,New South Wales,1196.86
+14150,Warialda Rail,New South Wales,164.00
+14151,Warilla,New South Wales,2.48
+14152,Warkworth,New South Wales,137.35
+14153,Warners Bay,New South Wales,6.71
+14154,Warnervale,New South Wales,12.73
+14155,Warrabah,New South Wales,203.39
+14156,Warraderry,New South Wales,323.58
+14157,Warragai Creek,New South Wales,18.47
+14158,Warragamba,New South Wales,5.15
+14159,Warragoon,New South Wales,170.66
+14160,Warrah,New South Wales,55.33
+14161,Warrah Creek,New South Wales,130.90
+14162,Warrah Ridge,New South Wales,217.50
+14163,Warral,New South Wales,51.86
+14164,Warranulla,New South Wales,41.15
+14165,Warrawee,New South Wales,1.34
+14166,Warrawidgee,New South Wales,440.99
+14167,Warrawong,New South Wales,2.63
+14168,Warrazambil Creek,New South Wales,14.26
+14169,Warregah Island,New South Wales,4.63
+14170,Warrell Creek,New South Wales,14.45
+14171,Warren,New South Wales,239.20
+14172,Warri,New South Wales,58.03
+14173,Warriewood,New South Wales,4.19
+14174,Warrimoo,New South Wales,8.58
+14175,Warroo (NSW),New South Wales,301.06
+14176,Warrumbungle,New South Wales,183.27
+14177,Warwick Farm,New South Wales,4.61
+14178,Washpool (Clarence Valley - NSW),New South Wales,129.63
+14179,Washpool (Mid-Coast - NSW),New South Wales,8.77
+14180,Watagan,New South Wales,52.34
+14181,Watanobbi,New South Wales,1.74
+14182,Waterfall,New South Wales,17.58
+14183,Waterloo (NSW),New South Wales,1.13
+14184,Watersleigh,New South Wales,2.72
+14185,Waterview,New South Wales,6.65
+14186,Waterview Heights,New South Wales,58.33
+14187,Watsons Bay,New South Wales,0.61
+14188,Watsons Creek (NSW),New South Wales,241.58
+14189,Wattamolla,New South Wales,16.24
+14190,Wattamondara,New South Wales,68.79
+14191,Wattle Flat (NSW),New South Wales,58.42
+14192,Wattle Grove (NSW),New South Wales,2.59
+14193,Wattle Ponds,New South Wales,11.90
+14194,Wattle Ridge (NSW),New South Wales,111.71
+14195,Wattle Springs,New South Wales,231.14
+14196,Watton,New South Wales,12.47
+14197,Wauchope,New South Wales,17.80
+14198,Waugorah,New South Wales,640.16
+14199,Waukivory,New South Wales,82.72
+14200,Waverley (NSW),New South Wales,0.60
+14201,Waverly,New South Wales,212.79
+14202,Waverton,New South Wales,0.70
+14203,Way Way,New South Wales,46.73
+14204,Wayo,New South Wales,73.79
+14205,Weabonga,New South Wales,176.04
+14206,Wean,New South Wales,220.72
+14207,Webbers Creek,New South Wales,35.08
+14208,Webbs Creek,New South Wales,112.58
+14209,Wedderburn (NSW),New South Wales,25.38
+14210,Wee Jasper,New South Wales,422.50
+14211,Wee Waa,New South Wales,934.82
+14212,Weedallion,New South Wales,62.30
+14213,Weemelah,New South Wales,579.29
+14214,Weetaliba,New South Wales,222.84
+14215,Weethalle,New South Wales,873.24
+14216,Weilmoringle,New South Wales,2373.87
+14217,Weismantels,New South Wales,16.90
+14218,Welaregang,New South Wales,76.79
+14219,Welby,New South Wales,1.90
+14220,Wellingrove,New South Wales,366.36
+14221,Wellington (NSW),New South Wales,15.92
+14222,Wellington Vale,New South Wales,91.20
+14223,Wells Crossing,New South Wales,27.72
+14224,Wendoree Park,New South Wales,2.09
+14225,Wentworth (NSW),New South Wales,1636.72
+14226,Wentworth Falls,New South Wales,21.04
+14227,Wentworth Point,New South Wales,0.57
+14228,Wentworthville,New South Wales,3.10
+14229,Werai,New South Wales,24.31
+14230,Wereboldera,New South Wales,56.75
+14231,Wermatong,New South Wales,34.56
+14232,Werombi,New South Wales,32.05
+14233,Werri Beach,New South Wales,0.50
+14234,Werrikimbe,New South Wales,124.92
+14235,Werrington,New South Wales,4.51
+14236,Werrington County,New South Wales,2.09
+14237,Werrington Downs,New South Wales,1.11
+14238,Werris Creek,New South Wales,227.91
+14239,West Albury,New South Wales,5.41
+14240,West Ballina,New South Wales,9.26
+14241,West Bathurst,New South Wales,2.89
+14242,West Bungawalbin,New South Wales,66.74
+14243,West Coraki,New South Wales,49.37
+14244,West Gosford,New South Wales,4.78
+14245,West Haven,New South Wales,1.63
+14246,West Hoxton,New South Wales,6.71
+14247,West Kempsey,New South Wales,9.42
+14248,West Nowra,New South Wales,3.57
+14249,West Pennant Hills,New South Wales,9.29
+14250,West Pymble,New South Wales,3.68
+14251,West Ryde,New South Wales,3.57
+14252,West Tamworth,New South Wales,6.25
+14253,West Wallsend,New South Wales,17.49
+14254,West Wiangaree,New South Wales,24.03
+14255,West Wollongong,New South Wales,1.97
+14256,West Wyalong,New South Wales,801.36
+14257,Westbrook (NSW),New South Wales,93.73
+14258,Westdale (Snowy Valleys - NSW),New South Wales,27.51
+14259,Westdale (Tamworth Regional - NSW),New South Wales,51.96
+14260,Westleigh,New South Wales,3.82
+14261,Westmead,New South Wales,2.94
+14262,Weston (NSW),New South Wales,5.45
+14263,Westwood (NSW),New South Wales,48.28
+14264,Wetherill Park,New South Wales,11.21
+14265,Wetuppa,New South Wales,56.25
+14266,Whalan,New South Wales,2.43
+14267,Whale Beach,New South Wales,0.50
+14268,Wheeler Heights,New South Wales,0.85
+14269,Wheeny Creek,New South Wales,55.43
+14270,Wheeo,New South Wales,83.64
+14271,Wherrol Flat,New South Wales,142.10
+14272,Whian Whian,New South Wales,62.55
+14273,Whiporie,New South Wales,111.80
+14274,White Cliffs,New South Wales,11676.98
+14275,White Rock (NSW),New South Wales,19.07
+14276,Whitebridge,New South Wales,5.28
+14277,Whiteman Creek,New South Wales,30.61
+14278,Whitlow,New South Wales,258.46
+14279,Whittingham,New South Wales,40.21
+14280,Whitton,New South Wales,228.07
+14281,Whoota,New South Wales,6.77
+14282,Wiagdon,New South Wales,64.32
+14283,Wiangaree,New South Wales,13.21
+14284,Wiarborough,New South Wales,212.66
+14285,Wickham (NSW),New South Wales,0.74
+14286,Widden,New South Wales,590.72
+14287,Widgelli,New South Wales,84.17
+14288,Wilberforce (NSW),New South Wales,32.10
+14289,Wilbetree,New South Wales,42.37
+14290,Wilcannia,New South Wales,19840.82
+14291,Wild Cattle Creek,New South Wales,95.24
+14292,Wildes Meadow,New South Wales,35.88
+14293,Wiley Park,New South Wales,1.36
+14294,Willala,New South Wales,255.14
+14295,Willawarrin,New South Wales,25.37
+14296,Willbriggie,New South Wales,300.57
+14297,Willi Willi,New South Wales,151.19
+14298,Williamsdale,New South Wales,52.39
+14299,Williamtown,New South Wales,43.95
+14300,Willigobung,New South Wales,31.37
+14301,Willina,New South Wales,14.53
+14302,Willmot,New South Wales,0.91
+14303,Willoughby (NSW),New South Wales,1.63
+14304,Willoughby East,New South Wales,0.56
+14305,Willow Tree,New South Wales,133.15
+14306,Willow Vale (Kiama - NSW),New South Wales,6.75
+14307,Willow Vale (Wingecarribee - NSW),New South Wales,1.29
+14308,Willurah,New South Wales,349.29
+14309,Wilpinjong,New South Wales,51.70
+14310,Wilsons Creek,New South Wales,18.24
+14311,Wilton (NSW),New South Wales,109.14
+14312,Wimbledon,New South Wales,23.81
+14313,Wimborne,New South Wales,44.67
+14314,Winburndale,New South Wales,110.67
+14315,Windale,New South Wales,2.06
+14316,Windang,New South Wales,2.25
+14317,Windella,New South Wales,3.92
+14318,Windellama,New South Wales,313.69
+14319,Windera (NSW),New South Wales,3.14
+14320,Windermere (NSW),New South Wales,9.10
+14321,Windermere Park,New South Wales,0.35
+14322,Windeyer (NSW),New South Wales,168.67
+14323,Windowie,New South Wales,20.37
+14324,Windradyne,New South Wales,2.53
+14325,Windsor (NSW),New South Wales,4.13
+14326,Windsor Downs,New South Wales,7.58
+14327,Windy,New South Wales,137.14
+14328,Winegrove,New South Wales,10.95
+14329,Wingadee,New South Wales,837.57
+14330,Wingello,New South Wales,88.70
+14331,Wingen,New South Wales,149.42
+14332,Wingham,New South Wales,61.53
+14333,Winifred,New South Wales,44.96
+14334,Winmalee,New South Wales,9.06
+14335,Winston Hills,New South Wales,4.74
+14336,Winton (NSW),New South Wales,200.33
+14337,Wirlinga,New South Wales,41.00
+14338,Wirraba,New South Wales,258.98
+14339,Wirragulla,New South Wales,20.23
+14340,Wirrimah,New South Wales,33.99
+14341,Wirrimbi,New South Wales,6.97
+14342,Wirrinya,New South Wales,516.23
+14343,Wisemans Creek,New South Wales,62.65
+14344,Wisemans Ferry,New South Wales,13.47
+14345,Wittitrin,New South Wales,186.15
+14346,Wog Wog (Bega Valley - NSW),New South Wales,60.41
+14347,Wog Wog (Queanbeyan-Palerang Regional - NSW),New South Wales,72.26
+14348,Woko,New South Wales,35.61
+14349,Wolgan Valley,New South Wales,93.32
+14350,Wollangambe,New South Wales,483.50
+14351,Wollar,New South Wales,177.36
+14352,Wollemi,New South Wales,709.31
+14353,Wolli Creek,New South Wales,0.66
+14354,Wollogorang,New South Wales,86.69
+14355,Wollombi,New South Wales,47.49
+14356,Wollomombi,New South Wales,382.27
+14357,Wollongbar,New South Wales,17.63
+14358,Wollongong,New South Wales,5.81
+14359,Wollstonecraft,New South Wales,1.20
+14360,Wollumboola,New South Wales,34.93
+14361,Wollun,New South Wales,63.98
+14362,Wolumla,New South Wales,30.66
+14363,Wombarra,New South Wales,1.63
+14364,Wombat,New South Wales,77.51
+14365,Wombat Creek (NSW),New South Wales,16.96
+14366,Wombeyan Caves,New South Wales,228.79
+14367,Womboota,New South Wales,261.89
+14368,Womerah,New South Wales,128.06
+14369,Wonboyn,New South Wales,22.17
+14370,Wonboyn North,New South Wales,71.59
+14371,Wondabyne,New South Wales,24.79
+14372,Wondalga,New South Wales,69.01
+14373,Wongarbon,New South Wales,171.32
+14374,Wongawilli,New South Wales,4.40
+14375,Wongo Creek,New South Wales,150.98
+14376,Wongwibinda,New South Wales,395.59
+14377,Woodberry,New South Wales,8.39
+14378,Woodbine (NSW),New South Wales,1.20
+14379,Woodburn (Richmond Valley - NSW),New South Wales,44.80
+14380,Woodburn (Shoalhaven - NSW),New South Wales,34.95
+14381,Woodcroft (NSW),New South Wales,1.69
+14382,Woodenbong,New South Wales,86.46
+14383,Woodford (NSW),New South Wales,7.23
+14384,Woodford Island,New South Wales,45.93
+14385,Woodhill (NSW),New South Wales,9.93
+14386,Woodhouselee,New South Wales,36.82
+14387,Woodlands (Eurobodalla - NSW),New South Wales,7.33
+14388,Woodlands (Wingecarribee - NSW),New South Wales,60.13
+14389,Woodlawn,New South Wales,5.00
+14390,Woodpark,New South Wales,0.39
+14391,Woodrising,New South Wales,0.60
+14392,Woodside (NSW),New South Wales,126.33
+14393,Woodsreef,New South Wales,368.34
+14394,Woodstock (Cowra - NSW),New South Wales,419.35
+14395,Woodstock (Inverell - NSW),New South Wales,83.04
+14396,Woodstock (Shoalhaven - NSW),New South Wales,19.59
+14397,Woodview,New South Wales,41.27
+14398,Woodville (NSW),New South Wales,21.44
+14399,Woody Head,New South Wales,1.57
+14400,Woolbrook,New South Wales,373.06
+14401,Woolgarlo,New South Wales,89.52
+14402,Woolgoolga,New South Wales,54.77
+14403,Wooli,New South Wales,31.43
+14404,Woollahra,New South Wales,1.23
+14405,Woollamia,New South Wales,12.79
+14406,Woolloomooloo,New South Wales,0.37
+14407,Woolners Arm,New South Wales,17.26
+14408,Woolomin,New South Wales,71.96
+14409,Woolooma,New South Wales,65.35
+14410,Woolooware,New South Wales,1.86
+14411,Wooloweyah,New South Wales,28.40
+14412,Woolwich,New South Wales,0.70
+14413,Woomargama,New South Wales,140.68
+14414,Woombah,New South Wales,70.55
+14415,Woongarrah,New South Wales,5.32
+14416,Woonona,New South Wales,6.80
+14417,Wootton,New South Wales,107.81
+14418,Wooyung,New South Wales,26.37
+14419,Worlds End (NSW),New South Wales,30.03
+14420,Woronora,New South Wales,1.88
+14421,Woronora Dam,New South Wales,67.92
+14422,Woronora Heights,New South Wales,2.60
+14423,Worrigee,New South Wales,16.93
+14424,Worrowing Heights,New South Wales,13.49
+14425,Woy Woy,New South Wales,16.01
+14426,Woy Woy Bay,New South Wales,7.71
+14427,Wrathall,New South Wales,96.55
+14428,Wrights Beach,New South Wales,0.59
+14429,Wrights Creek (NSW),New South Wales,80.36
+14430,Wuuluman,New South Wales,196.51
+14431,Wyalong,New South Wales,354.65
+14432,Wyan,New South Wales,80.18
+14433,Wyanbene,New South Wales,60.67
+14434,Wyangala,New South Wales,242.54
+14435,Wyangle,New South Wales,84.91
+14436,Wybong,New South Wales,107.82
+14437,Wybung,New South Wales,4.98
+14438,Wyee,New South Wales,50.06
+14439,Wyee Point,New South Wales,3.67
+14440,Wylie Creek,New South Wales,75.33
+14441,Wylies Flat,New South Wales,8.95
+14442,Wymah,New South Wales,103.50
+14443,Wyndham (NSW),New South Wales,129.35
+14444,Wyneden,New South Wales,24.44
+14445,Wyoming,New South Wales,7.14
+14446,Wyong,New South Wales,11.43
+14447,Wyong Creek,New South Wales,27.08
+14448,Wyongah,New South Wales,1.07
+14449,Wyrallah,New South Wales,20.48
+14450,Yabbra,New South Wales,145.20
+14451,Yadboro,New South Wales,316.56
+14452,Yagon,New South Wales,45.16
+14453,Yagoona,New South Wales,4.62
+14454,Yalbraith,New South Wales,29.24
+14455,Yallah,New South Wales,8.51
+14456,Yallaroi,New South Wales,456.55
+14457,Yalwal,New South Wales,125.83
+14458,Yamba (NSW),New South Wales,16.89
+14459,Yambulla,New South Wales,456.10
+14460,Yanco,New South Wales,56.89
+14461,Yanderra,New South Wales,2.74
+14462,Yanga,New South Wales,535.82
+14463,Yankees Creek,New South Wales,140.54
+14464,Yannergee,New South Wales,152.98
+14465,Yantabulla,New South Wales,3468.53
+14466,Yaouk,New South Wales,260.03
+14467,Yarara,New South Wales,80.38
+14468,Yarra,New South Wales,78.93
+14469,Yarrabandai,New South Wales,297.81
+14470,Yarrabin,New South Wales,312.18
+14471,Yarragal,New South Wales,82.92
+14472,Yarragrin,New South Wales,199.73
+14473,Yarragundry,New South Wales,64.59
+14474,Yarrahapinni,New South Wales,20.60
+14475,Yarramalong,New South Wales,25.79
+14476,Yarraman (NSW),New South Wales,119.23
+14477,Yarramundi,New South Wales,32.31
+14478,Yarranbella,New South Wales,45.31
+14479,Yarrangobilly,New South Wales,174.17
+14480,Yarras (Bathurst Regional - NSW),New South Wales,13.41
+14481,Yarras (Port Macquarie-Hastings - NSW),New South Wales,76.63
+14482,Yarratt Forest,New South Wales,33.25
+14483,Yarravel,New South Wales,24.66
+14484,Yarrawa,New South Wales,148.16
+14485,Yarrawarrah,New South Wales,1.24
+14486,Yarrawonga (NSW),New South Wales,47.33
+14487,Yarrawonga Park,New South Wales,0.62
+14488,Yarrie Lake,New South Wales,172.48
+14489,Yarrow,New South Wales,105.20
+14490,Yarrowford,New South Wales,88.63
+14491,Yarrowitch,New South Wales,1488.15
+14492,Yarrowyck,New South Wales,372.37
+14493,Yass,New South Wales,99.73
+14494,Yass River,New South Wales,162.30
+14495,Yathella,New South Wales,165.23
+14496,Yattalunga (NSW),New South Wales,0.79
+14497,Yatte Yattah,New South Wales,24.27
+14498,Yaven Creek,New South Wales,135.45
+14499,Yelgun,New South Wales,6.76
+14500,Yellow Dam,New South Wales,108.24
+14501,Yellow Pinch,New South Wales,10.19
+14502,Yellow Rock (Blue Mountains - NSW),New South Wales,18.81
+14503,Yellow Rock (Shellharbour - NSW),New South Wales,18.38
+14504,Yenda (NSW),New South Wales,205.34
+14505,Yengo National Park,New South Wales,241.25
+14506,Yennora,New South Wales,2.74
+14507,Yeoval,New South Wales,312.05
+14508,Yerong Creek,New South Wales,259.99
+14509,Yerranderie,New South Wales,162.29
+14510,Yerrinbool,New South Wales,47.91
+14511,Yerriyong,New South Wales,126.37
+14512,Yessabah,New South Wales,46.66
+14513,Yetholme,New South Wales,62.60
+14514,Yetman,New South Wales,1004.26
+14515,Yippin Creek,New South Wales,2.67
+14516,Yoogali,New South Wales,24.63
+14517,Yorklea,New South Wales,81.64
+14518,Young,New South Wales,367.12
+14519,Yowie Bay,New South Wales,1.20
+14520,Yowrie,New South Wales,285.73
+14521,Yullundry,New South Wales,50.39
+14522,Yuraygir,New South Wales,40.06
+14523,Zara,New South Wales,10.46
+14524,Zetland,New South Wales,0.80
+19494,No usual address (NSW),New South Wales,0.00
+19797,Migratory - Offshore - Shipping (NSW),New South Wales,0.00

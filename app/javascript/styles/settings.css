@@ -1,7 +1,7 @@
 :root {
   /* Grid styling */
   --grid-gap: 0.5vw;
-  --grid-padding: 1vw;
+  --grid-padding: 0.25vw;
 
   /* Colours */
   --red-lightest: #fcebec;
@@ -39,7 +39,8 @@
   --green-dark: #40988c;
   --green-darker: #287368;
   --green-darkest: #13463f;
-  --gray-lightest: #ededf5;
+  --gray-lightest: #f8f8fa;
+  /* --gray-lightest: #ededf5; */
   --gray-lighter: #cdcdda;
   --gray-light: #afb3bd;
   --gray: #ababbb;
@@ -48,12 +49,13 @@
   --gray-darkest: #1a1e25;
   --color: #fff;
   --dashboard-background-color: var(--gray-lightest);
-  --tile-background-color: var(--gray-light);
+  --tile-background-color: var(--color);
 
   /* Fonts */
   --font-family: 'Source Sans Pro', sans-serif;
   --font-weight: 400;
   --font-weight-light: 400;
+  --font-weight-medium: 500;
   --font-weight-bold: 600;
   --font-weight-black: 900;
   --font-size-base: 1.5vw;
