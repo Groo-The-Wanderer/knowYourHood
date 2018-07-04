@@ -2,7 +2,9 @@
 @import './helpers.css';
 @import './postcode.css';
 @import './snapshot.css';
-
+@import './dwellings.css';
+@import './families.css';
+@import './homeownership.css';
 
 * {
   position: relative;

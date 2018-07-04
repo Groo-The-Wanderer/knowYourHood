@@ -6,6 +6,7 @@
         <p class="postcode__suburb">{{ location.hood }}</p>
         <p class="postcode__postcode">{{ location.postcode }}</p>
         <p class="postcode__town">{{ location.city }}, {{ location.state }}</p>
+        <p v-if="area" class="postcode__area">{{ area }} sq km</p>
       </div>
     </section>
   </tile>
@@ -19,7 +20,7 @@ export default {
       Tile,
   },
 
-  props: ['position', 'title', 'location']
+  props: ['position', 'title', 'location', 'area']
 
 };
 </script>

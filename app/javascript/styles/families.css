@@ -1,0 +1,42 @@
+.families__table {
+  margin:10px;
+  width:95%;
+  color: var(--blue-darker);
+  font-size: var(--font-size-xs);
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.families__table > tr {
+  border-bottom: 1px solid #f4f4f4;
+}
+
+.families__table_totrow {
+  line-height: 1.3rem;
+}
+
+.families__table > th {
+  border-bottom: 2px solid #f4f4f4;
+}
+
+.families__table > tr > td > li {
+  list-style-type: circle;
+  margin-left: 12px;
+  padding-left: 5px;
+}
+
+.families__nobullet {
+  list-style-type: none !important;
+}
+
+.families__sub_row {
+  line-height: 0.9rem;
+  margin-top: 4px;
+  font-size: var(--font-size-xxs);
+}
+
+.families__sub_row_header {
+  margin-top: 7px !important;
+  font-size: var(--font-size-xs);
+  color: var(--blue-light);
+}

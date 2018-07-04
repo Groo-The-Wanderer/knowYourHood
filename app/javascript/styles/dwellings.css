@@ -1,4 +1,4 @@
-.snapshot__table {
+.dwellings__table {
   margin:10px;
   width:95%;
   color: var(--blue-darker);
@@ -7,11 +7,21 @@
   border-collapse: collapse;
 }
 
-.snapshot__table > tr {
+.dwellings__table > tr {
   line-height: 1.3rem;
   border-bottom: 1px solid #f4f4f4;
 }
 
-.snapshot__table > th {
+.dwellings__table > th {
   border-bottom: 2px solid #f4f4f4;
+}
+
+.dwellings__table > tr > td > li {
+  list-style-type: circle;
+  margin-left: 12px;
+  padding-left: 5px;
+}
+
+.dwellings__sub_row {
+  font-size: var(--font-size-xxs);
 }

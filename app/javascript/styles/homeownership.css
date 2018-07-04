@@ -1,0 +1,27 @@
+.homeownership__table {
+  margin:10px;
+  width:95%;
+  color: var(--blue-darker);
+  font-size: var(--font-size-xs);
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.homeownership__table > tr {
+  line-height: 1.3rem;
+  border-bottom: 1px solid #f4f4f4;
+}
+
+.homeownership__table > th {
+  border-bottom: 2px solid #f4f4f4;
+}
+
+.homeownership__table > tr > td > li {
+  list-style-type: circle;
+  margin-left: 12px;
+  padding-left: 5px;
+}
+
+.homeownership__sub_row {
+  font-size: var(--font-size-xxs);
+}

@@ -1,14 +1,11 @@
 <template>
   <div class="dashboard" :style="gridTemplate">
     <Map position="a1:b2" @mapLocationSet="updateLocation"></Map>
-    <Postcode position="c1" :location="location" title="Postcode"></Postcode>
+    <Postcode position="c1" :location="location" :area="area" title="Postcode"></Postcode>
     <Snapshot position="d1:e1" title="Suburb Snapshot" :snapshot="snapshot"></Snapshot>
-    <!-- <Test position="d2" testTitle="stonkin D"></Test>
-    <Test position="a3" testTitle="hiya!"></Test>
-    <Test position="e1" testTitle="New Panel!"></Test>
-
-    <Test position="b3:c3" testTitle="bottom line"></Test>
-    <Test position="d3" testTitle="shoved in the corner"></Test> -->
+    <Dwellings position="c2" title="Dwellings" :dwellings="dwellings"></Dwellings>
+    <Families position="d2" title="Family Makeup" :families="families"></Families>
+    <Homeownership position="e2" title="Home Ownership" :homeownership="homeownership"></Homeownership>
   </div>
 </template>
 
@@ -17,6 +14,9 @@ import Test from './Test';
 import Map from './Map';
 import Postcode from './Postcode';
 import Snapshot from './Snapshot';
+import Dwellings from './Dwellings';
+import Families from './Families';
+import Homeownership from './Homeownership';
 import axios from 'axios';
 
 const config = require('../config/app.config.js').default;
@@ -26,15 +26,19 @@ export default {
       Map,
       Postcode,
       Snapshot,
+      Dwellings,
+      Families,
+      Homeownership,
       Test,
   },
 
   data(){
     return {
       location: null,
+      area: null,
       snapshot: null,
-      family: null,
-      dwelling: null,
+      families: null,
+      dwellings: null,
       homeownership: null,
       suburb_data: null
     }
@@ -61,10 +65,11 @@ export default {
       const suburbSearchURL = `${ config.localDataURL }/suburb/search?suburb=${ suburb }`;
       axios.get(suburbSearchURL)
       .then(resp => {
+        this.area = resp.data[0].area;
         this.suburb_data = resp.data[0];
         this.snapshot = resp.data[0].snapshot;
-        this.family = resp.data[0].family;
-        this.dwelling = resp.data[0].dwelling;
+        this.families = resp.data[0].family;
+        this.dwellings = resp.data[0].dwelling;
         this.homeownership = resp.data[0].homeownership;
       })
     },

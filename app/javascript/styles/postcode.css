@@ -57,3 +57,13 @@
   text-align: center;
   text-transform: capitalize;
 }
+
+.postcode__area {
+  color: var(--gray-darker);
+  font-size: var(--font-size-s);
+  text-align: center;
+  line-height: 2.5rem;
+  text-transform: uppercase;
+
+  /* text-transform: uppercase; */
+}

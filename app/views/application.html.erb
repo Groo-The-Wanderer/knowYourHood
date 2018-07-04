@@ -6,9 +6,11 @@
     <%= javascript_include_tag 'https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.min.js'%>
     <%= stylesheet_link_tag 'https://api.tiles.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.css' %>
     <%= stylesheet_link_tag 'https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.css' %>
+    <%= stylesheet_link_tag 'application.css' %>
     <%= stylesheet_pack_tag 'application' %>
   </head>
   <body>
+    <div id='navbar'></div>
     <div id='dashboard'></div>
     <%= javascript_pack_tag 'application' %>
   </body>

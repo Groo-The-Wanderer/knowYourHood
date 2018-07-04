@@ -4,12 +4,13 @@ class SuburbController < ApplicationController
     render({
       json: results,
       status: :ok,
+      except: [ :created_at, :updated_at ],
       include: {
-        snapshot: { except: [:id, :abs_ssc, :created_at, :updated_at] },
-        family: { except: [:id, :abs_ssc, :created_at, :updated_at] },
-        dwelling: { except: [:id, :abs_ssc, :created_at, :updated_at] },
-        dwelling: { except: [:id, :abs_ssc, :created_at, :updated_at] },
-        homeownership: { except: [:id, :abs_ssc, :created_at, :updated_at] }
+        snapshot: { except: [ :id, :abs_ssc, :created_at, :updated_at ] },
+        family: { except: [ :id, :abs_ssc, :created_at, :updated_at ] },
+        dwelling: { except: [ :id, :abs_ssc, :created_at, :updated_at ] },
+        dwelling: { except: [ :id, :abs_ssc, :created_at, :updated_at ] },
+        homeownership: { except: [ :id, :abs_ssc, :created_at, :updated_at ] }
       }
     })
   end
