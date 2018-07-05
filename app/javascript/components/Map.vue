@@ -1,7 +1,7 @@
 <template>
   <tile :position="position" modifiers="transparent">
     <div id='map'>
-      <div id='map-legend'>Legend:&nbsp;&nbsp;<span class="centerMarker"></span>&nbsp;Searched Location&nbsp;&nbsp;&nbsp;<img src="../../assets/images/hoodMarker.png">&nbsp;&nbsp;Centre of the Hood</div>
+      <div id='map-legend'>Legend:&nbsp;<span class="marker searched"></span>&nbsp;Searched&nbsp;<img src="../../assets/images/hoodMarker.png">&nbsp;Centre&nbsp;&nbsp;&nbsp;Schools:&nbsp;<span class="marker primarySchools"></span>&nbsp;Primary&nbsp;<span class="marker secondarySchools"></span>&nbsp;Secondary&nbsp;<span class="marker combinedSchools"></span>&nbsp;Combined&nbsp;<span class="marker specialSchools"></span>&nbsp;Special&nbsp;</div>
     </div>
   </tile>
 </template>
@@ -272,10 +272,9 @@ export default {
   font-family: Arial, Helvetica, sans-serif;
   border-radius: 7%;
   line-height: 1rem;
-  .centerMarker {
+  .marker {
     height: 0.65rem;
     width: 0.65rem;
-    background-color: #007cbf;
     border-radius: 50%;
     vertical-align: middle;
     display: inline-block;
@@ -284,6 +283,21 @@ export default {
   img {
     height:1.2rem;
     vertical-align: middle;
+  }
+  .searched {
+    background-color: #366e76;
+  }
+  .primarySchools {
+    background-color: #0276fd;
+  }
+  .secondarySchools {
+    background-color: #31e331;
+  }
+  .combinedSchools {
+    background-color: #6f2da8;
+  }
+  .specialSchools {
+    background-color: #fc6600;
   }
 }
 

@@ -4,7 +4,7 @@ export default {
     default: 'mapbox://styles/mapbox/streets-v10',
   },
   hoodCenterMarkerColor: '#44c54c',
-  searchedMarkerColor: '#007cbf',
+  searchedMarkerColor: '#366e76',
   primarySchoolMarkerColor: '#0276fd',
   secondarySchoolMarkerColor: '#31e331',
   combinedSchoolMarkerColor: '#6f2da8',
