@@ -7,25 +7,25 @@
           <div v-if="show_primary">
             <p class="schools__type_content_subheader schools__type_primary">Primary Schools</p>
             <div class="schools__desc" v-for="school in primarySchools" :key="school.school_id">
-              <p>{{ school.name }}</p>
+              <schoolrecord :school="school"></schoolrecord>
             </div>
           </div>
           <div v-if="show_secondary">
             <p class="schools__type_content_subheader schools__type_secondary">Secondary Schools</p>
             <div class="schools__desc" v-for="school in secondarySchools" :key="school.school_id">
-              <p>{{ school.name }}</p>
+              <schoolrecord :school="school"></schoolrecord>
             </div>
           </div>
           <div v-if="show_combined">
-            <p class="schools__type_content_subheader schools__type_combined">Combined Schools</p>
+            <p class="schools__type_content_subheader schools__type_combined">Combined Primary and Secondary Schools</p>
             <div class="schools__desc" v-for="school in combinedSchools" :key="school.school_id">
-              <p>{{ school.name }}</p>
+              <schoolrecord :school="school"></schoolrecord>
             </div>
           </div>
           <div v-if="show_special">
             <p class="schools__type_content_subheader schools__type_special">Special Schools</p>
             <div class="schools__desc" v-for="school in specialSchools" :key="school.school_id">
-              <p>{{ school.name }}</p>
+              <schoolrecord :school="school"></schoolrecord>
             </div>
           </div>
         </div>
@@ -35,8 +35,10 @@
 </template>
 
 <script>
+import Vue from 'vue';
 import Tile from './common/Tile';
-import { formatNumber, createGeoJSON } from '../utilities/utilities';
+import Schoolrecord from './Schoolrecord';
+import { formatNumber, distanceAway } from '../utilities/utilities';
 import axios from 'axios';
 import Mapbox from 'mapbox-gl';
 
@@ -45,6 +47,7 @@ const config = require('../config/app.config.js').default;
 export default {
   components: {
       Tile,
+      Schoolrecord,
   },
 
   props: ['position', 'title', 'location'],
@@ -55,16 +58,22 @@ export default {
       secondarySchools: [],
       combinedSchools: [],
       specialSchools: [],
-      show_primary: true,
-      show_secondary: true,
-      show_combined: true,
-      show_special: true
+      show_primary: false,
+      show_secondary: false,
+      show_combined: false,
+      show_special: false
     }
   },
 
   methods: {
     formatted( inputNumber ){
       return formatNumber( inputNumber );
+    },
+
+    formatSchoolRecord( school ){
+      return (
+        `<p>${ school.name }<span class="schools__distance_away">(${ distanceAway(school.distance) } away)</span></p>`
+      );
     },
 
     getSchools(){
@@ -93,6 +102,22 @@ export default {
         })
         .then( () => {
           this.$emit('schoolsListSet', [this.primarySchools, this.secondarySchools, this.combinedSchools, this.specialSchools]);
+
+          if( this.primarySchools.length > 0 ){ 
+            this.show_primary = true;
+          }
+
+          if( this.secondarySchools.length > 0 ){
+            this.show_secondary = true;
+          }
+
+          if( this.combinedSchools.length > 0 ){
+            this.show_combined = true;
+          }
+
+          if( this.specialSchools.length > 0 ){
+            this.show_special = true;
+          }
         })
       }
     }, // end getSchools()
@@ -105,10 +130,6 @@ export default {
       this.secondarySchools = []
       this.combinedSchools = []
       this.specialSchools = []
-      this.show_primary = true
-      this.show_secondary = true
-      this.show_combined = true
-      this.show_special = true
 
       this.getSchools();
     }

@@ -8,7 +8,13 @@ export function formatNumber(value) {
     return value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
 }
 
-
+export function distanceAway( distanceInKm ){
+    if( distanceInKm < 1 ){
+        return `${ Math.round(distanceInKm * 1000) }m`;
+    } else if ( distanceInKm > 1 ){
+        return `${ distanceInKm.toFixed(1) }km`;
+    }
+}
 
 export function addClassModifiers(base, modifiers = []) {
     if (!Array.isArray(modifiers)) {

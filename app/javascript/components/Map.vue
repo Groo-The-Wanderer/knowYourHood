@@ -51,7 +51,6 @@ export default {
     createMap() {
       map = new Mapbox.Map(defaultOptions);
       this.map = map;
-      window.mapboxMap = map;
 
       map.on('load', () => {
         map.addSource('searched-point', {
@@ -197,7 +196,18 @@ export default {
             .addTo(map)
         })
       }
-    } // end addSchoolsToMap()
+    }, // end addSchoolsToMap()
+
+    removeSchoolsFromMap( schoolsList ){
+      if( schoolsList ){
+          schoolsList.forEach( school => {
+          new Mapbox.Marker()
+            .setLngLat([school.lng, school.lat])
+            .remove()
+        })
+
+      }
+    }
   }, // Method definition
 
   watch: {

@@ -59,3 +59,36 @@
 .schools__desc {
   font-size: var(--font-size-xxs);
 }
+
+.schools__distance_away {
+  font-size: var(--font-size-tiny);
+  font-weight: var(--font-weight-light);
+  color: var(--gray-dark);
+}
+
+.schools__type {
+  /* font-size: var(--font-size-tiny);
+  font-weight: var(--font-weight-light);
+  color: var(--gray-dark); */
+  float: right;
+}
+
+.schools__record {
+  border-bottom: 1px solid #f4f4f4;
+}
+
+a.schools__link:link {
+  text-decoration: none;
+}
+
+a.schools__link:visited {
+  text-decoration: none;
+}
+
+a.schools__link:active {
+  text-decoration: none;
+}
+
+a.schools__link:hover {
+  text-decoration: underline;
+}
