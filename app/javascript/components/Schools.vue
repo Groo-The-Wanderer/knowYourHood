@@ -90,6 +90,7 @@ export default {
         default:
           break;
       }
+      this.$emit('toggleSchools', [this.show_primary, this.show_secondary, this.show_combined, this.show_special]);
     },
 
     formatted( inputNumber ){

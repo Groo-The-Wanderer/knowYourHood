@@ -46,7 +46,7 @@ export default {
     this.createMap();
   },
 
-  props: [ 'position', 'primarySchools', 'secondarySchools', 'combinedSchools', 'specialSchools' ],
+  props: [ 'position', 'primarySchools', 'secondarySchools', 'combinedSchools', 'specialSchools', 'showPrimary', 'showSecondary', 'showCombined', 'showSpecial' ],
 
   methods: {
     createMap() {
@@ -240,9 +240,20 @@ export default {
       }
       map.addLayer( createGeoJSON( newList, 'special-schools', markerColor.Special) );
     },
+    showPrimary: function( newVal, oldVal ){
+      map.setLayoutProperty('primary-schools', 'visibility', newVal ? 'visible' : 'none');
+    },
+    showSecondary: function( newVal, oldVal ){
+      map.setLayoutProperty('secondary-schools', 'visibility', newVal ? 'visible' : 'none');
+    },
+    showCombined: function( newVal, oldVal ){
+      map.setLayoutProperty('combined-schools', 'visibility', newVal ? 'visible' : 'none');
+    },
+    showSpecial: function( newVal, oldVal ){
+      map.setLayoutProperty('special-schools', 'visibility', newVal ? 'visible' : 'none');
+    },
   }
 }
-
 </script>
 
 <style scoped lang='scss'>

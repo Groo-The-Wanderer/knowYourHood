@@ -1,12 +1,12 @@
 <template>
   <div class="dashboard" :style="gridTemplate">
-    <Map position="a1:b2" @mapLocationSet="updateLocation" :primarySchools="primarySchools" :secondarySchools="secondarySchools" :combinedSchools="combinedSchools" :specialSchools="specialSchools"></Map>
+    <Map position="a1:b2" @mapLocationSet="updateLocation" :primarySchools="primarySchools" :secondarySchools="secondarySchools" :combinedSchools="combinedSchools" :specialSchools="specialSchools" :showPrimary="showPrimary" :showSecondary="showSecondary" :showCombined="showCombined" :showSpecial="showSpecial"></Map>
     <Postcode position="c1" :location="location" :area="area" title="Postcode"></Postcode>
     <Snapshot position="d1:e1" title="Suburb Snapshot" :snapshot="snapshot"></Snapshot>
     <Dwellings position="c2" title="Dwellings" :dwellings="dwellings"></Dwellings>
     <Families position="d2" title="Family Makeup" :families="families"></Families>
     <Homeownership position="e2" title="Home Ownership" :homeownership="homeownership"></Homeownership>
-    <Schools position="a3:b3" title="Schools Nearby" @schoolsListSet="updateSchoolsLists" :location="location"></Schools>
+    <Schools position="a3:b3" title="Schools Nearby" @toggleSchools="toggleSchools" @schoolsListSet="updateSchoolsLists" :location="location"></Schools>
   </div>
 </template>
 
@@ -50,6 +50,10 @@ export default {
       secondarySchools: null,
       combinedSchools: null,
       specialSchools: null,
+      showPrimary: true,
+      showSecondary: true,
+      showCombined: true,
+      showSpecial: true,
     }
   },
 
@@ -69,6 +73,13 @@ export default {
 
       // Retrieve the suburb data
       this.getSuburbData( location.hood );
+    },
+
+    toggleSchools( schoolsToggleList ){
+      this.showPrimary = schoolsToggleList[0];
+      this.showSecondary = schoolsToggleList[1];
+      this.showCombined = schoolsToggleList[2];
+      this.showSpecial = schoolsToggleList[3];
     },
 
     updateSchoolsLists( schoolsLists ){
