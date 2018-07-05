@@ -10,6 +10,7 @@
 import Tile from './common/Tile';
 import Mapbox from 'mapbox-gl';
 import axios from 'axios';
+import { createGeoJSON } from '../utilities/utilities';
 
 const config = require('../config/app.config.js').default;
 
@@ -50,7 +51,7 @@ export default {
   methods: {
     createMap() {
       map = new Mapbox.Map(defaultOptions);
-      this.map = map;
+      // this.map = map;
 
       map.on('load', () => {
         map.addSource('searched-point', {
@@ -187,13 +188,13 @@ export default {
     addSchoolsToMap( schoolsList ){
       if ( schoolsList ){
         schoolsList.forEach( school => {
-          new Mapbox.Marker({
+          const marker = new Mapbox.Marker({
             color: markerColor[school.school_type] 
             })
             .setLngLat([school.lng, school.lat])
             .setPopup(new Mapbox.Popup()
-            .setHTML('<h3>' + school.name + '</h3><p>' + school.sector + ', ' + school.school_type + '</p>'))
-            .addTo(map)
+            .setHTML('<h3>' + school.name + '</h3><p>' + school.sector + ', ' + school.school_type + '</p>'));
+            // .addTo(map);
         })
       }
     }, // end addSchoolsToMap()
@@ -201,9 +202,9 @@ export default {
     removeSchoolsFromMap( schoolsList ){
       if( schoolsList ){
           schoolsList.forEach( school => {
-          new Mapbox.Marker()
+          marker = new Mapbox.Marker()
             .setLngLat([school.lng, school.lat])
-            .remove()
+            .addTo(map);
         })
 
       }
@@ -211,19 +212,34 @@ export default {
   }, // Method definition
 
   watch: {
-    primarySchools: function(){
-      this.addSchoolsToMap( this.primarySchools );
+    primarySchools: function( newList, oldList ){
+      if( map.getLayer('primary-schools') ){
+        map.removeLayer( 'primary-schools' );
+        map.removeSource( 'primary-schools' );
+      }
+      map.addLayer( createGeoJSON( newList, 'primary-schools', markerColor.Primary) );
     },
-    secondarySchools: function(){
-      this.addSchoolsToMap( this.secondarySchools );
+    secondarySchools: function( newList, oldList ){
+      if( map.getLayer('secondary-schools') ){
+        map.removeLayer( 'secondary-schools' );
+        map.removeSource( 'secondary-schools' );
+      }
+      map.addLayer( createGeoJSON( newList, 'secondary-schools', markerColor.Secondary) );
     },
-    combinedSchools: function(){
-      this.addSchoolsToMap( this.combinedSchools );
+    combinedSchools: function( newList, oldList ){
+      if( map.getLayer('combined-schools') ){
+        map.removeLayer( 'combined-schools' );
+        map.removeSource( 'combined-schools' );
+      }
+      map.addLayer( createGeoJSON( newList, 'combined-schools', markerColor.Combined) );
     },
-    specialSchools: function(){
-      this.addSchoolsToMap( this.specialSchools );
+    specialSchools: function( newList, oldList ){
+      if( map.getLayer('special-schools') ){
+        map.removeLayer( 'special-schools' );
+        map.removeSource( 'special-schools' );
+      }
+      map.addLayer( createGeoJSON( newList, 'special-schools', markerColor.Special) );
     },
-
   }
 }
 

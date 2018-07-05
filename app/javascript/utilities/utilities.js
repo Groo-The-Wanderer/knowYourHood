@@ -110,7 +110,7 @@ function indexInAlphabet(character) {
     return index < 1 ? 1 : index;
 }
 
-export function createGeoJSON( inputLocations ) {
+export function createGeoJSON( inputLocations, geoJSONid, markerColor ) {
     // inputLocations argument expected as an array of objects
     // [{name: <...>, lat: <lat>, lng: <longitude>}, ... ]
     // If no data is passed it will return an empty GeoJSON object
@@ -118,7 +118,7 @@ export function createGeoJSON( inputLocations ) {
     // Create empty GeoJSON return object
     let outputGeoJSON = 
     {
-        "id": "places",
+        "id": geoJSONid,
         "type": "symbol",
         "source": {
           "type": "geojson",
@@ -127,10 +127,11 @@ export function createGeoJSON( inputLocations ) {
             "features": []
           }
         }, // end source
-        "layout": {
-          "icon-image": "{icon}-11",
-          "icon-allow-overlap": true
-        } // end layout
+        "type": "circle",
+        "paint": {
+          "circle-radius": 7,
+          "circle-color": markerColor
+        }
     } // end let outputGeoJSON
   
     // Loop over each input argument passed as an argument and add to geoJSON
