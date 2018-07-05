@@ -5,6 +5,10 @@ export default {
   },
   hoodCenterMarkerColor: '#44c54c',
   searchedMarkerColor: '#007cbf',
+  primarySchoolMarkerColor: '#0276fd',
+  secondarySchoolMarkerColor: '#ffd300',
+  combinedSchoolMarkerColor: '#6f2da8',
+  specialSchoolMarkerColor: '#fc6600',
   localDataURL: 'http://localhost:3000',
   mapboxGeocodeURL: 'https://api.mapbox.com/geocoding/v5/mapbox.places'
 }

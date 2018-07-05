@@ -9,7 +9,10 @@ class SchoolLocationController < ApplicationController
     render({
       json: schools_nearby,
       status: :ok,
-      except: [ :created_at, :updated_at ]
+      except: [ :id, :created_at, :updated_at ],
+      include: {
+        school_profile: { except: [ :id, :school_id, :name, :suburb, :postcode, :state, :sector, :school_type, :created_at, :updated_at ] }
+      }
     })
   end
 end

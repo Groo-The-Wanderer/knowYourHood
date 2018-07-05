@@ -16,14 +16,23 @@ const config = require('../config/app.config.js').default;
 const defaultLatLng = {
   lat: -33.8688197,
   lng: 151.20929550000005
-}
+};
 
 const defaultOptions = {
   container: 'map',
   style: config.mapStyles.default,
   center: [defaultLatLng.lng, defaultLatLng.lat],
   zoom: 9
-}
+};
+
+const markerColor = {
+  Primary: config.primarySchoolMarkerColor,
+  Secondary: config.secondarySchoolMarkerColor,
+  Combined: config.combinedSchoolMarkerColor,
+  Special: config.specialSchoolMarkerColor
+};
+
+let map = null;
 
 Mapbox.accessToken = config.mapboxToken;
 
@@ -36,12 +45,13 @@ export default {
     this.createMap();
   },
 
-  props: ['position'],
+  props: [ 'position', 'primarySchools', 'secondarySchools', 'combinedSchools', 'specialSchools' ],
 
   methods: {
     createMap() {
-      let map;
       map = new Mapbox.Map(defaultOptions);
+      this.map = map;
+      window.mapboxMap = map;
 
       map.on('load', () => {
         map.addSource('searched-point', {
@@ -173,7 +183,37 @@ export default {
           this.$emit('mapLocationSet', locationObj);
         });
       });
-    }
+    }, // end createMap()
+        
+    addSchoolsToMap( schoolsList ){
+      if ( schoolsList ){
+        schoolsList.forEach( school => {
+          new Mapbox.Marker({
+            color: markerColor[school.school_type] 
+            })
+            .setLngLat([school.lng, school.lat])
+            .setPopup(new Mapbox.Popup()
+            .setHTML('<h3>' + school.name + '</h3><p>' + school.sector + ', ' + school.school_type + '</p>'))
+            .addTo(map)
+        })
+      }
+    } // end addSchoolsToMap()
+  }, // Method definition
+
+  watch: {
+    primarySchools: function(){
+      this.addSchoolsToMap( this.primarySchools );
+    },
+    secondarySchools: function(){
+      this.addSchoolsToMap( this.secondarySchools );
+    },
+    combinedSchools: function(){
+      this.addSchoolsToMap( this.combinedSchools );
+    },
+    specialSchools: function(){
+      this.addSchoolsToMap( this.specialSchools );
+    },
+
   }
 }
 

@@ -1,12 +1,12 @@
 <template>
   <div class="dashboard" :style="gridTemplate">
-    <Map position="a1:b2" @mapLocationSet="updateLocation"></Map>
+    <Map position="a1:b2" @mapLocationSet="updateLocation" :primarySchools="primarySchools" :secondarySchools="secondarySchools" :combinedSchools="combinedSchools" :specialSchools="specialSchools"></Map>
     <Postcode position="c1" :location="location" :area="area" title="Postcode"></Postcode>
     <Snapshot position="d1:e1" title="Suburb Snapshot" :snapshot="snapshot"></Snapshot>
     <Dwellings position="c2" title="Dwellings" :dwellings="dwellings"></Dwellings>
     <Families position="d2" title="Family Makeup" :families="families"></Families>
     <Homeownership position="e2" title="Home Ownership" :homeownership="homeownership"></Homeownership>
-    <Schools position="a3" title="Schools" :map-bounds="map_bounds"></Schools>
+    <Schools position="a3:b3" title="Schools Nearby" @schoolsListSet="updateSchoolsLists" :location="location"></Schools>
   </div>
 </template>
 
@@ -37,6 +37,7 @@ export default {
 
   data(){
     return {
+      map: null,
       location: null,
       area: null,
       snapshot: null,
@@ -45,6 +46,10 @@ export default {
       homeownership: null,
       suburb_data: null,
       map_bounds: null,
+      primarySchools: null,
+      secondarySchools: null,
+      combinedSchools: null,
+      specialSchools: null,
     }
   },
 
@@ -62,8 +67,15 @@ export default {
       this.location = location;
       this.map_bounds = location.mapBounds;
 
-      // Retrieve 
+      // Retrieve the suburb data
       this.getSuburbData( location.hood );
+    },
+
+    updateSchoolsLists( schoolsLists ){
+      this.primarySchools = schoolsLists[0];
+      this.secondarySchools = schoolsLists[1];
+      this.combinedSchools = schoolsLists[2];
+      this.specialSchools = schoolsLists[3];
     },
 
     getSuburbData( suburb ){

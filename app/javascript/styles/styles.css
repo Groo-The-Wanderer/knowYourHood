@@ -5,6 +5,7 @@
 @import './dwellings.css';
 @import './families.css';
 @import './homeownership.css';
+@import './schools.css';
 
 * {
   position: relative;
@@ -71,10 +72,10 @@ li {
 
 .tile {
   overflow: hidden;
-  /* padding: var(--grid-padding); */
+  padding: var(--grid-padding);
   border-radius: 0.25vw;
   background-color: var(--tile-background-color);
-  color: white;
+  color: var(--blue-darker);
   text-shadow: 1px 1px 1px var(--tile-background-color);
   border-top: 3px solid #d2d6de;
 }
@@ -154,4 +155,21 @@ button.geocoder-icon.geocoder-icon-close {
 
 span.geocoder-icon.geocoder-icon-loading {
   top: -30px !important;
+}
+
+
+.mapboxgl-popup {
+  max-width: 200px;
+}
+
+.mapboxgl-popup-content {
+  text-align: center;
+  color: darkblue;
+  size: 6px;
+  font-family: 'Open Sans', sans-serif;
+  cursor: pointer !important;
+}
+
+.mapboxgl-marker {
+  cursor: pointer !important;
 }

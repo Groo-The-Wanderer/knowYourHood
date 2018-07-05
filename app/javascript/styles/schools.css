@@ -1,0 +1,61 @@
+.schools__table {
+  margin:10px;
+  width:95%;
+  color: var(--blue-darker);
+  font-size: var(--font-size-xs);
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.schools__table > tr {
+  line-height: 1.3rem;
+  border-bottom: 1px solid #f4f4f4;
+}
+
+.schools__table > th {
+  border-bottom: 2px solid #f4f4f4;
+}
+
+.schools__table > tr > td > li {
+  list-style-type: circle;
+  margin-left: 12px;
+  padding-left: 5px;
+}
+
+.schools__sub_row {
+  font-size: var(--font-size-xxs);
+}
+
+.schools {
+  overflow-y: scroll;
+}
+
+.schools__type_content {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.schools__type_content_subheader {
+  margin-top: 5px;
+  font-size: var(--font-size-xs);
+}
+
+.schools__type_primary {
+  color: #0276fd;
+}
+
+.schools__type_secondary {
+  color: #ffd300;
+}
+
+.schools__type_combined {
+  color: #6f2da8;
+}
+
+.schools__type_special {
+  color: #fc6600;
+}
+
+.schools__desc {
+  font-size: var(--font-size-xxs);
+}
