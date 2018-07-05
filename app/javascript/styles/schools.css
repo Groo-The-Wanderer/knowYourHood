@@ -92,3 +92,32 @@ a.schools__link:active {
 a.schools__link:hover {
   text-decoration: underline;
 }
+
+.schools__show_block {
+  margin-left: 10px;
+}
+
+.schools__show_label {
+  margin-left:2px;
+  font-size: var(--font-size-tiny);
+}
+
+a.schools__show_link {
+  cursor: pointer;
+}
+
+a.schools__show_link:link {
+  text-decoration: none;
+}
+
+a.schools__show_link:visited {
+  text-decoration: none;
+}
+
+a.schools__show_link:active {
+  text-decoration: none;
+}
+
+a.schools__show_link:hover {
+  text-decoration: underline;
+}

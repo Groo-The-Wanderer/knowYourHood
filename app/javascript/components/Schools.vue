@@ -1,7 +1,14 @@
 <template>
   <tile :position="position" modifiers="overflow" :title="this.title">
     <section class="schools">
-      <div class="tile--header">{{ this.title }}</div>
+      <div class="tile--header">{{ this.title }}
+        <span class="schools__show_block">
+          <span class="schools__show_label">Primary [<a class="schools__show_link" @click="toggleView('Primary')">{{ show_primary ? 'Hide' : 'Show' }}</a>]</span>
+          <span class="schools__show_label">Secondary [<a class="schools__show_link" @click="toggleView('Secondary')">{{ show_secondary ? 'Hide' : 'Show' }}</a>]</span>
+          <span class="schools__show_label">Combined [<a class="schools__show_link" @click="toggleView('Combined')">{{ show_combined ? 'Hide' : 'Show' }}</a>]</span>
+          <span class="schools__show_label">Special [<a class="schools__show_link" @click="toggleView('Special')">{{ show_special ? 'Hide' : 'Show' }}</a>]</span>
+        </span>
+      </div>
       <div class="schools__content">
         <div class="schools__type_content">
           <div v-if="show_primary">
@@ -66,6 +73,25 @@ export default {
   },
 
   methods: {
+    toggleView( type ){
+      switch( type ){
+        case 'Primary':
+          this.show_primary = !this.show_primary;
+          break;
+        case 'Secondary':
+          this.show_secondary = !this.show_secondary;
+          break;
+        case 'Combined':
+          this.show_combined = !this.show_combined;
+          break;
+        case 'Special':
+          this.show_special = !this.show_special;
+          break;
+        default:
+          break;
+      }
+    },
+
     formatted( inputNumber ){
       return formatNumber( inputNumber );
     },
