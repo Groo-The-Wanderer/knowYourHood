@@ -164,7 +164,7 @@ span.geocoder-icon.geocoder-icon-loading {
 
 .mapboxgl-popup-content {
   text-align: center;
-  color: darkblue;
+  color: black;
   size: 6px;
   font-family: 'Open Sans', sans-serif;
   cursor: pointer !important;

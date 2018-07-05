@@ -33,6 +33,12 @@ const markerColor = {
   Special: config.specialSchoolMarkerColor
 };
 
+const popup = new Mapbox.Popup({
+  closeButton: false,
+  closeOnClick: false,
+  offset: 0
+});
+
 let map = null;
 
 Mapbox.accessToken = config.mapboxToken;
@@ -101,6 +107,38 @@ export default {
 
       // Add zoom and rotation controls
       map.addControl(new Mapbox.NavigationControl());
+
+      map.on('mouseenter', 'primary-schools', (event) => {
+        this.showSchoolsPopup( event );
+      });
+
+      map.on('mouseenter', 'secondary-schools', (event) => {
+        this.showSchoolsPopup( event );
+      });
+
+      map.on('mouseenter', 'combined-schools', (event) => {
+        this.showSchoolsPopup( event );
+      });
+
+      map.on('mouseenter', 'special-schools', (event) => {
+        this.showSchoolsPopup( event );
+      });
+
+      map.on('mouseleave', 'secondary-schools', () => {
+        this.hideSchoolsPopup( popup );
+      });
+
+      map.on('mouseleave', 'primary-schools', () => {
+        this.hideSchoolsPopup( popup );
+      });
+
+      map.on('mouseleave', 'combined-schools', () => {
+        this.hideSchoolsPopup( popup );
+      });
+
+      map.on('mouseleave', 'special-schools', () => {
+        this.hideSchoolsPopup( popup );
+      });
 
       // Callback to send the geocoded result to the parent
       geocoder.on('result', e => {
@@ -184,31 +222,33 @@ export default {
         });
       });
     }, // end createMap()
-        
-    addSchoolsToMap( schoolsList ){
-      if ( schoolsList ){
-        schoolsList.forEach( school => {
-          const marker = new Mapbox.Marker({
-            color: markerColor[school.school_type] 
-            })
-            .setLngLat([school.lng, school.lat])
-            .setPopup(new Mapbox.Popup()
-            .setHTML('<h3>' + school.name + '</h3><p>' + school.sector + ', ' + school.school_type + '</p>'));
-            // .addTo(map);
-        })
-      }
-    }, // end addSchoolsToMap()
+    
+    showSchoolsPopup( event ) {
+      // Change the cursor style as a UI indicator.
+      map.getCanvas().style.cursor = 'pointer';
+      const coordinates = event.features[0].geometry.coordinates.slice();
+      const description = event.features[0].properties.description;
+      const sector = event.features[0].properties.sector;
+      const school_type = event.features[0].properties.school_type;
 
-    removeSchoolsFromMap( schoolsList ){
-      if( schoolsList ){
-          schoolsList.forEach( school => {
-          marker = new Mapbox.Marker()
-            .setLngLat([school.lng, school.lat])
-            .addTo(map);
-        })
-
+      // Ensure that if the map is zoomed out such that multiple
+      // copies of the feature are visible, the popup appears
+      // over the copy being pointed to.
+      while (Math.abs(event.lngLat.lng - coordinates[0]) > 180) {
+        coordinates[0] += event.lngLat.lng > coordinates[0] ? 360 : -360;
       }
-    }
+
+      // Populate the popup and set its coordinates
+      // based on the feature found.
+      popup.setLngLat(coordinates)
+        .setHTML('<p>' + description + '</p><p>' + sector + ' ' + school_type + '<p>')
+        .addTo(map);
+    },
+
+    hideSchoolsPopup( popup ){
+      map.getCanvas().style.cursor = '';
+      popup.remove();
+    },
   }, // Method definition
 
   watch: {

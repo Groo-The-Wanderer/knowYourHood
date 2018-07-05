@@ -141,6 +141,8 @@ export function createGeoJSON( inputLocations, geoJSONid, markerColor ) {
             "type": "Feature",
             "properties": {
               "description": `${ loc.name }`,
+              "sector": `${ loc.sector }`,
+              "school_type": `${ loc.school_type }`,
               "icon": "circle"
             },
             "geometry": {
