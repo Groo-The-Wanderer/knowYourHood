@@ -1,3 +1,3 @@
 class Homeownership < ApplicationRecord
-  belongs_to :suburb
+  belongs_to :suburb, optional: true
 end
