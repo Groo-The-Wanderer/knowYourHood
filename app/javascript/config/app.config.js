@@ -9,6 +9,7 @@ export default {
   secondarySchoolMarkerColor: '#31e331',
   combinedSchoolMarkerColor: '#6f2da8',
   specialSchoolMarkerColor: '#fc6600',
-  localDataURL: 'http://localhost:3000',
+  // localDataURL: 'http://localhost:3000',
+  localDataURL: 'http://https://know-your-hood.herokuapp.com',
   mapboxGeocodeURL: 'https://api.mapbox.com/geocoding/v5/mapbox.places'
 }
