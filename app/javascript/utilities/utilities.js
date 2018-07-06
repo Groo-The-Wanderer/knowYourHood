@@ -46,7 +46,7 @@ export function formatSecondsAsTime(inputSeconds){
         minutes++;
     }
 
-    return `${ hours === 0 ? '' : hours + 'h'} ${ minutes === 0 ? '' : minutes + 'm'}`
+    return `${ hours === 0 ? '' : hours + 'h'} ${ minutes === 0 ? '' : minutes + 'mins'}`
 }
 
 export function formatDuration(start) {
