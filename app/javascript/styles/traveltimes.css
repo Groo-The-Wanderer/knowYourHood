@@ -1,0 +1,27 @@
+.traveltimes__table {
+  margin:10px;
+  width:95%;
+  color: var(--blue-darker);
+  font-size: var(--font-size-xs);
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.traveltimes__table > tr {
+  line-height: 1.3rem;
+  border-bottom: 1px solid #f4f4f4;
+}
+
+.traveltimes__table > th {
+  border-bottom: 2px solid #f4f4f4;
+}
+
+.traveltimes__table > tr > td > li {
+  list-style-type: circle;
+  margin-left: 12px;
+  padding-left: 5px;
+}
+
+.traveltimes__sub_row {
+  font-size: var(--font-size-xxs);
+}

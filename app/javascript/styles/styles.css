@@ -6,6 +6,7 @@
 @import './families.css';
 @import './homeownership.css';
 @import './schools.css';
+@import './traveltimes.css';
 
 * {
   position: relative;

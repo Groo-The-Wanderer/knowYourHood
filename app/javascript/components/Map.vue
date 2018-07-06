@@ -149,9 +149,10 @@ export default {
         let hood = '';
         let city = '';
         let state = '';
-        let center = [];
-        let lat = null;
         let lng = null;
+        let lat = null;
+        let center = [];
+        let place_name = '';
         let hoodCenter = [];
         let hoodLat = null;
         let hoodLng = null;
@@ -161,6 +162,7 @@ export default {
           lng = result.center[0];
           lat = result.center[1];
           center = [ lng, lat ];
+          place_name = result.place_name;
 
           // Code below will display a point on the searched location
           // Drop the circle onto the map
@@ -210,6 +212,7 @@ export default {
             center: center,
             lng: lng,
             lat: lat,
+            searched_for: place_name,
             hood: hood,
             hoodCenter: hoodCenter,
             hoodLng: hoodLng,

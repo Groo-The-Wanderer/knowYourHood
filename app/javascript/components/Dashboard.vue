@@ -6,7 +6,8 @@
     <Dwellings position="c2" title="Dwellings" :dwellings="dwellings"></Dwellings>
     <Families position="d2" title="Family Makeup" :families="families"></Families>
     <Homeownership position="e2" title="Home Ownership" :homeownership="homeownership"></Homeownership>
-    <Schools position="a3:b3" title="Schools Nearby" @toggleSchools="toggleSchools" @schoolsListSet="updateSchoolsLists" :location="location"></Schools>
+    <Schools position="a3:c3" title="Schools Nearby" @toggleSchools="toggleSchools" @schoolsListSet="updateSchoolsLists" :location="location"></Schools>
+    <Traveltimes position="d3:e3" title="Travel Times from" :location="location"></Traveltimes>
   </div>
 </template>
 
@@ -19,6 +20,7 @@ import Dwellings from './Dwellings';
 import Families from './Families';
 import Homeownership from './Homeownership';
 import Schools from './Schools';
+import Traveltimes from './Traveltimes';
 import axios from 'axios';
 
 const config = require('../config/app.config.js').default;
@@ -32,6 +34,7 @@ export default {
       Families,
       Homeownership,
       Schools,
+      Traveltimes,
       Test,
   },
 

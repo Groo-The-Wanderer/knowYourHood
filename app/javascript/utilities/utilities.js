@@ -1,4 +1,5 @@
 import moment from 'moment';
+import { ENGINE_METHOD_CIPHERS } from 'constants';
 
 export function formatNumber(value) {
     if (!value) {
@@ -8,11 +9,16 @@ export function formatNumber(value) {
     return value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
 }
 
-export function distanceAway( distanceInKm ){
-    if( distanceInKm < 1 ){
-        return `${ Math.round(distanceInKm * 1000) }m`;
-    } else if ( distanceInKm > 1 ){
-        return `${ distanceInKm.toFixed(1) }km`;
+export function distanceAway( distanceIn, unit='km' ){
+    let distance = distanceIn;
+    if( unit === 'm' ){
+        distance = distance * 0.001;
+    }
+
+    if( distance < 1 ){
+        return `${ Math.round(distance * 1000) }m`;
+    } else if ( distance > 1 ){
+        return `${ distance.toFixed(1) }km`;
     }
 }
 
@@ -24,6 +30,23 @@ export function addClassModifiers(base, modifiers = []) {
     modifiers = modifiers.map(modifier => `${base}--${modifier}`);
 
     return [base, ...modifiers];
+}
+
+export function formatSecondsAsTime(inputSeconds){
+    let secondInput = inputSeconds;
+    let hours = 0;
+    let minutes = 0;
+
+    while( ( secondInput - 3600) > -1 ){
+        secondInput-=3600;
+        hours++;
+    }
+    while( ( secondInput -60 ) > -1 ){
+        secondInput-=60;
+        minutes++;
+    }
+
+    return `${ hours === 0 ? '' : hours + 'h'} ${ minutes === 0 ? '' : minutes + 'm'}`
 }
 
 export function formatDuration(start) {

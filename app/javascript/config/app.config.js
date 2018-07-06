@@ -11,5 +11,10 @@ export default {
   specialSchoolMarkerColor: '#fc6600',
   // localDataURL: 'http://localhost:3000',
   localDataURL: 'https://know-your-hood.herokuapp.com',
-  mapboxGeocodeURL: 'https://api.mapbox.com/geocoding/v5/mapbox.places'
+  mapboxGeocodeURL: 'https://api.mapbox.com/geocoding/v5/mapbox.places',
+  mapboxDirectionsURL: 'https://api.mapbox.com/directions/v5/mapbox',
+  mapboxDirectionsDestinations: {
+    SydneyDomesticAirport: [151.17997660000003,-33.9329233],
+    SydneyInternationalAirport: [151.16557979999993,-33.9353852]
+  }
 }
