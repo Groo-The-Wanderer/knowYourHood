@@ -2,7 +2,7 @@
 
 _**know Your Hood**_ is a website that gives you information about any neighbourhood or suburb in New South Wales in Australia. Consider 'know Your Hood' as your neighbourhood dashboard.
 
-This site was built as a final project at the end of a 12-week web development course (see [WDi from General Assembly](https://generalassemb.ly/education/web-development-immersive?where=sydney))). It was built over 6 and a half days.
+This site was built as a final project at the end of a 12-week web development course (see [WDi from General Assembly](https://generalassemb.ly/education/web-development-immersive?where=sydney)). It was built over 6 and a half days.
 
 The site presents data from:
 * [The Australian Bureau of Statics](http://www.abs.gov.au/) - for statistical and demographic information
@@ -18,7 +18,9 @@ The site is available live via the following Heroku link:
 ## Site Features
 ![alt text](https://github.com/Groo-The-Wanderer/knowYourHood/blob/master/public/knowYourHood_screenshot.png "know Your Hood screenshot")
 
-* The screen is configured as a dashboard with tiles (or panels) that present different types of information. The entire screen comprises 12 tiles with some components taking up more than a single tile. For example, the map component takes up 4 tiles. The layout of the screen and use of tiles is configuration driven (see below).
+* The screen is configured as a dashboard with tiles (or panels) that present different types of information. The entire screen comprises 12 tiles with some components taking up more than a single tile. For example, the map component takes up 4 tiles. The layout of the screen and use of tiles is configuration driven:
+  ** (packs/application.js) calls Dashboard.vue passing the number of rows and columns. This drives the number of tiles or panels on the page
+  ** Each component is called from Dashboard.vue with a position property. The notation used is spreadsheet notation. Therefore, "a1" is the first row and first column, "a2" is the second row and first column, "c2" is the second row and third column, etc.
 * The top left of the screen is the map. There is a search screen on the map to search for any address in New South Wales. The map uses [Mapbox](https://www.mapbox.com/) and the address search utilises Mapbox's [geocoding API](https://www.mapbox.com/api-documentation/#introduction) 
 * As you enter an address autocompletion will try to make suggestions about what you are looking for. Select the desired address from the suggested items.
 * Once selected the site will determine the actual neighbourhood or suburb of the search. So if you search for a specific street address (such as your own home address) the suburb where your home is located will drive the rest of the information shown.
@@ -31,7 +33,7 @@ The site is available live via the following Heroku link:
   * Schools Nearby - information is from [ACARA My School](https://www.myschool.edu.au/) - the Australian Curriculum, Assessment and Reporting Authority
     * Schools are within a 2km radius of the searched location. So if you've searched for your own home then it's a 2km radius of your home.
     * Schools are highlighted on the map using various coloured dots based on the type of school.
-    * If you hover over a dot on the map a popup is displaye with the name and type of school.
+    * If you hover over a dot on the map a popup is displayed with the name and type of school.
     * If you click the show / hide links that appear in the title bar of the "Schools Nearby" tile the display list and the coloured dots on the map will show or hide accordingly.
     * For each school, the site derives whether it is boys only, girls only or co-ed using enrolments information.
     * The site also derives the teaching ratio of teachers to students from the enrolments and teaching information.
