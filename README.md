@@ -19,8 +19,8 @@ The site is available live via the following Heroku link:
 ![alt text](https://github.com/Groo-The-Wanderer/knowYourHood/blob/master/public/knowYourHood_screenshot.png "know Your Hood screenshot")
 
 * The screen is configured as a dashboard with tiles (or panels) that present different types of information. The entire screen comprises 12 tiles with some components taking up more than a single tile. For example, the map component takes up 4 tiles. The layout of the screen and use of tiles is configuration driven:
-  ** (packs/application.js) calls Dashboard.vue passing the number of rows and columns. This drives the number of tiles or panels on the page
-  ** Each component is called from Dashboard.vue with a position property. The notation used is spreadsheet notation. Therefore, "a1" is the first row and first column, "a2" is the second row and first column, "c2" is the second row and third column, etc.
+  * (packs/application.js) calls Dashboard.vue passing the number of rows and columns. This drives the number of tiles or panels on the page
+  * Each component is called from Dashboard.vue with a position property. The notation used is spreadsheet notation. Therefore, "a1" is the first row and first column, "a2" is the second row and first column, "c2" is the second row and third column, etc.
 * The top left of the screen is the map. There is a search screen on the map to search for any address in New South Wales. The map uses [Mapbox](https://www.mapbox.com/) and the address search utilises Mapbox's [geocoding API](https://www.mapbox.com/api-documentation/#introduction) 
 * As you enter an address autocompletion will try to make suggestions about what you are looking for. Select the desired address from the suggested items.
 * Once selected the site will determine the actual neighbourhood or suburb of the search. So if you search for a specific street address (such as your own home address) the suburb where your home is located will drive the rest of the information shown.
